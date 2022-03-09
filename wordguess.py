@@ -78,7 +78,7 @@ def find_best_guesses(master_wordlist: list, wordlist: list):
     # We will fill our reward string with
     # "-" for no match
     # "m" for a match in that location
-    # "W" for a a match to the letter, but in the wrong location
+    # "w" for a a match to the letter, but in the wrong location
     # The rules will be that exact matches take priority followed
     # by wrong location matches.  So for example if the word is 
     # "weeds" and the user guesses 
@@ -87,10 +87,8 @@ def find_best_guesses(master_wordlist: list, wordlist: list):
 
     E_H = {}
     best_guess = ""
-    best_entropy = 9.9E100
-    # If there are at most two possibilities, it's best to guess
-    # one of them
-    if len(wordlist) < 3: master_wordlist = wordlist
+    # Max entropy should be at the most log base 2 -- this is bigger
+    best_entropy = math.log(len(wordlist))
 
     counter = 0
     step = int(0.5 + len(master_wordlist) / 100.0)
@@ -113,20 +111,15 @@ def find_best_guesses(master_wordlist: list, wordlist: list):
                 reward_dict[reward_string] = 1
             else:
                 reward_dict[reward_string] += 1
-            #print(word, reward_string)
-        # print(reward_dict)
         E_H[guess] = expected_entropy(reward_dict)
         if E_H[guess] < best_entropy:
             best_guess = guess
             best_entropy = E_H[guess]
         elif E_H[guess] == best_entropy:
             if guess in wordlist: best_guess = guess
+    if print_results:print("")
     sorted_E_H = dict(sorted(E_H.items(), key=lambda x:x[1], reverse=False))
-    #best_guess=next(iter(sorted_E_H)) 
-    #print("\rFound guess",best_guess,file=sys.stderr)
-    #print("Best guess determined to be",best_guess)
     wordlists = assemble_wordlists(best_guess, wordlist)
-    #print("Assembed wordlists:", wordlists)
     return wordlists, sorted_E_H, best_guess
 
 def recursive_solver(
@@ -148,9 +141,15 @@ def recursive_solver(
                     find_best_guesses(master_wordlist,wordlists[j])
             print(current_depth*"   "+"best guess for "+j+\
                     "("+str(len(wordlists[j]))+"): ", end="")
-            top_items = dict(list(E_H.items())[:num_items])
+            if num_items == 1: 
+                # We have to take best guess here, otherwise we might list 
+                # a guess with equivalent entropy, but not in the solution set
+                top_items=[best_guess]
+            else:
+                top_items = dict(list(E_H.items())[:num_items])
+
             for k in top_items:
-                print(" "+k+"({:.2f}".format(E_H[k])+")",end="")
+                print(" "+k+"({:.3f}".format(E_H[k])+")",end="")
             print("")
             if not at_max_depth: 
                 recursive_solver(
@@ -161,6 +160,23 @@ def recursive_solver(
                         num_options = num_options,
                         min_wordlist_len = min_wordlist_len)
 
+def retrieve_guess_result(wordlist_dict_keys: list): 
+    guess_result = "" 
+    starting_result_loop = True 
+    while guess_result not in wordlist_dict_keys:
+        if not starting_result_loop:
+            print("Invalid result.  Valid results are:",
+                    wordlist_dict_keys)
+        guess_result = input(str(guess_count)+". Enter result: ")
+        starting_result_loop = False
+    return guess_result
+
+def retrieve_guess(master_wordlist: dict, best_guess:str, guess_count:int):
+    guess = "-"
+    while guess not in master_wordlist:
+        guess = input(str(guess_count)+". Enter word guess ("+best_guess+"): ")
+        if guess == "": guess = best_guess
+    return guess
 
 if __name__ == "__main__":
     #test_entropy()
@@ -178,6 +194,9 @@ if __name__ == "__main__":
             help="name of a file containing solutions wordlist", type=str)
     parser.add_argument("-d", "--depth", help="parameter for exhaustion: tree depth. Default=2", 
             type=int, default=2)
+    parser.add_argument("-u", "--uselist", 
+            help="Computer helps you play.  Use fixed first guess",
+            action="store_true")
     parser.add_argument("-n", "--options", 
             help="parameter for exhaustion: number of options to offer at bottom level. Default=5", 
             default=5, type=int)
@@ -189,38 +208,48 @@ if __name__ == "__main__":
             default=5, type=int)
     args = parser.parse_args()
 
+
     with open(args.wordlist_file, "r") as infile:
         original_wordlist = infile.read().splitlines()
 
     solutions_wordlist = args.solutions_wordlist
     if solutions_wordlist is None:
         solutions_wordlist = args.wordlist_file
+    master_wordlist = [x for x in original_wordlist if len(x) ==
+        args.word_length]
     with open(solutions_wordlist, "r") as infile:
         possible_solutions = infile.read().splitlines()
-
-    master_wordlist = [x for x in original_wordlist if len(x) ==
-            args.word_length]
     wordlists = {"start":possible_solutions}
 
-    if args.play:
-        wordlist_dict, E_H, best_guess = find_best_guesses(master_wordlist, possible_solutions)
-        #with open("foo", "w") as infile:
-            #json.dump(next_wordlists, infile, indent=2)
+    if args.play or args.uselist:
         guess_count = 1
-        guess_result = ""
         wordlist  = possible_solutions
+        if args.uselist:
+            with open("canned_first_option.json", "r") as infile:
+                config_dict = json.load(infile)
+            best_guess = config_dict["guess"]
+            wordlist_dict = config_dict["wordlist_dict"]
+            print(str(guess_count)+": "+best_guess)
+            guess_result = retrieve_guess_result(list(wordlist_dict.keys()))
+            wordlist = wordlist_dict[guess_result]
+            print(str(len(wordlist))+" possibilities remaining.")
+            if len(wordlist) < 21:
+                for i in wordlist: print(i)
+            guess_count += 1
+
+        wordlist_dict, E_H, best_guess = \
+                find_best_guesses(master_wordlist, wordlist)
+        guess_result = ""
         while guess_result != "m"*args.word_length:
-            guess = input(str(guess_count)+". Enter word guess ("+best_guess+"): ")
-            if guess == "": guess = best_guess
+            guess = retrieve_guess(master_wordlist, best_guess, guess_count)
+            #guess = input(str(guess_count)+". Enter word guess ("+best_guess+"): ")
+            #if guess == "": guess = best_guess
             wordlist_dict = assemble_wordlists(guess, wordlist)
-            guess_result = ""
-            starting_result_loop = True
-            while guess_result not in wordlist_dict.keys():
-                if not starting_result_loop:
-                    print("Invalid result.  Valid results are:",
-                            wordlist_dict.keys())
-                guess_result = input(str(guess_count)+". Enter result: ")
-                starting_result_loop = False
+            guess_result = retrieve_guess_result(list(wordlist_dict.keys()))
+            if guess_result == "m"*args.word_length:
+                print('Congratulations on finding "'+guess+'" in '\
+                        +str(guess_count)+' tries!')
+                break
             wordlist = wordlist_dict[guess_result]
             possibilities = len(wordlist_dict[guess_result])
             if possibilities == 1:
@@ -256,6 +285,6 @@ if __name__ == "__main__":
             for l in g_indices.keys() & secret_indices.keys(): 
                 reward_string = write_reward(reward_string, 
                         g_indices[l], secret_indices[l])
-            print(reward_string)
+            print("   "+reward_string)
             guess_count += 1
         print("The secret word was",secret_word)
