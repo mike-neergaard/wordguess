@@ -1,0 +1,8645 @@
+{
+  "start": {
+    "guess 1": "soare",
+    "-----": {
+      "guess 2": "clint",
+      "-----": {
+        "guess 3": "pudgy",
+        "-mm-m": {
+          "guess 4": "muddy",
+          "-mmmm": {
+            "Solution guess 5": "buddy"
+          },
+          "mmmmm": {
+            "Solution guess 5": "muddy"
+          }
+        },
+        "-m--m": {
+          "guess 4": "mummy",
+          "-m--m": {
+            "Solution guess 5": "fuzzy"
+          },
+          "mmmmm": {
+            "Solution guess 5": "mummy"
+          }
+        },
+        "mm--m": {
+          "guess 4": "puppy",
+          "mm--m": {
+            "Solution guess 5": "puffy"
+          },
+          "mmmmm": {
+            "Solution guess 5": "puppy"
+          }
+        },
+        "-m-mm": {
+          "Solution guess 4": "buggy"
+        },
+        "-mw-m": {
+          "Solution guess 4": "dummy"
+        },
+        "wmw-m": {
+          "Solution guess 4": "dumpy"
+        },
+        "-m-wm": {
+          "Solution guess 4": "gummy"
+        },
+        "wm-wm": {
+          "Solution guess 4": "guppy"
+        },
+        "wm---": {
+          "Solution guess 4": "humph"
+        },
+        "wm--m": {
+          "Solution guess 4": "jumpy"
+        },
+        "mmmmm": {
+          "Solution guess 4": "pudgy"
+        },
+        "m--wm": {
+          "Solution guess 4": "pygmy"
+        }
+      },
+      "-ww--": {
+        "guess 3": "dampy",
+        "----m": {
+          "guess 4": "fowth",
+          "-----": {
+            "Solution guess 5": "billy"
+          },
+          "m----": {
+            "Solution guess 5": "filly"
+          },
+          "----w": {
+            "Solution guess 5": "hilly"
+          },
+          "--w--": {
+            "Solution guess 5": "willy"
+          }
+        },
+        "--w-m": {
+          "guess 4": "milky",
+          "wmm-m": {
+            "Solution guess 5": "filmy"
+          },
+          "mmmmm": {
+            "Solution guess 5": "milky"
+          }
+        },
+        "m---m": {
+          "Solution guess 4": "dilly"
+        },
+        "m-m-m": {
+          "Solution guess 4": "dimly"
+        },
+        "w---w": {
+          "Solution guess 4": "idyll"
+        },
+        "--wwm": {
+          "Solution guess 4": "imply"
+        },
+        "w--w-": {
+          "Solution guess 4": "lipid"
+        },
+        "w----": {
+          "Solution guess 4": "livid"
+        },
+        "---w-": {
+          "Solution guess 4": "pupil"
+        },
+        "-----": {
+          "Solution guess 4": "vigil"
+        }
+      },
+      "--w--": {
+        "guess 3": "fudgy",
+        "----m": {
+          "guess 4": "wimpy",
+          "-m-mm": {
+            "Solution guess 5": "hippy"
+          },
+          "mmmmm": {
+            "Solution guess 5": "wimpy"
+          }
+        },
+        "--m-m": {
+          "Solution guess 4": "biddy"
+        },
+        "--w-m": {
+          "Solution guess 4": "dizzy"
+        },
+        "m---m": {
+          "Solution guess 4": "fizzy"
+        },
+        "--mwm": {
+          "Solution guess 4": "giddy"
+        },
+        "-mw--": {
+          "Solution guess 4": "humid"
+        },
+        "w---m": {
+          "Solution guess 4": "jiffy"
+        },
+        "---mm": {
+          "Solution guess 4": "piggy"
+        },
+        "--w--": {
+          "Solution guess 4": "vivid"
+        }
+      },
+      "--w-w": {
+        "guess 3": "witty",
+        "-mmmm": {
+          "guess 4": "aback",
+          "-w---": {
+            "Solution guess 5": "bitty"
+          },
+          "-----": {
+            "Solution guess 5": "ditty"
+          },
+          "----w": {
+            "Solution guess 5": "kitty"
+          }
+        },
+        "-m-m-": {
+          "Solution guess 4": "fifth"
+        },
+        "-m-mm": {
+          "Solution guess 4": "fifty"
+        },
+        "-mm-m": {
+          "Solution guess 4": "pithy"
+        },
+        "-mw--": {
+          "Solution guess 4": "timid"
+        },
+        "mm-m-": {
+          "Solution guess 4": "width"
+        },
+        "mmmmm": {
+          "Solution guess 4": "witty"
+        }
+      },
+      "-w---": {
+        "guess 3": "badly",
+        "---mm": {
+          "guess 4": "gully",
+          "-mmmm": {
+            "Solution guess 5": "fully"
+          },
+          "mmmmm": {
+            "Solution guess 5": "gully"
+          }
+        },
+        "---wm": {
+          "guess 4": "pulpy",
+          "-mwmm": {
+            "Solution guess 5": "lumpy"
+          },
+          "mmmmm": {
+            "Solution guess 5": "pulpy"
+          }
+        },
+        "m--wm": {
+          "Solution guess 4": "bulky"
+        },
+        "m--mm": {
+          "Solution guess 4": "bully"
+        },
+        "--wmm": {
+          "Solution guess 4": "dully"
+        },
+        "---ww": {
+          "Solution guess 4": "lymph"
+        }
+      },
+      "--ww-": {
+        "guess 3": "dampy",
+        "m---m": {
+          "Solution guess 4": "dingy"
+        },
+        "-----": {
+          "Solution guess 4": "fungi"
+        },
+        "----m": {
+          "Solution guess 4": "kinky"
+        },
+        "--w--": {
+          "Solution guess 4": "minim"
+        },
+        "---wm": {
+          "Solution guess 4": "pinky"
+        },
+        "w----": {
+          "Solution guess 4": "undid"
+        },
+        "---w-": {
+          "Solution guess 4": "unzip"
+        },
+        "w---m": {
+          "Solution guess 4": "windy"
+        }
+      },
+      "-m---": {
+        "guess 3": "plumb",
+        "-mm-w": {
+          "Solution guess 4": "bluff"
+        },
+        "-mm--": {
+          "Solution guess 4": "fluff"
+        },
+        "wm---": {
+          "Solution guess 4": "glyph"
+        },
+        "mmmmm": {
+          "Solution guess 4": "plumb"
+        },
+        "mmmm-": {
+          "Solution guess 4": "plump"
+        }
+      },
+      "--w-m": {
+        "guess 3": "aswim",
+        "---w-": {
+          "guess 4": "tight",
+          "-mmmm": {
+            "Solution guess 5": "fight"
+          },
+          "mmmmm": {
+            "Solution guess 5": "tight"
+          }
+        },
+        "---m-": {
+          "Solution guess 4": "digit"
+        },
+        "---ww": {
+          "Solution guess 4": "might"
+        },
+        "--ww-": {
+          "Solution guess 4": "wight"
+        }
+      },
+      "w-w-w": {
+        "guess 3": "howdy",
+        "w--w-": {
+          "Solution guess 4": "ditch"
+        },
+        "m----": {
+          "Solution guess 4": "hitch"
+        },
+        "w---m": {
+          "Solution guess 4": "itchy"
+        },
+        "w----": {
+          "Solution guess 4": "pitch"
+        },
+        "w-w--": {
+          "Solution guess 4": "witch"
+        }
+      },
+      "w--w-": {
+        "guess 3": "abamp",
+        "-w---": {
+          "Solution guess 4": "bunch"
+        },
+        "-----": {
+          "Solution guess 4": "hunch"
+        },
+        "---w-": {
+          "Solution guess 4": "munch"
+        },
+        "----w": {
+          "Solution guess 4": "punch"
+        }
+      },
+      "-mmm-": {
+        "guess 3": "blink",
+        "mmmm-": {
+          "Solution guess 4": "blind"
+        },
+        "mmmmm": {
+          "Solution guess 4": "blink"
+        },
+        "-mmm-": {
+          "Solution guess 4": "fling"
+        }
+      },
+      "-wm--": {
+        "guess 3": "guild",
+        "-mmmm": {
+          "Solution guess 4": "build"
+        },
+        "mmmmm": {
+          "Solution guess 4": "guild"
+        },
+        "-mmm-": {
+          "Solution guess 4": "quill"
+        }
+      },
+      "-wm-m": {
+        "guess 3": "badge",
+        "m----": {
+          "Solution guess 4": "built"
+        },
+        "---w-": {
+          "Solution guess 4": "guilt"
+        },
+        "-----": {
+          "Solution guess 4": "quilt"
+        }
+      },
+      "w---w": {
+        "guess 3": "aband",
+        "-w---": {
+          "Solution guess 4": "butch"
+        },
+        "----w": {
+          "Solution guess 4": "dutch"
+        },
+        "-----": {
+          "Solution guess 4": "hutch"
+        }
+      },
+      "mwm--": {
+        "guess 3": "aduki",
+        "-w--w": {
+          "Solution guess 4": "child"
+        },
+        "----m": {
+          "Solution guess 4": "chili"
+        },
+        "----w": {
+          "Solution guess 4": "chill"
+        }
+      },
+      "m-ww-": {
+        "guess 3": "cynic",
+        "m-mww": {
+          "Solution guess 4": "cinch"
+        },
+        "m-wm-": {
+          "Solution guess 4": "cumin"
+        },
+        "mmmmm": {
+          "Solution guess 4": "cynic"
+        }
+      },
+      "mmm--": {
+        "guess 3": "abaca",
+        "---m-": {
+          "Solution guess 4": "click"
+        },
+        "---w-": {
+          "Solution guess 4": "cliff"
+        },
+        "-w-w-": {
+          "Solution guess 4": "climb"
+        }
+      },
+      "--mm-": {
+        "guess 3": "vying",
+        "-mmmm": {
+          "Solution guess 4": "dying"
+        },
+        "mmmmm": {
+          "Solution guess 4": "vying"
+        },
+        "-wmm-": {
+          "Solution guess 4": "whiny"
+        }
+      },
+      "w-ww-": {
+        "guess 3": "awful",
+        "--w--": {
+          "Solution guess 4": "finch"
+        },
+        "-----": {
+          "Solution guess 4": "pinch"
+        },
+        "-w---": {
+          "Solution guess 4": "winch"
+        }
+      },
+      "-m-m-": {
+        "guess 3": "plunk",
+        "-mmm-": {
+          "Solution guess 4": "flung"
+        },
+        "-mmmm": {
+          "Solution guess 4": "flunk"
+        },
+        "mmmmm": {
+          "Solution guess 4": "plunk"
+        }
+      },
+      "---w-": {
+        "guess 3": "nymph",
+        "ww---": {
+          "Solution guess 4": "funky"
+        },
+        "ww--w": {
+          "Solution guess 4": "hunky"
+        },
+        "mmmmm": {
+          "Solution guess 4": "nymph"
+        }
+      },
+      "ww---": {
+        "guess 3": "mulch",
+        "-mmmm": {
+          "Solution guess 4": "gulch"
+        },
+        "-mww-": {
+          "Solution guess 4": "lucky"
+        },
+        "mmmmm": {
+          "Solution guess 4": "mulch"
+        }
+      },
+      "--wwm": {
+        "guess 3": "unfit",
+        "wm-wm": {
+          "Solution guess 4": "input"
+        },
+        "-w-wm": {
+          "Solution guess 4": "night"
+        },
+        "mmmmm": {
+          "Solution guess 4": "unfit"
+        }
+      },
+      "w-m--": {
+        "guess 3": "quick",
+        "-mmm-": {
+          "Solution guess 4": "juicy"
+        },
+        "mmmmm": {
+          "Solution guess 4": "quick"
+        },
+        "--mm-": {
+          "Solution guess 4": "which"
+        }
+      },
+      "w-w--": {
+        "guess 3": "pubic",
+        "---mm": {
+          "Solution guess 4": "mimic"
+        },
+        "m--ww": {
+          "Solution guess 4": "picky"
+        },
+        "mmmmm": {
+          "Solution guess 4": "pubic"
+        }
+      },
+      "----w": {
+        "guess 3": "thump",
+        "w-w-w": {
+          "Solution guess 4": "putty"
+        },
+        "mmmm-": {
+          "Solution guess 4": "thumb"
+        },
+        "mmmmm": {
+          "Solution guess 4": "thump"
+        }
+      },
+      "--mmw": {
+        "guess 3": "tying",
+        "m-mmm": {
+          "Solution guess 4": "thing"
+        },
+        "m-mm-": {
+          "Solution guess 4": "think"
+        },
+        "mmmmm": {
+          "Solution guess 4": "tying"
+        }
+      },
+      "---m-": {
+        "guess 3": "funny",
+        "-mmmm": {
+          "Solution guess 4": "bunny"
+        },
+        "mmmmm": {
+          "Solution guess 4": "funny"
+        }
+      },
+      "m----": {
+        "guess 3": "chump",
+        "mmm--": {
+          "Solution guess 4": "chuck"
+        },
+        "mmmmm": {
+          "Solution guess 4": "chump"
+        }
+      },
+      "m-w--": {
+        "guess 3": "cubic",
+        "m--mm": {
+          "Solution guess 4": "civic"
+        },
+        "mmmmm": {
+          "Solution guess 4": "cubic"
+        }
+      },
+      "mmmm-": {
+        "guess 3": "clink",
+        "mmmm-": {
+          "Solution guess 4": "cling"
+        },
+        "mmmmm": {
+          "Solution guess 4": "clink"
+        }
+      },
+      "mm---": {
+        "guess 3": "clump",
+        "mmm--": {
+          "Solution guess 4": "cluck"
+        },
+        "mmmmm": {
+          "Solution guess 4": "clump"
+        }
+      },
+      "w----": {
+        "guess 3": "mucky",
+        "-mm-m": {
+          "Solution guess 4": "duchy"
+        },
+        "mmmmm": {
+          "Solution guess 4": "mucky"
+        }
+      },
+      "-ww-w": {
+        "guess 3": "tulip",
+        "w-mw-": {
+          "Solution guess 4": "filth"
+        },
+        "mmmmm": {
+          "Solution guess 4": "tulip"
+        }
+      },
+      "-mmmm": {
+        "guess 3": "glint",
+        "-mmmm": {
+          "Solution guess 4": "flint"
+        },
+        "mmmmm": {
+          "Solution guess 4": "glint"
+        }
+      },
+      "-ww-m": {
+        "guess 3": "limit",
+        "mm--m": {
+          "Solution guess 4": "light"
+        },
+        "mmmmm": {
+          "Solution guess 4": "limit"
+        }
+      },
+      "--www": {
+        "guess 3": "ninth",
+        "-mmm-": {
+          "Solution guess 4": "minty"
+        },
+        "mmmmm": {
+          "Solution guess 4": "ninth"
+        }
+      },
+      "-mm--": {
+        "Solution guess 3": "blimp"
+      },
+      "-mm-w": {
+        "Solution guess 3": "blitz"
+      },
+      "-m-mm": {
+        "Solution guess 3": "blunt"
+      },
+      "m-m--": {
+        "Solution guess 3": "chick"
+      },
+      "m--m-": {
+        "Solution guess 3": "chunk"
+      },
+      "mww--": {
+        "Solution guess 3": "civil"
+      },
+      "mm-m-": {
+        "Solution guess 3": "clung"
+      },
+      "wmm--": {
+        "Solution guess 3": "flick"
+      },
+      "-mw--": {
+        "Solution guess 3": "fluid"
+      },
+      "wwm--": {
+        "Solution guess 3": "icily"
+      },
+      "w-mm-": {
+        "Solution guess 3": "icing"
+      },
+      "www--": {
+        "Solution guess 3": "lucid"
+      },
+      "ww-w-": {
+        "Solution guess 3": "lunch"
+      },
+      "-wmm-": {
+        "Solution guess 3": "lying"
+      },
+      "--wm-": {
+        "Solution guess 3": "ninny"
+      },
+      "---ww": {
+        "Solution guess 3": "nutty"
+      },
+      "wm---": {
+        "Solution guess 3": "pluck"
+      },
+      "w-m-w": {
+        "Solution guess 3": "thick"
+      },
+      "--m-w": {
+        "Solution guess 3": "thigh"
+      },
+      "w-www": {
+        "Solution guess 3": "tunic"
+      },
+      "--m-m": {
+        "Solution guess 3": "twixt"
+      },
+      "w--wm": {
+        "Solution guess 3": "uncut"
+      },
+      "--mw-": {
+        "Solution guess 3": "unify"
+      },
+      "--mww": {
+        "Solution guess 3": "unity"
+      },
+      "-wwwm": {
+        "Solution guess 3": "unlit"
+      },
+      "-wwww": {
+        "Solution guess 3": "until"
+      },
+      "-www-": {
+        "Solution guess 3": "vinyl"
+      },
+      "--m--": {
+        "Solution guess 3": "whiff"
+      }
+    },
+    "--w--": {
+      "guess 2": "clint",
+      "-----": {
+        "guess 3": "midgy",
+        "--m-m": {
+          "guess 4": "paddy",
+          "-mmmm": {
+            "Solution guess 5": "daddy"
+          },
+          "mmmmm": {
+            "Solution guess 5": "paddy"
+          }
+        },
+        "----m": {
+          "guess 4": "jazzy",
+          "-m--m": {
+            "Solution guess 5": "happy"
+          },
+          "mmmmm": {
+            "Solution guess 5": "jazzy"
+          }
+        },
+        "---mm": {
+          "Solution guess 4": "baggy"
+        },
+        "--w-m": {
+          "Solution guess 4": "bawdy"
+        },
+        "w--w-": {
+          "Solution guess 4": "gamma"
+        },
+        "--wwm": {
+          "Solution guess 4": "gaudy"
+        },
+        "---wm": {
+          "Solution guess 4": "gawky"
+        },
+        "-----": {
+          "Solution guess 4": "kappa"
+        },
+        "----w": {
+          "Solution guess 4": "kayak"
+        },
+        "m-m--": {
+          "Solution guess 4": "madam"
+        },
+        "m--w-": {
+          "Solution guess 4": "magma"
+        },
+        "m----": {
+          "Solution guess 4": "mamma"
+        },
+        "m---m": {
+          "Solution guess 4": "mammy"
+        }
+      },
+      "-w---": {
+        "guess 3": "dampy",
+        "-wwwm": {
+          "Solution guess 4": "amply"
+        },
+        "-w-wm": {
+          "Solution guess 4": "apply"
+        },
+        "-w---": {
+          "Solution guess 4": "awful"
+        },
+        "wm--m": {
+          "Solution guess 4": "badly"
+        },
+        "-mw-m": {
+          "Solution guess 4": "balmy"
+        },
+        "-w--w": {
+          "Solution guess 4": "bylaw"
+        },
+        "mm--m": {
+          "Solution guess 4": "dally"
+        },
+        "-m--m": {
+          "Solution guess 4": "gayly"
+        },
+        "-m---": {
+          "Solution guess 4": "laugh"
+        },
+        "wmw-m": {
+          "Solution guess 4": "madly"
+        },
+        "-m-w-": {
+          "Solution guess 4": "papal"
+        }
+      },
+      "----w": {
+        "guess 3": "baffy",
+        "-m--m": {
+          "guess 4": "tatty",
+          "-mmmm": {
+            "Solution guess 5": "patty"
+          },
+          "mmmmm": {
+            "Solution guess 5": "tatty"
+          }
+        },
+        "mm--m": {
+          "Solution guess 4": "batty"
+        },
+        "-m---": {
+          "Solution guess 4": "datum"
+        },
+        "-mw-m": {
+          "Solution guess 4": "fatty"
+        },
+        "wm--m": {
+          "Solution guess 4": "tabby"
+        },
+        "-mmmm": {
+          "Solution guess 4": "taffy"
+        }
+      },
+      "--w--": {
+        "guess 3": "maxim",
+        "-wwm-": {
+          "Solution guess 4": "affix"
+        },
+        "-w-m-": {
+          "Solution guess 4": "aphid"
+        },
+        "mm-m-": {
+          "Solution guess 4": "mafia"
+        },
+        "mmmmm": {
+          "Solution guess 4": "maxim"
+        },
+        "-w-w-": {
+          "Solution guess 4": "pizza"
+        },
+        "-m-m-": {
+          "Solution guess 4": "vapid"
+        }
+      },
+      "w---w": {
+        "guess 3": "bumph",
+        "----m": {
+          "guess 4": "watch",
+          "-mmmm": {
+            "Solution guess 5": "hatch"
+          },
+          "mmmmm": {
+            "Solution guess 5": "watch"
+          }
+        },
+        "m---m": {
+          "Solution guess 4": "batch"
+        },
+        "--w-m": {
+          "Solution guess 4": "match"
+        },
+        "---wm": {
+          "Solution guess 4": "patch"
+        },
+        "-----": {
+          "Solution guess 4": "tacky"
+        }
+      },
+      "---w-": {
+        "guess 3": "handy",
+        "-mmmm": {
+          "Solution guess 4": "dandy"
+        },
+        "mmmmm": {
+          "Solution guess 4": "handy"
+        },
+        "mww--": {
+          "Solution guess 4": "human"
+        },
+        "-mm--": {
+          "Solution guess 4": "manga"
+        },
+        "-mm-m": {
+          "Solution guess 4": "mangy"
+        },
+        "-mw--": {
+          "Solution guess 4": "pagan"
+        }
+      },
+      "---mm": {
+        "guess 3": "dight",
+        "----m": {
+          "guess 4": "ajiva",
+          "ww---": {
+            "Solution guess 5": "jaunt"
+          },
+          "w----": {
+            "Solution guess 5": "taunt"
+          },
+          "w--w-": {
+            "Solution guess 5": "vaunt"
+          }
+        },
+        "m---m": {
+          "Solution guess 4": "daunt"
+        },
+        "--w-m": {
+          "Solution guess 4": "gaunt"
+        },
+        "---wm": {
+          "Solution guess 4": "haunt"
+        }
+      },
+      "-w-w-": {
+        "guess 3": "manly",
+        "-wmw-": {
+          "Solution guess 4": "annul"
+        },
+        "-mmw-": {
+          "Solution guess 4": "banal"
+        },
+        "-mmwm": {
+          "Solution guess 4": "lanky"
+        },
+        "mmmmm": {
+          "Solution guess 4": "manly"
+        },
+        "-mww-": {
+          "Solution guess 4": "naval"
+        }
+      },
+      "-w--w": {
+        "guess 3": "tally",
+        "ww-mm": {
+          "Solution guess 4": "aptly"
+        },
+        "wmw--": {
+          "Solution guess 4": "fatal"
+        },
+        "mmmmm": {
+          "Solution guess 4": "tally"
+        },
+        "mww--": {
+          "Solution guess 4": "tubal"
+        },
+        "wmm--": {
+          "Solution guess 4": "waltz"
+        }
+      },
+      "--ww-": {
+        "guess 3": "ninja",
+        "ww--w": {
+          "Solution guess 4": "admin"
+        },
+        "-wm-m": {
+          "Solution guess 4": "mania"
+        },
+        "mmmmm": {
+          "Solution guess 4": "ninja"
+        }
+      },
+      "--w-m": {
+        "guess 3": "audit",
+        "m-wmm": {
+          "Solution guess 4": "admit"
+        },
+        "mmmmm": {
+          "Solution guess 4": "audit"
+        },
+        "w--mm": {
+          "Solution guess 4": "habit"
+        }
+      },
+      "-w--m": {
+        "guess 3": "vault",
+        "-wmmm": {
+          "Solution guess 4": "adult"
+        },
+        "-mmmm": {
+          "Solution guess 4": "fault"
+        },
+        "mmmmm": {
+          "Solution guess 4": "vault"
+        }
+      },
+      "-m---": {
+        "guess 3": "alpha",
+        "mm---": {
+          "Solution guess 4": "album"
+        },
+        "mm--w": {
+          "Solution guess 4": "allay"
+        },
+        "mmmmm": {
+          "Solution guess 4": "alpha"
+        }
+      },
+      "-www-": {
+        "guess 3": "inlay",
+        "wmww-": {
+          "Solution guess 4": "anvil"
+        },
+        "wwwm-": {
+          "Solution guess 4": "final"
+        },
+        "mmmmm": {
+          "Solution guess 4": "inlay"
+        }
+      },
+      "---ww": {
+        "guess 3": "tangy",
+        "wwm-m": {
+          "Solution guess 4": "aunty"
+        },
+        "wwm--": {
+          "Solution guess 4": "junta"
+        },
+        "mmmmm": {
+          "Solution guess 4": "tangy"
+        }
+      },
+      "-wm--": {
+        "guess 3": "gaily",
+        "-wmw-": {
+          "Solution guess 4": "axial"
+        },
+        "-mmmm": {
+          "Solution guess 4": "daily"
+        },
+        "mmmmm": {
+          "Solution guess 4": "gaily"
+        }
+      },
+      "--mmm": {
+        "guess 3": "attap",
+        "ww---": {
+          "Solution guess 4": "faint"
+        },
+        "ww--w": {
+          "Solution guess 4": "paint"
+        },
+        "www--": {
+          "Solution guess 4": "taint"
+        }
+      },
+      "---m-": {
+        "guess 3": "nanny",
+        "-mmmm": {
+          "Solution guess 4": "fanny"
+        },
+        "-m-m-": {
+          "Solution guess 4": "fauna"
+        },
+        "mmmmm": {
+          "Solution guess 4": "nanny"
+        }
+      },
+      "--mm-": {
+        "guess 3": "aping",
+        "m-mmm": {
+          "Solution guess 4": "aging"
+        },
+        "mmmmm": {
+          "Solution guess 4": "aping"
+        }
+      },
+      "--m-w": {
+        "guess 3": "faith",
+        "-wmm-": {
+          "Solution guess 4": "amity"
+        },
+        "mmmmm": {
+          "Solution guess 4": "faith"
+        }
+      },
+      "mw---": {
+        "guess 3": "caulk",
+        "mm-w-": {
+          "Solution guess 4": "cabal"
+        },
+        "mmmmm": {
+          "Solution guess 4": "caulk"
+        }
+      },
+      "m----": {
+        "guess 3": "caddy",
+        "mm--m": {
+          "Solution guess 4": "cabby"
+        },
+        "mmmmm": {
+          "Solution guess 4": "caddy"
+        }
+      },
+      "m---w": {
+        "guess 3": "catty",
+        "mmm--": {
+          "Solution guess 4": "catch"
+        },
+        "mmmmm": {
+          "Solution guess 4": "catty"
+        }
+      },
+      "w----": {
+        "guess 3": "wacky",
+        "wmm--": {
+          "Solution guess 4": "macaw"
+        },
+        "mmmmm": {
+          "Solution guess 4": "wacky"
+        }
+      },
+      "w-ww-": {
+        "guess 3": "panic",
+        "-mmmm": {
+          "Solution guess 4": "manic"
+        },
+        "mmmmm": {
+          "Solution guess 4": "panic"
+        }
+      },
+      "-ww-w": {
+        "guess 3": "vital",
+        "-mwmm": {
+          "Solution guess 4": "tidal"
+        },
+        "mmmmm": {
+          "Solution guess 4": "vital"
+        }
+      },
+      "-ww--": {
+        "guess 3": "villa",
+        "mwm-w": {
+          "Solution guess 4": "valid"
+        },
+        "mmmmm": {
+          "Solution guess 4": "villa"
+        }
+      },
+      "-mm--": {
+        "Solution guess 3": "alibi"
+      },
+      "-mmw-": {
+        "Solution guess 3": "align"
+      },
+      "w-www": {
+        "Solution guess 3": "antic"
+      },
+      "w-w-w": {
+        "Solution guess 3": "attic"
+      },
+      "--mw-": {
+        "Solution guess 3": "avian"
+      },
+      "m-ww-": {
+        "Solution guess 3": "cabin"
+      },
+      "m-w-w": {
+        "Solution guess 3": "cacti"
+      },
+      "mw-w-": {
+        "Solution guess 3": "canal"
+      },
+      "m--w-": {
+        "Solution guess 3": "candy"
+      },
+      "m--m-": {
+        "Solution guess 3": "canny"
+      },
+      "m---m": {
+        "Solution guess 3": "caput"
+      },
+      "mww--": {
+        "Solution guess 3": "cavil"
+      },
+      "m-mm-": {
+        "Solution guess 3": "china"
+      },
+      "w--w-": {
+        "Solution guess 3": "fancy"
+      },
+      "----m": {
+        "Solution guess 3": "gamut"
+      },
+      "wmm--": {
+        "Solution guess 3": "iliac"
+      },
+      "ww--w": {
+        "Solution guess 3": "latch"
+      },
+      "www--": {
+        "Solution guess 3": "lilac"
+      },
+      "w-w--": {
+        "Solution guess 3": "magic"
+      },
+      "-w-ww": {
+        "Solution guess 3": "natal"
+      },
+      "w-w-m": {
+        "Solution guess 3": "tacit"
+      },
+      "---mw": {
+        "Solution guess 3": "tawny"
+      },
+      "--w-w": {
+        "Solution guess 3": "tibia"
+      },
+      "--www": {
+        "Solution guess 3": "titan"
+      },
+      "w---m": {
+        "Solution guess 3": "yacht"
+      }
+    },
+    "----w": {
+      "guess 2": "denet",
+      "-m---": {
+        "guess 3": "belch",
+        "mmmmm": {
+          "Solution guess 4": "belch"
+        },
+        "mmm--": {
+          "Solution guess 4": "belly"
+        },
+        "-mm-w": {
+          "Solution guess 4": "helix"
+        },
+        "-mm--": {
+          "Solution guess 4": "jelly"
+        },
+        "-mw--": {
+          "Solution guess 4": "leggy"
+        },
+        "-m--m": {
+          "Solution guess 4": "weigh"
+        },
+        "-mmmm": {
+          "Solution guess 4": "welch"
+        }
+      },
+      "-mw--": {
+        "guess 3": "neigh",
+        "wmww-": {
+          "Solution guess 4": "begin"
+        },
+        "wm-w-": {
+          "Solution guess 4": "begun"
+        },
+        "wmmw-": {
+          "Solution guess 4": "being"
+        },
+        "wmmm-": {
+          "Solution guess 4": "feign"
+        },
+        "mmmmm": {
+          "Solution guess 4": "neigh"
+        },
+        "mm---": {
+          "Solution guess 4": "newly"
+        }
+      },
+      "---m-": {
+        "guess 3": "pixel",
+        "wm-m-": {
+          "Solution guess 4": "bicep"
+        },
+        "-w-m-": {
+          "Solution guess 4": "chief"
+        },
+        "ww-mm": {
+          "Solution guess 4": "impel"
+        },
+        "-m-mm": {
+          "Solution guess 4": "libel"
+        },
+        "mmmmm": {
+          "Solution guess 4": "pixel"
+        }
+      },
+      "-w-m-": {
+        "guess 3": "expel",
+        "w-wmw": {
+          "Solution guess 4": "bleep"
+        },
+        "w--m-": {
+          "Solution guess 4": "cheek"
+        },
+        "mm-mm": {
+          "Solution guess 4": "excel"
+        },
+        "mmmmm": {
+          "Solution guess 4": "expel"
+        },
+        "w--mm": {
+          "Solution guess 4": "wheel"
+        }
+      },
+      "-w---": {
+        "guess 3": "whelp",
+        "-mm--": {
+          "Solution guess 4": "check"
+        },
+        "--w-m": {
+          "Solution guess 4": "equip"
+        },
+        "--mw-": {
+          "Solution guess 4": "fleck"
+        },
+        "--mm-": {
+          "Solution guess 4": "quell"
+        },
+        "mmmmm": {
+          "Solution guess 4": "whelp"
+        }
+      },
+      "-w--m": {
+        "guess 3": "evict",
+        "w--wm": {
+          "Solution guess 4": "cleft"
+        },
+        "m-w-m": {
+          "Solution guess 4": "eight"
+        },
+        "mmmmm": {
+          "Solution guess 4": "evict"
+        },
+        "m---m": {
+          "Solution guess 4": "exult"
+        },
+        "w---m": {
+          "Solution guess 4": "theft"
+        }
+      },
+      "-m--w": {
+        "guess 3": "aleph",
+        "--w-m": {
+          "Solution guess 4": "fetch"
+        },
+        "--w-w": {
+          "Solution guess 4": "hefty"
+        },
+        "--w--": {
+          "Solution guess 4": "jetty"
+        },
+        "-ww--": {
+          "Solution guess 4": "lefty"
+        },
+        "--ww-": {
+          "Solution guess 4": "petty"
+        }
+      },
+      "--wm-": {
+        "guess 3": "agila",
+        "-ww--": {
+          "Solution guess 4": "given"
+        },
+        "-----": {
+          "Solution guess 4": "hymen"
+        },
+        "--ww-": {
+          "Solution guess 4": "liken"
+        },
+        "---w-": {
+          "Solution guess 4": "lumen"
+        },
+        "--w--": {
+          "Solution guess 4": "vixen"
+        }
+      },
+      "-m-w-": {
+        "guess 3": "beefy",
+        "mmm--": {
+          "Solution guess 4": "beech"
+        },
+        "mmmmm": {
+          "Solution guess 4": "beefy"
+        },
+        "-mm-m": {
+          "Solution guess 4": "geeky"
+        },
+        "-mm--": {
+          "Solution guess 4": "leech"
+        }
+      },
+      "-m-m-": {
+        "guess 3": "bevel",
+        "mmmmm": {
+          "Solution guess 4": "bevel"
+        },
+        "mm-mm": {
+          "Solution guess 4": "bezel"
+        },
+        "-m-mm": {
+          "Solution guess 4": "jewel"
+        },
+        "-mmmm": {
+          "Solution guess 4": "level"
+        }
+      },
+      "ww---": {
+        "guess 3": "edify",
+        "mmmmm": {
+          "Solution guess 4": "edify"
+        },
+        "wwww-": {
+          "Solution guess 4": "field"
+        },
+        "www--": {
+          "Solution guess 4": "wield"
+        },
+        "www-w": {
+          "Solution guess 4": "yield"
+        }
+      },
+      "w-wm-": {
+        "guess 3": "widen",
+        "-wmmw": {
+          "Solution guess 4": "index"
+        },
+        "--wmw": {
+          "Solution guess 4": "unfed"
+        },
+        "w-wmw": {
+          "Solution guess 4": "unwed"
+        },
+        "mmmmm": {
+          "Solution guess 4": "widen"
+        }
+      },
+      "-ww--": {
+        "guess 3": "eying",
+        "m-mmm": {
+          "Solution guess 4": "eking"
+        },
+        "m-ww-": {
+          "Solution guess 4": "elfin"
+        },
+        "mmmmm": {
+          "Solution guess 4": "eying"
+        }
+      },
+      "-w--w": {
+        "guess 3": "piety",
+        "w-wmm": {
+          "Solution guess 4": "empty"
+        },
+        "-www-": {
+          "Solution guess 4": "ethic"
+        },
+        "mmmmm": {
+          "Solution guess 4": "piety"
+        }
+      },
+      "wm--w": {
+        "guess 3": "tepid",
+        "wm-mm": {
+          "Solution guess 4": "fetid"
+        },
+        "mm--w": {
+          "Solution guess 4": "teddy"
+        },
+        "mmmmm": {
+          "Solution guess 4": "tepid"
+        }
+      },
+      "-mm--": {
+        "guess 3": "penny",
+        "-mm--": {
+          "Solution guess 4": "bench"
+        },
+        "mmmmm": {
+          "Solution guess 4": "penny"
+        }
+      },
+      "ww-m-": {
+        "guess 3": "embed",
+        "w-wmm": {
+          "Solution guess 4": "bleed"
+        },
+        "mmmmm": {
+          "Solution guess 4": "embed"
+        }
+      },
+      "www--": {
+        "guess 3": "fiend",
+        "--mmm": {
+          "Solution guess 4": "blend"
+        },
+        "mmmmm": {
+          "Solution guess 4": "fiend"
+        }
+      },
+      "w--m-": {
+        "guess 3": "plied",
+        "-m-mm": {
+          "Solution guess 4": "clued"
+        },
+        "mmmmm": {
+          "Solution guess 4": "plied"
+        }
+      },
+      "mm--m": {
+        "guess 3": "debut",
+        "mmm-m": {
+          "Solution guess 4": "debit"
+        },
+        "mmmmm": {
+          "Solution guess 4": "debut"
+        }
+      },
+      "mm---": {
+        "guess 3": "devil",
+        "mm---": {
+          "Solution guess 4": "debug"
+        },
+        "mmmmm": {
+          "Solution guess 4": "devil"
+        }
+      },
+      "mm--w": {
+        "guess 3": "depth",
+        "mm-m-": {
+          "Solution guess 4": "deity"
+        },
+        "mmmmm": {
+          "Solution guess 4": "depth"
+        }
+      },
+      "-w-wm": {
+        "guess 3": "elect",
+        "m-mmm": {
+          "Solution guess 4": "eject"
+        },
+        "mmmmm": {
+          "Solution guess 4": "elect"
+        }
+      },
+      "---mm": {
+        "guess 3": "quiet",
+        "--wmm": {
+          "Solution guess 4": "filet"
+        },
+        "mmmmm": {
+          "Solution guess 4": "quiet"
+        }
+      },
+      "-w-mm": {
+        "guess 3": "tweet",
+        "--mmm": {
+          "Solution guess 4": "fleet"
+        },
+        "mmmmm": {
+          "Solution guess 4": "tweet"
+        }
+      },
+      "-ww-m": {
+        "guess 3": "knelt",
+        "-mm-m": {
+          "Solution guess 4": "inept"
+        },
+        "mmmmm": {
+          "Solution guess 4": "knelt"
+        }
+      },
+      "--wmm": {
+        "guess 3": "unmet",
+        "-m-mm": {
+          "Solution guess 4": "inlet"
+        },
+        "mmmmm": {
+          "Solution guess 4": "unmet"
+        }
+      },
+      "-wwm-": {
+        "guess 3": "queen",
+        "--mmw": {
+          "Solution guess 4": "kneel"
+        },
+        "mmmmm": {
+          "Solution guess 4": "queen"
+        }
+      },
+      "--mm-": {
+        "guess 3": "piney",
+        "-mmm-": {
+          "Solution guess 4": "linen"
+        },
+        "mmmmm": {
+          "Solution guess 4": "piney"
+        }
+      },
+      "-m--m": {
+        "Solution guess 3": "befit"
+      },
+      "-m-mm": {
+        "Solution guess 3": "beget"
+      },
+      "-m-mw": {
+        "Solution guess 3": "betel"
+      },
+      "mmw--": {
+        "Solution guess 3": "deign"
+      },
+      "mmm--": {
+        "Solution guess 3": "denim"
+      },
+      "m--m-": {
+        "Solution guess 3": "dicey"
+      },
+      "m--mm": {
+        "Solution guess 3": "duvet"
+      },
+      "mw---": {
+        "Solution guess 3": "dwell"
+      },
+      "mw--m": {
+        "Solution guess 3": "dwelt"
+      },
+      "ww--m": {
+        "Solution guess 3": "edict"
+      },
+      "-w-w-": {
+        "Solution guess 3": "elegy"
+      },
+      "-www-": {
+        "Solution guess 3": "enemy"
+      },
+      "-wm--": {
+        "Solution guess 3": "ennui"
+      },
+      "-wwwm": {
+        "Solution guess 3": "event"
+      },
+      "wwwm-": {
+        "Solution guess 3": "kneed"
+      },
+      "wm---": {
+        "Solution guess 3": "medic"
+      },
+      "wmww-": {
+        "Solution guess 3": "needy"
+      },
+      "-m-ww": {
+        "Solution guess 3": "teeth"
+      },
+      "-mmmm": {
+        "Solution guess 3": "tenet"
+      },
+      "-mm-w": {
+        "Solution guess 3": "tenth"
+      },
+      "---mw": {
+        "Solution guess 3": "thief"
+      },
+      "ww-mw": {
+        "Solution guess 3": "tweed"
+      },
+      "wm-w-": {
+        "Solution guess 3": "weedy"
+      }
+    },
+    "---ww": {
+      "guess 2": "direr",
+      "---mm": {
+        "guess 3": "butyl",
+        "-----": {
+          "guess 4": "newer",
+          "-w-mm": {
+            "Solution guess 5": "cheer"
+          },
+          "-m-mm": {
+            "Solution guess 5": "fever"
+          },
+          "-mmmm": {
+            "Solution guess 5": "fewer"
+          },
+          "mm-mm": {
+            "Solution guess 5": "never"
+          },
+          "mmmmm": {
+            "Solution guess 5": "newer"
+          }
+        },
+        "--m--": {
+          "guess 4": "meter",
+          "-wmmm": {
+            "Solution guess 5": "enter"
+          },
+          "mmmmm": {
+            "Solution guess 5": "meter"
+          }
+        },
+        "----w": {
+          "guess 4": "lever",
+          "mm-mm": {
+            "Solution guess 5": "leper"
+          },
+          "mmmmm": {
+            "Solution guess 5": "lever"
+          }
+        },
+        "mw--w": {
+          "Solution guess 4": "bluer"
+        },
+        "mm-w-": {
+          "Solution guess 4": "buyer"
+        },
+        "w--w-": {
+          "Solution guess 4": "cyber"
+        },
+        "w----": {
+          "Solution guess 4": "ember"
+        },
+        "--w--": {
+          "Solution guess 4": "ether"
+        },
+        "---ww": {
+          "Solution guess 4": "flyer"
+        },
+        "---w-": {
+          "Solution guess 4": "hyper"
+        },
+        "-m---": {
+          "Solution guess 4": "queer"
+        },
+        "wmw--": {
+          "Solution guess 4": "tuber"
+        },
+        "-w--w": {
+          "Solution guess 4": "ulcer"
+        },
+        "-w---": {
+          "Solution guess 4": "upper"
+        },
+        "-wm--": {
+          "Solution guess 4": "utter"
+        }
+      },
+      "-m-mm": {
+        "guess 3": "fling",
+        "--w--": {
+          "guess 4": "viper",
+          "-mmmm": {
+            "Solution guess 5": "piper"
+          },
+          "-m-mm": {
+            "Solution guess 5": "timer"
+          },
+          "mmmmm": {
+            "Solution guess 5": "viper"
+          }
+        },
+        "m-w--": {
+          "guess 4": "fixer",
+          "mm-mm": {
+            "Solution guess 5": "fiber"
+          },
+          "mmmmm": {
+            "Solution guess 5": "fixer"
+          }
+        },
+        "--w-w": {
+          "guess 4": "tiger",
+          "-mwmm": {
+            "Solution guess 5": "giver"
+          },
+          "mmmmm": {
+            "Solution guess 5": "tiger"
+          }
+        },
+        "--ww-": {
+          "guess 4": "nicer",
+          "wm-mm": {
+            "Solution guess 5": "miner"
+          },
+          "mmmmm": {
+            "Solution guess 5": "nicer"
+          }
+        },
+        "mww--": {
+          "Solution guess 4": "filer"
+        },
+        "m-ww-": {
+          "Solution guess 4": "finer"
+        },
+        "-www-": {
+          "Solution guess 4": "liner"
+        },
+        "-ww--": {
+          "Solution guess 4": "liver"
+        }
+      },
+      "--wm-": {
+        "guess 3": "pence",
+        "-m--w": {
+          "guess 4": "revel",
+          "mm-mm": {
+            "Solution guess 5": "rebel"
+          },
+          "mmmmm": {
+            "Solution guess 5": "revel"
+          }
+        },
+        "-w-ww": {
+          "Solution guess 4": "creek"
+        },
+        "ww-ww": {
+          "Solution guess 4": "creep"
+        },
+        "-w-w-": {
+          "Solution guess 4": "cruel"
+        },
+        "-ww-w": {
+          "Solution guess 4": "green"
+        },
+        "-w--w": {
+          "Solution guess 4": "greet"
+        },
+        "-w---": {
+          "Solution guess 4": "gruel"
+        },
+        "mww-w": {
+          "Solution guess 4": "preen"
+        },
+        "-mm-w": {
+          "Solution guess 4": "renew"
+        },
+        "wm--w": {
+          "Solution guess 4": "repel"
+        }
+      },
+      "--ww-": {
+        "guess 3": "retch",
+        "wwww-": {
+          "Solution guess 4": "crept"
+        },
+        "wwwm-": {
+          "Solution guess 4": "erect"
+        },
+        "www--": {
+          "Solution guess 4": "erupt"
+        },
+        "mmw--": {
+          "Solution guess 4": "rebut"
+        },
+        "mmww-": {
+          "Solution guess 4": "recut"
+        },
+        "mm---": {
+          "Solution guess 4": "reply"
+        },
+        "mmmmm": {
+          "Solution guess 4": "retch"
+        },
+        "ww-m-": {
+          "Solution guess 4": "wreck"
+        }
+      },
+      "--mw-": {
+        "guess 3": "perky",
+        "-mm--": {
+          "Solution guess 4": "berth"
+        },
+        "-mmmm": {
+          "Solution guess 4": "jerky"
+        },
+        "-mm-m": {
+          "Solution guess 4": "mercy"
+        },
+        "mmm--": {
+          "Solution guess 4": "perch"
+        },
+        "mmmmm": {
+          "Solution guess 4": "perky"
+        }
+      },
+      "-w-mm": {
+        "guess 3": "aleft",
+        "-mww-": {
+          "Solution guess 4": "flier"
+        },
+        "--ww-": {
+          "Solution guess 4": "infer"
+        },
+        "--w--": {
+          "Solution guess 4": "inner"
+        },
+        "--w-w": {
+          "Solution guess 4": "inter"
+        },
+        "-mw--": {
+          "Solution guess 4": "plier"
+        }
+      },
+      "w-wm-": {
+        "guess 3": "befog",
+        "mw---": {
+          "Solution guess 4": "breed"
+        },
+        "-w---": {
+          "Solution guess 4": "creed"
+        },
+        "-ww--": {
+          "Solution guess 4": "freed"
+        },
+        "-w--w": {
+          "Solution guess 4": "greed"
+        }
+      },
+      "wwwm-": {
+        "guess 3": "capot",
+        "m----": {
+          "Solution guess 4": "cried"
+        },
+        "-----": {
+          "Solution guess 4": "fried"
+        },
+        "--w--": {
+          "Solution guess 4": "pried"
+        },
+        "----w": {
+          "Solution guess 4": "tried"
+        }
+      },
+      "--wmm": {
+        "guess 3": "truer",
+        "-m-mm": {
+          "Solution guess 4": "freer"
+        },
+        "-w-mm": {
+          "Solution guess 4": "refer"
+        },
+        "-wwmm": {
+          "Solution guess 4": "ruler"
+        },
+        "mmmmm": {
+          "Solution guess 4": "truer"
+        }
+      },
+      "-www-": {
+        "guess 3": "remit",
+        "mm-mm": {
+          "Solution guess 4": "refit"
+        },
+        "mm-w-": {
+          "Solution guess 4": "reign"
+        },
+        "mm-m-": {
+          "Solution guess 4": "relic"
+        },
+        "mmmmm": {
+          "Solution guess 4": "remit"
+        }
+      },
+      "--mm-": {
+        "guess 3": "egret",
+        "w-mmm": {
+          "Solution guess 4": "beret"
+        },
+        "mmmmm": {
+          "Solution guess 4": "egret"
+        },
+        "--mmw": {
+          "Solution guess 4": "threw"
+        }
+      },
+      "w--mm": {
+        "guess 3": "under",
+        "--mmm": {
+          "Solution guess 4": "elder"
+        },
+        "m-mmm": {
+          "Solution guess 4": "udder"
+        },
+        "mmmmm": {
+          "Solution guess 4": "under"
+        }
+      },
+      "-wwm-": {
+        "guess 3": "grief",
+        "-mmmm": {
+          "Solution guess 4": "brief"
+        },
+        "mmmmm": {
+          "Solution guess 4": "grief"
+        }
+      },
+      "wm-mm": {
+        "guess 3": "wider",
+        "-mmmm": {
+          "Solution guess 4": "cider"
+        },
+        "mmmmm": {
+          "Solution guess 4": "wider"
+        }
+      },
+      "m--mm": {
+        "guess 3": "deter",
+        "mm-mm": {
+          "Solution guess 4": "defer"
+        },
+        "mmmmm": {
+          "Solution guess 4": "deter"
+        }
+      },
+      "mm-mm": {
+        "guess 3": "diver",
+        "mm-mm": {
+          "Solution guess 4": "diner"
+        },
+        "mmmmm": {
+          "Solution guess 4": "diver"
+        }
+      },
+      "---wm": {
+        "guess 3": "lemur",
+        "-mmmm": {
+          "Solution guess 4": "femur"
+        },
+        "mmmmm": {
+          "Solution guess 4": "lemur"
+        }
+      },
+      "-wmw-": {
+        "guess 3": "peril",
+        "-mmm-": {
+          "Solution guess 4": "merit"
+        },
+        "mmmmm": {
+          "Solution guess 4": "peril"
+        }
+      },
+      "w-ww-": {
+        "guess 3": "trend",
+        "-wm-w": {
+          "Solution guess 4": "reedy"
+        },
+        "mmmmm": {
+          "Solution guess 4": "trend"
+        }
+      },
+      "-mwm-": {
+        "guess 3": "rivet",
+        "mm-m-": {
+          "Solution guess 4": "ripen"
+        },
+        "mmmmm": {
+          "Solution guess 4": "rivet"
+        }
+      },
+      "-mwmm": {
+        "guess 3": "river",
+        "mm-mm": {
+          "Solution guess 4": "riper"
+        },
+        "mmmmm": {
+          "Solution guess 4": "river"
+        }
+      },
+      "-wwmm": {
+        "Solution guess 3": "crier"
+      },
+      "m--wm": {
+        "Solution guess 3": "demur"
+      },
+      "m-mw-": {
+        "Solution guess 3": "derby"
+      },
+      "mwwm-": {
+        "Solution guess 3": "dried"
+      },
+      "mwwmm": {
+        "Solution guess 3": "drier"
+      },
+      "m-wmm": {
+        "Solution guess 3": "dryer"
+      },
+      "ww-mm": {
+        "Solution guess 3": "idler"
+      },
+      "w-mw-": {
+        "Solution guess 3": "nerdy"
+      },
+      "--mmm": {
+        "Solution guess 3": "purer"
+      },
+      "--wwm": {
+        "Solution guess 3": "recur"
+      },
+      "--mww": {
+        "Solution guess 3": "rerun"
+      },
+      "wmwmm": {
+        "Solution guess 3": "rider"
+      },
+      "w-wmm": {
+        "Solution guess 3": "ruder"
+      },
+      "-w-wm": {
+        "Solution guess 3": "their"
+      }
+    },
+    "-m---": {
+      "guess 2": "culty",
+      "----m": {
+        "guess 3": "goody",
+        "-m--m": {
+          "guess 4": "hobby",
+          "-mmmm": {
+            "Solution guess 5": "bobby"
+          },
+          "mmmmm": {
+            "Solution guess 5": "hobby"
+          },
+          "-m--m": {
+            "Solution guess 5": "poppy"
+          }
+        },
+        "-mm-m": {
+          "guess 4": "woozy",
+          "-mm-m": {
+            "Solution guess 5": "booby"
+          },
+          "-mmmm": {
+            "Solution guess 5": "boozy"
+          },
+          "mmmmm": {
+            "Solution guess 5": "woozy"
+          }
+        },
+        "-m-mm": {
+          "guess 4": "howdy",
+          "-mmmm": {
+            "Solution guess 5": "dowdy"
+          },
+          "mmmmm": {
+            "Solution guess 5": "howdy"
+          }
+        },
+        "-mmmm": {
+          "guess 4": "woody",
+          "-mmmm": {
+            "Solution guess 5": "moody"
+          },
+          "mmmmm": {
+            "Solution guess 5": "woody"
+          }
+        },
+        "wm-wm": {
+          "Solution guess 4": "dodgy"
+        },
+        "-m-wm": {
+          "Solution guess 4": "downy"
+        },
+        "wm--m": {
+          "Solution guess 4": "foggy"
+        },
+        "mmmmm": {
+          "Solution guess 4": "goody"
+        },
+        "mmm-m": {
+          "Solution guess 4": "goofy"
+        }
+      },
+      "-w---": {
+        "guess 3": "bumph",
+        "-w---": {
+          "guess 4": "wound",
+          "-mmmm": {
+            "Solution guess 5": "found"
+          },
+          "mmmmm": {
+            "Solution guess 5": "wound"
+          }
+        },
+        "mw--m": {
+          "Solution guess 4": "bough"
+        },
+        "mw---": {
+          "Solution guess 4": "bound"
+        },
+        "-w--m": {
+          "Solution guess 4": "dough"
+        },
+        "-w--w": {
+          "Solution guess 4": "hound"
+        },
+        "-ww--": {
+          "Solution guess 4": "mound"
+        },
+        "-w-w-": {
+          "Solution guess 4": "pound"
+        }
+      },
+      "--m-m": {
+        "guess 3": "defog",
+        "---w-": {
+          "guess 4": "jolly",
+          "-mmmm": {
+            "Solution guess 5": "holly"
+          },
+          "mmmmm": {
+            "Solution guess 5": "jolly"
+          }
+        },
+        "m--w-": {
+          "Solution guess 4": "dolly"
+        },
+        "--ww-": {
+          "Solution guess 4": "folly"
+        },
+        "---ww": {
+          "Solution guess 4": "golly"
+        },
+        "w--w-": {
+          "Solution guess 4": "moldy"
+        }
+      },
+      "--w-m": {
+        "guess 3": "adown",
+        "-ww--": {
+          "Solution guess 4": "godly"
+        },
+        "--w--": {
+          "Solution guess 4": "lobby"
+        },
+        "--m--": {
+          "Solution guess 4": "loopy"
+        },
+        "--ww-": {
+          "Solution guess 4": "lowly"
+        },
+        "--w-w": {
+          "Solution guess 4": "nobly"
+        },
+        "--mw-": {
+          "Solution guess 4": "wooly"
+        }
+      },
+      "w--w-": {
+        "guess 3": "apian",
+        "-----": {
+          "Solution guess 4": "botch"
+        },
+        "----w": {
+          "Solution guess 4": "notch"
+        },
+        "--w-w": {
+          "Solution guess 4": "tonic"
+        },
+        "-ww--": {
+          "Solution guess 4": "topic"
+        },
+        "--w--": {
+          "Solution guess 4": "toxic"
+        }
+      },
+      "---w-": {
+        "guess 3": "point",
+        "-mmmm": {
+          "Solution guess 4": "joint"
+        },
+        "-mw-w": {
+          "Solution guess 4": "motif"
+        },
+        "mmmmm": {
+          "Solution guess 4": "point"
+        },
+        "-mwww": {
+          "Solution guess 4": "toxin"
+        },
+        "-mw-m": {
+          "Solution guess 4": "vomit"
+        }
+      },
+      "---m-": {
+        "guess 3": "tooth",
+        "-mmmm": {
+          "Solution guess 4": "booth"
+        },
+        "-m-mm": {
+          "Solution guess 4": "month"
+        },
+        "wmwm-": {
+          "Solution guess 4": "motto"
+        },
+        "mmmmm": {
+          "Solution guess 4": "tooth"
+        }
+      },
+      "m----": {
+        "guess 3": "conic",
+        "mm-mm": {
+          "Solution guess 4": "comic"
+        },
+        "mmm-w": {
+          "Solution guess 4": "conch"
+        },
+        "mmm--": {
+          "Solution guess 4": "condo"
+        },
+        "mmmmm": {
+          "Solution guess 4": "conic"
+        }
+      },
+      "-w-w-": {
+        "guess 3": "mount",
+        "-mwwm": {
+          "Solution guess 4": "donut"
+        },
+        "-mm-m": {
+          "Solution guess 4": "doubt"
+        },
+        "mmmmm": {
+          "Solution guess 4": "mount"
+        },
+        "-mm-w": {
+          "Solution guess 4": "tough"
+        }
+      },
+      "-----": {
+        "guess 3": "going",
+        "wm-w-": {
+          "Solution guess 4": "bongo"
+        },
+        "-mmmm": {
+          "Solution guess 4": "doing"
+        },
+        "mmmmm": {
+          "Solution guess 4": "going"
+        }
+      },
+      "mw---": {
+        "guess 3": "cough",
+        "mmm-m": {
+          "Solution guess 4": "couch"
+        },
+        "mmmmm": {
+          "Solution guess 4": "cough"
+        }
+      },
+      "w----": {
+        "guess 3": "pooch",
+        "-m-w-": {
+          "Solution guess 4": "ionic"
+        },
+        "mmmmm": {
+          "Solution guess 4": "pooch"
+        }
+      },
+      "-ww--": {
+        "guess 3": "would",
+        "-mww-": {
+          "Solution guess 4": "mogul"
+        },
+        "mmmmm": {
+          "Solution guess 4": "would"
+        }
+      },
+      "ww---": {
+        "guess 3": "vouch",
+        "-mmmm": {
+          "Solution guess 4": "pouch"
+        },
+        "mmmmm": {
+          "Solution guess 4": "vouch"
+        }
+      },
+      "---mm": {
+        "Solution guess 3": "booty"
+      },
+      "m-m--": {
+        "Solution guess 3": "colon"
+      },
+      "m---m": {
+        "Solution guess 3": "comfy"
+      },
+      "mww--": {
+        "Solution guess 3": "could"
+      },
+      "mw-w-": {
+        "Solution guess 3": "count"
+      },
+      "m-w-m": {
+        "Solution guess 3": "coyly"
+      },
+      "--m--": {
+        "Solution guess 3": "folio"
+      },
+      "--wwm": {
+        "Solution guess 3": "hotly"
+      },
+      "--wmm": {
+        "Solution guess 3": "lofty"
+      },
+      "w-w--": {
+        "Solution guess 3": "logic"
+      },
+      "--w--": {
+        "Solution guess 3": "login"
+      },
+      "-www-": {
+        "Solution guess 3": "moult"
+      },
+      "-w-m-": {
+        "Solution guess 3": "mouth"
+      },
+      "--m-w": {
+        "Solution guess 3": "polyp"
+      },
+      "-w-mm": {
+        "Solution guess 3": "pouty"
+      },
+      "---wm": {
+        "Solution guess 3": "toddy"
+      },
+      "ww-w-": {
+        "Solution guess 3": "touch"
+      },
+      "-w--w": {
+        "Solution guess 3": "young"
+      },
+      "-w-mw": {
+        "Solution guess 3": "youth"
+      }
+    },
+    "----m": {
+      "guess 2": "guilt",
+      "-----": {
+        "guess 3": "champ",
+        "w--w-": {
+          "Solution guess 4": "emcee"
+        },
+        "---m-": {
+          "Solution guess 4": "femme"
+        },
+        "w----": {
+          "Solution guess 4": "fence"
+        },
+        "ww---": {
+          "Solution guess 4": "hence"
+        },
+        "w---w": {
+          "Solution guess 4": "pence"
+        },
+        "----w": {
+          "Solution guess 4": "penne"
+        }
+      },
+      "--w--": {
+        "guess 3": "wince",
+        "-mmmm": {
+          "Solution guess 4": "mince"
+        },
+        "-mwwm": {
+          "Solution guess 4": "niche"
+        },
+        "-mwmm": {
+          "Solution guess 4": "niece"
+        },
+        "-m-mm": {
+          "Solution guess 4": "piece"
+        },
+        "-m--m": {
+          "Solution guess 4": "pixie"
+        },
+        "mmmmm": {
+          "Solution guess 4": "wince"
+        }
+      },
+      "wm---": {
+        "guess 3": "aband",
+        "----w": {
+          "guess 4": "judge",
+          "-mmmm": {
+            "Solution guess 5": "fudge"
+          },
+          "mmmmm": {
+            "Solution guess 5": "judge"
+          }
+        },
+        "-w--w": {
+          "Solution guess 4": "budge"
+        },
+        "-----": {
+          "Solution guess 4": "fugue"
+        },
+        "---ww": {
+          "Solution guess 4": "nudge"
+        }
+      },
+      "--m--": {
+        "guess 3": "chime",
+        "mmm-m": {
+          "Solution guess 4": "chide"
+        },
+        "mmmmm": {
+          "Solution guess 4": "chime"
+        },
+        "--m-m": {
+          "Solution guess 4": "knife"
+        },
+        "-mm-m": {
+          "Solution guess 4": "whine"
+        }
+      },
+      "-w-w-": {
+        "guess 3": "flume",
+        "-mm-m": {
+          "Solution guess 4": "elude"
+        },
+        "mmm-m": {
+          "Solution guess 4": "fluke"
+        },
+        "mmmmm": {
+          "Solution guess 4": "flume"
+        },
+        "-mmmm": {
+          "Solution guess 4": "plume"
+        }
+      },
+      "w-w--": {
+        "guess 3": "hinge",
+        "-mmmm": {
+          "Solution guess 4": "binge"
+        },
+        "mmmmm": {
+          "Solution guess 4": "hinge"
+        },
+        "-m-mm": {
+          "Solution guess 4": "midge"
+        }
+      },
+      "-w---": {
+        "guess 3": "venue",
+        "-m-wm": {
+          "Solution guess 4": "deuce"
+        },
+        "--wmm": {
+          "Solution guess 4": "undue"
+        },
+        "mmmmm": {
+          "Solution guess 4": "venue"
+        }
+      },
+      "----w": {
+        "guess 3": "thyme",
+        "m---m": {
+          "Solution guess 4": "tepee"
+        },
+        "mm-mm": {
+          "Solution guess 4": "theme"
+        },
+        "mmmmm": {
+          "Solution guess 4": "thyme"
+        }
+      },
+      "--m-w": {
+        "guess 3": "twine",
+        "mmm-m": {
+          "Solution guess 4": "twice"
+        },
+        "mmmmm": {
+          "Solution guess 4": "twine"
+        },
+        "wwm-m": {
+          "Solution guess 4": "white"
+        }
+      },
+      "---m-": {
+        "guess 3": "cycle",
+        "---mm": {
+          "Solution guess 4": "belle"
+        },
+        "mmmmm": {
+          "Solution guess 4": "cycle"
+        }
+      },
+      "w-ww-": {
+        "guess 3": "liege",
+        "wm-mm": {
+          "Solution guess 4": "bilge"
+        },
+        "mmmmm": {
+          "Solution guess 4": "liege"
+        }
+      },
+      "wm-w-": {
+        "guess 3": "lunge",
+        "wm-mm": {
+          "Solution guess 4": "bulge"
+        },
+        "mmmmm": {
+          "Solution guess 4": "lunge"
+        }
+      },
+      "-w--w": {
+        "guess 3": "etude",
+        "-wm-m": {
+          "Solution guess 4": "chute"
+        },
+        "mmmmm": {
+          "Solution guess 4": "etude"
+        }
+      },
+      "---w-": {
+        "guess 3": "melee",
+        "-mm-m": {
+          "Solution guess 4": "delve"
+        },
+        "mmmmm": {
+          "Solution guess 4": "melee"
+        }
+      },
+      "-m---": {
+        "guess 3": "queue",
+        "-m--m": {
+          "Solution guess 4": "dunce"
+        },
+        "mmmmm": {
+          "Solution guess 4": "queue"
+        }
+      },
+      "--mm-": {
+        "guess 3": "while",
+        "--mmm": {
+          "Solution guess 4": "exile"
+        },
+        "mmmmm": {
+          "Solution guess 4": "while"
+        }
+      },
+      "w----": {
+        "guess 3": "wedge",
+        "-mmmm": {
+          "Solution guess 4": "hedge"
+        },
+        "mmmmm": {
+          "Solution guess 4": "wedge"
+        }
+      },
+      "-ww--": {
+        "guess 3": "pique",
+        "-w-mm": {
+          "Solution guess 4": "imbue"
+        },
+        "mmmmm": {
+          "Solution guess 4": "pique"
+        }
+      },
+      "--www": {
+        "guess 3": "tilde",
+        "wmw-m": {
+          "Solution guess 4": "lithe"
+        },
+        "mmmmm": {
+          "Solution guess 4": "tilde"
+        }
+      },
+      "--ww-": {
+        "Solution guess 3": "belie"
+      },
+      "--wm-": {
+        "Solution guess 3": "bible"
+      },
+      "wm-m-": {
+        "Solution guess 3": "bugle"
+      },
+      "-m--w": {
+        "Solution guess 3": "butte"
+      },
+      "-mw-w": {
+        "Solution guess 3": "cutie"
+      },
+      "--mw-": {
+        "Solution guess 3": "elide"
+      },
+      "--mww": {
+        "Solution guess 3": "elite"
+      },
+      "-w-ww": {
+        "Solution guess 3": "flute"
+      },
+      "m-w--": {
+        "Solution guess 3": "genie"
+      },
+      "m-mw-": {
+        "Solution guess 3": "glide"
+      },
+      "mmm--": {
+        "Solution guess 3": "guide"
+      },
+      "mmmm-": {
+        "Solution guess 3": "guile"
+      },
+      "-mm--": {
+        "Solution guess 3": "juice"
+      },
+      "w--w-": {
+        "Solution guess 3": "ledge"
+      },
+      "-mm-w": {
+        "Solution guess 3": "quite"
+      },
+      "--w-w": {
+        "Solution guess 3": "tithe"
+      },
+      "--wmw": {
+        "Solution guess 3": "title"
+      },
+      "-m-mw": {
+        "Solution guess 3": "tulle"
+      },
+      "-w-m-": {
+        "Solution guess 3": "uncle"
+      },
+      "-wm-w": {
+        "Solution guess 3": "unite"
+      },
+      "-ww-w": {
+        "Solution guess 3": "untie"
+      },
+      "-wmmw": {
+        "Solution guess 3": "utile"
+      }
+    },
+    "--w-w": {
+      "guess 2": "canal",
+      "---mm": {
+        "guess 3": "dempt",
+        "-w---": {
+          "Solution guess 4": "equal"
+        },
+        "-m--w": {
+          "Solution guess 4": "fetal"
+        },
+        "ww---": {
+          "Solution guess 4": "ideal"
+        },
+        "-m---": {
+          "Solution guess 4": "legal"
+        },
+        "wmw--": {
+          "Solution guess 4": "medal"
+        },
+        "-mw-w": {
+          "Solution guess 4": "metal"
+        },
+        "wm-w-": {
+          "Solution guess 4": "pedal"
+        },
+        "-m-ww": {
+          "Solution guess 4": "petal"
+        }
+      },
+      "---mw": {
+        "guess 3": "bated",
+        "mw-w-": {
+          "Solution guess 4": "bleak"
+        },
+        "mwww-": {
+          "Solution guess 4": "bleat"
+        },
+        "-w-ww": {
+          "Solution guess 4": "delay"
+        },
+        "-w-w-": {
+          "Solution guess 4": "gleam"
+        },
+        "-w-wm": {
+          "Solution guess 4": "plead"
+        },
+        "-www-": {
+          "Solution guess 4": "pleat"
+        }
+      },
+      "-m--m": {
+        "guess 3": "baghs",
+        "mmm--": {
+          "Solution guess 4": "bagel"
+        },
+        "-mw--": {
+          "Solution guess 4": "gavel"
+        },
+        "-m-w-": {
+          "Solution guess 4": "hazel"
+        },
+        "wm---": {
+          "Solution guess 4": "label"
+        },
+        "-m---": {
+          "Solution guess 4": "lapel"
+        }
+      },
+      "-w---": {
+        "guess 3": "theta",
+        "--w-w": {
+          "Solution guess 4": "abbey"
+        },
+        "w-m-w": {
+          "Solution guess 4": "adept"
+        },
+        "--w-m": {
+          "Solution guess 4": "media"
+        },
+        "mmmmm": {
+          "Solution guess 4": "theta"
+        }
+      },
+      "-w--w": {
+        "guess 3": "fella",
+        "-wm-w": {
+          "Solution guess 4": "abled"
+        },
+        "-wmww": {
+          "Solution guess 4": "alley"
+        },
+        "-mm-m": {
+          "Solution guess 4": "delta"
+        },
+        "mmmmm": {
+          "Solution guess 4": "fella"
+        }
+      },
+      "-ww--": {
+        "guess 3": "enema",
+        "-wm-w": {
+          "Solution guess 4": "agent"
+        },
+        "-wmww": {
+          "Solution guess 4": "amend"
+        },
+        "mmmmm": {
+          "Solution guess 4": "enema"
+        },
+        "-wm-m": {
+          "Solution guess 4": "hyena"
+        }
+      },
+      "---m-": {
+        "guess 3": "wheat",
+        "--wmm": {
+          "Solution guess 4": "begat"
+        },
+        "--wm-": {
+          "Solution guess 4": "kebab"
+        },
+        "w-mmw": {
+          "Solution guess 4": "tweak"
+        },
+        "mmmmm": {
+          "Solution guess 4": "wheat"
+        }
+      },
+      "-mw--": {
+        "guess 3": "aitch",
+        "w-m--": {
+          "Solution guess 4": "eaten"
+        },
+        "w---w": {
+          "Solution guess 4": "haven"
+        },
+        "w-w--": {
+          "Solution guess 4": "taken"
+        },
+        "w----": {
+          "Solution guess 4": "waxen"
+        }
+      },
+      "--wm-": {
+        "guess 3": "vegan",
+        "-mmmm": {
+          "Solution guess 4": "began"
+        },
+        "-w-mw": {
+          "Solution guess 4": "knead"
+        },
+        "mmmmm": {
+          "Solution guess 4": "vegan"
+        }
+      },
+      "mm---": {
+        "guess 3": "cagey",
+        "mm-m-": {
+          "Solution guess 4": "cadet"
+        },
+        "mmmmm": {
+          "Solution guess 4": "cagey"
+        }
+      },
+      "m--m-": {
+        "guess 3": "cheat",
+        "mmmm-": {
+          "Solution guess 4": "cheap"
+        },
+        "mmmmm": {
+          "Solution guess 4": "cheat"
+        }
+      },
+      "w--mm": {
+        "guess 3": "fecal",
+        "-mmmm": {
+          "Solution guess 4": "decal"
+        },
+        "mmmmm": {
+          "Solution guess 4": "fecal"
+        }
+      },
+      "-w-m-": {
+        "Solution guess 3": "ahead"
+      },
+      "-ww-w": {
+        "Solution guess 3": "alien"
+      },
+      "-ww-m": {
+        "Solution guess 3": "angel"
+      },
+      "-wm--": {
+        "Solution guess 3": "annex"
+      },
+      "-wmw-": {
+        "Solution guess 3": "apnea"
+      },
+      "mm--m": {
+        "Solution guess 3": "camel"
+      },
+      "m-wmw": {
+        "Solution guess 3": "clean"
+      },
+      "m--mw": {
+        "Solution guess 3": "cleat"
+      },
+      "w--m-": {
+        "Solution guess 3": "decay"
+      },
+      "w--mw": {
+        "Solution guess 3": "eclat"
+      },
+      "wm---": {
+        "Solution guess 3": "facet"
+      },
+      "--wmw": {
+        "Solution guess 3": "glean"
+      },
+      "-mw-w": {
+        "Solution guess 3": "laden"
+      },
+      "-m---": {
+        "Solution guess 3": "matey"
+      },
+      "ww---": {
+        "Solution guess 3": "mecca"
+      },
+      "-mw-m": {
+        "Solution guess 3": "navel"
+      },
+      "-mm-m": {
+        "Solution guess 3": "panel"
+      },
+      "w-wm-": {
+        "Solution guess 3": "pecan"
+      },
+      "--mmm": {
+        "Solution guess 3": "penal"
+      },
+      "-m--w": {
+        "Solution guess 3": "valet"
+      }
+    },
+    "m----": {
+      "guess 2": "thilk",
+      "--m--": {
+        "guess 3": "swing",
+        "m-mw-": {
+          "Solution guess 4": "sniff"
+        },
+        "m-m--": {
+          "Solution guess 4": "spicy"
+        },
+        "m-mm-": {
+          "Solution guess 4": "spiny"
+        },
+        "m-mmm": {
+          "Solution guess 4": "suing"
+        },
+        "mmmmm": {
+          "Solution guess 4": "swing"
+        }
+      },
+      "w----": {
+        "guess 3": "grypt",
+        "--w-w": {
+          "Solution guess 4": "study"
+        },
+        "----w": {
+          "Solution guess 4": "stuff"
+        },
+        "---ww": {
+          "Solution guess 4": "stump"
+        },
+        "w---w": {
+          "Solution guess 4": "stung"
+        },
+        "----m": {
+          "Solution guess 4": "stunt"
+        }
+      },
+      "w-m--": {
+        "guess 3": "swift",
+        "m-mmw": {
+          "Solution guess 4": "stiff"
+        },
+        "m-m-w": {
+          "Solution guess 4": "sting"
+        },
+        "m-m-m": {
+          "Solution guess 4": "stint"
+        },
+        "mmmmm": {
+          "Solution guess 4": "swift"
+        }
+      },
+      "--m-w": {
+        "guess 3": "spiky",
+        "m-mw-": {
+          "Solution guess 4": "skiff"
+        },
+        "mwmw-": {
+          "Solution guess 4": "skimp"
+        },
+        "mmmmm": {
+          "Solution guess 4": "spiky"
+        }
+      },
+      "----m": {
+        "guess 3": "spunk",
+        "m-mmm": {
+          "Solution guess 4": "skunk"
+        },
+        "m-mwm": {
+          "Solution guess 4": "snuck"
+        },
+        "mmmmm": {
+          "Solution guess 4": "spunk"
+        }
+      },
+      "-----": {
+        "guess 3": "swung",
+        "m-mw-": {
+          "Solution guess 4": "snuff"
+        },
+        "m-wm-": {
+          "Solution guess 4": "sunny"
+        },
+        "mmmmm": {
+          "Solution guess 4": "swung"
+        }
+      },
+      "w-mm-": {
+        "guess 3": "stilt",
+        "m-mmm": {
+          "Solution guess 4": "spilt"
+        },
+        "mmmm-": {
+          "Solution guess 4": "still"
+        },
+        "mmmmm": {
+          "Solution guess 4": "stilt"
+        }
+      },
+      "www--": {
+        "guess 3": "sixth",
+        "mm-ww": {
+          "Solution guess 4": "sight"
+        },
+        "mmmmm": {
+          "Solution guess 4": "sixth"
+        }
+      },
+      "--w--": {
+        "guess 3": "squib",
+        "m--w-": {
+          "Solution guess 4": "sissy"
+        },
+        "mmmmm": {
+          "Solution guess 4": "squib"
+        }
+      },
+      "--mwm": {
+        "guess 3": "slink",
+        "mmm-m": {
+          "Solution guess 4": "slick"
+        },
+        "mmmmm": {
+          "Solution guess 4": "slink"
+        }
+      },
+      "--mw-": {
+        "guess 3": "sling",
+        "mmm--": {
+          "Solution guess 4": "slimy"
+        },
+        "mmmmm": {
+          "Solution guess 4": "sling"
+        }
+      },
+      "---w-": {
+        "guess 3": "slung",
+        "mmm--": {
+          "Solution guess 4": "slump"
+        },
+        "mmmmm": {
+          "Solution guess 4": "slung"
+        }
+      },
+      "---m-": {
+        "guess 3": "sully",
+        "m-wmm": {
+          "Solution guess 4": "slyly"
+        },
+        "mmmmm": {
+          "Solution guess 4": "sully"
+        }
+      },
+      "--mm-": {
+        "guess 3": "swill",
+        "m-mmm": {
+          "Solution guess 4": "spill"
+        },
+        "mmmmm": {
+          "Solution guess 4": "swill"
+        }
+      },
+      "w-m-m": {
+        "guess 3": "stink",
+        "mmm-m": {
+          "Solution guess 4": "stick"
+        },
+        "mmmmm": {
+          "Solution guess 4": "stink"
+        }
+      },
+      "w---m": {
+        "guess 3": "stunk",
+        "mmm-m": {
+          "Solution guess 4": "stuck"
+        },
+        "mmmmm": {
+          "Solution guess 4": "stunk"
+        }
+      },
+      "wmm--": {
+        "Solution guess 3": "shift"
+      },
+      "-mm--": {
+        "Solution guess 3": "shiny"
+      },
+      "-m--m": {
+        "Solution guess 3": "shuck"
+      },
+      "wm---": {
+        "Solution guess 3": "shunt"
+      },
+      "-m---": {
+        "Solution guess 3": "shush"
+      },
+      "-m-m-": {
+        "Solution guess 3": "shyly"
+      },
+      "--www": {
+        "Solution guess 3": "silky"
+      },
+      "--wm-": {
+        "Solution guess 3": "silly"
+      },
+      "w-w--": {
+        "Solution guess 3": "sixty"
+      },
+      "--mmw": {
+        "Solution guess 3": "skill"
+      },
+      "---mm": {
+        "Solution guess 3": "skulk"
+      },
+      "---mw": {
+        "Solution guess 3": "skull"
+      },
+      "---wm": {
+        "Solution guess 3": "slunk"
+      },
+      "-w-w-": {
+        "Solution guess 3": "slush"
+      },
+      "wwm--": {
+        "Solution guess 3": "smith"
+      },
+      "w-ww-": {
+        "Solution guess 3": "split"
+      },
+      "---ww": {
+        "Solution guess 3": "sulky"
+      },
+      "-ww--": {
+        "Solution guess 3": "sushi"
+      },
+      "-wm--": {
+        "Solution guess 3": "swish"
+      }
+    },
+    "--www": {
+      "guess 2": "aglet",
+      "w--w-": {
+        "guess 3": "cebid",
+        "mw---": {
+          "guess 4": "cream",
+          "mmmm-": {
+            "Solution guess 5": "creak"
+          },
+          "mmmmm": {
+            "Solution guess 4": "cream"
+          }
+        },
+        "-w---": {
+          "guess 4": "wreak",
+          "-mmmm": {
+            "Solution guess 5": "freak"
+          },
+          "mmmmm": {
+            "Solution guess 4": "wreak"
+          }
+        },
+        "-ww-m": {
+          "Solution guess 4": "bread"
+        },
+        "-ww--": {
+          "Solution guess 4": "break"
+        },
+        "mm--w": {
+          "Solution guess 4": "cedar"
+        },
+        "-mm-w": {
+          "Solution guess 4": "debar"
+        },
+        "-w--m": {
+          "Solution guess 4": "dread"
+        },
+        "-w--w": {
+          "Solution guess 4": "dream"
+        },
+        "-mm--": {
+          "Solution guess 4": "rebar"
+        },
+        "wm---": {
+          "Solution guess 4": "recap"
+        },
+        "-mw--": {
+          "Solution guess 4": "rehab"
+        },
+        "-m---": {
+          "Solution guess 4": "repay"
+        }
+      },
+      "w--m-": {
+        "guess 3": "rumpy",
+        "w----": {
+          "guess 4": "waver",
+          "-m-mm": {
+            "Solution guess 5": "baker"
+          },
+          "mm-mm": {
+            "Solution guess 5": "wafer"
+          },
+          "mmmmm": {
+            "Solution guess 4": "waver"
+          }
+        },
+        "w--w-": {
+          "guess 4": "parer",
+          "wm-mm": {
+            "Solution guess 5": "caper"
+          },
+          "mm-mm": {
+            "Solution guess 5": "paper"
+          },
+          "mmmmm": {
+            "Solution guess 4": "parer"
+          }
+        },
+        "m----": {
+          "guess 4": "rarer",
+          "mm-mm": {
+            "Solution guess 5": "racer"
+          },
+          "mmmmm": {
+            "Solution guess 4": "rarer"
+          },
+          "mm-m-": {
+            "Solution guess 5": "raven"
+          }
+        },
+        "w-w--": {
+          "guess 4": "maker",
+          "wm-mw": {
+            "Solution guess 5": "harem"
+          },
+          "mmmmm": {
+            "Solution guess 4": "maker"
+          }
+        },
+        "w--ww": {
+          "Solution guess 4": "payer"
+        },
+        "m-m--": {
+          "Solution guess 4": "ramen"
+        }
+      },
+      "w--mw": {
+        "guess 3": "ketch",
+        "-wm--": {
+          "guess 4": "water",
+          "-mmmm": {
+            "Solution guess 5": "eater"
+          },
+          "mmmmm": {
+            "Solution guess 4": "water"
+          }
+        },
+        "-ww--": {
+          "guess 4": "taper",
+          "mm-mm": {
+            "Solution guess 5": "tamer"
+          },
+          "mmmmm": {
+            "Solution guess 4": "taper"
+          }
+        },
+        "-wmw-": {
+          "Solution guess 4": "cater"
+        },
+        "-wm-w": {
+          "Solution guess 4": "hater"
+        },
+        "www--": {
+          "Solution guess 4": "taker"
+        }
+      },
+      "ww-m-": {
+        "guess 3": "enzym",
+        "m----": {
+          "Solution guess 4": "eager"
+        },
+        "w---w": {
+          "Solution guess 4": "gamer"
+        },
+        "w--w-": {
+          "Solution guess 4": "gayer"
+        },
+        "w-m--": {
+          "Solution guess 4": "gazer"
+        },
+        "w----": {
+          "Solution guess 4": "wager"
+        }
+      },
+      "w-ww-": {
+        "guess 3": "renal",
+        "ww-mw": {
+          "Solution guess 4": "clear"
+        },
+        "ww-ww": {
+          "Solution guess 4": "early"
+        },
+        "wm-mm": {
+          "Solution guess 4": "feral"
+        },
+        "mmmmm": {
+          "Solution guess 3": "renal"
+        }
+      },
+      "m--m-": {
+        "guess 3": "amber",
+        "m--mm": {
+          "Solution guess 4": "aider"
+        },
+        "mmmmm": {
+          "Solution guess 3": "amber"
+        }
+      },
+      "w-mm-": {
+        "guess 3": "paler",
+        "-mmmm": {
+          "Solution guess 4": "baler"
+        },
+        "mmmmm": {
+          "Solution guess 3": "paler"
+        }
+      },
+      "w--ww": {
+        "guess 3": "tread",
+        "wwww-": {
+          "Solution guess 4": "earth"
+        },
+        "mmmmm": {
+          "Solution guess 3": "tread"
+        }
+      },
+      "w-mw-": {
+        "guess 3": "relay",
+        "mmmm-": {
+          "Solution guess 4": "relax"
+        },
+        "mmmmm": {
+          "Solution guess 3": "relay"
+        }
+      },
+      "m--mw": {
+        "Solution guess 3": "after"
+      },
+      "m-wmw": {
+        "Solution guess 3": "alter"
+      },
+      "mw-m-": {
+        "Solution guess 3": "anger"
+      },
+      "m--w-": {
+        "Solution guess 3": "arena"
+      },
+      "ww-wm": {
+        "Solution guess 3": "great"
+      },
+      "wwwm-": {
+        "Solution guess 3": "lager"
+      },
+      "w-wmw": {
+        "Solution guess 3": "later"
+      },
+      "w-wm-": {
+        "Solution guess 3": "layer"
+      },
+      "wwww-": {
+        "Solution guess 3": "regal"
+      },
+      "w--wm": {
+        "Solution guess 3": "treat"
+      }
+    },
+    "-w-w-": {
+      "guess 2": "cutin",
+      "-----": {
+        "guess 3": "gloop",
+        "--mm-": {
+          "guess 4": "adeem",
+          "-w---": {
+            "Solution guess 5": "brood"
+          },
+          "-----": {
+            "Solution guess 5": "brook"
+          },
+          "----m": {
+            "Solution guess 5": "broom"
+          }
+        },
+        "-wm--": {
+          "Solution guess 4": "droll"
+        },
+        "-wmm-": {
+          "Solution guess 4": "drool"
+        },
+        "--mmm": {
+          "Solution guess 4": "droop"
+        },
+        "-mmm-": {
+          "Solution guess 4": "floor"
+        },
+        "m-mm-": {
+          "Solution guess 4": "groom"
+        },
+        "mwm--": {
+          "Solution guess 4": "growl"
+        },
+        "--mmw": {
+          "Solution guess 4": "proof"
+        },
+        "-wm-w": {
+          "Solution guess 4": "prowl"
+        },
+        "--m-w": {
+          "Solution guess 4": "proxy"
+        }
+      },
+      "--w--": {
+        "guess 3": "throb",
+        "wwwww": {
+          "Solution guess 4": "broth"
+        },
+        "wwww-": {
+          "Solution guess 4": "froth"
+        },
+        "mmmmm": {
+          "Solution guess 4": "throb"
+        },
+        "mmmm-": {
+          "Solution guess 4": "throw"
+        },
+        "m-ww-": {
+          "Solution guess 4": "troll"
+        },
+        "m-wm-": {
+          "Solution guess 4": "troop"
+        }
+      },
+      "----m": {
+        "guess 3": "badge",
+        "m----": {
+          "Solution guess 4": "brown"
+        },
+        "--w--": {
+          "Solution guess 4": "drown"
+        },
+        "-----": {
+          "Solution guess 4": "frown"
+        },
+        "---w-": {
+          "Solution guess 4": "grown"
+        }
+      },
+      "-m---": {
+        "guess 3": "juror",
+        "-mmmm": {
+          "Solution guess 4": "furor"
+        },
+        "-m-mm": {
+          "Solution guess 4": "humor"
+        },
+        "mmmmm": {
+          "Solution guess 4": "juror"
+        },
+        "-mwmm": {
+          "Solution guess 4": "rumor"
+        }
+      },
+      "---w-": {
+        "guess 3": "vigor",
+        "-w-ww": {
+          "Solution guess 4": "primo"
+        },
+        "-w-mm": {
+          "Solution guess 4": "prior"
+        },
+        "-mmmm": {
+          "Solution guess 4": "rigor"
+        },
+        "mmmmm": {
+          "Solution guess 4": "vigor"
+        }
+      },
+      "m----": {
+        "guess 3": "crook",
+        "mmm-m": {
+          "Solution guess 4": "crock"
+        },
+        "mmmmm": {
+          "Solution guess 4": "crook"
+        },
+        "mmm--": {
+          "Solution guess 4": "crowd"
+        }
+      },
+      "-w---": {
+        "guess 3": "proud",
+        "-wmm-": {
+          "Solution guess 4": "flour"
+        },
+        "wmmm-": {
+          "Solution guess 4": "group"
+        },
+        "mmmmm": {
+          "Solution guess 4": "proud"
+        }
+      },
+      "----w": {
+        "guess 3": "wrong",
+        "-mmm-": {
+          "Solution guess 4": "frond"
+        },
+        "-mmmm": {
+          "Solution guess 4": "prong"
+        },
+        "mmmmm": {
+          "Solution guess 4": "wrong"
+        }
+      },
+      "---ww": {
+        "guess 3": "rhino",
+        "w-wmw": {
+          "Solution guess 4": "irony"
+        },
+        "w-www": {
+          "Solution guess 4": "minor"
+        },
+        "mmmmm": {
+          "Solution guess 4": "rhino"
+        }
+      },
+      "--wm-": {
+        "guess 3": "orbit",
+        "wm-mm": {
+          "Solution guess 4": "droit"
+        },
+        "mmmmm": {
+          "Solution guess 4": "orbit"
+        }
+      },
+      "-ww--": {
+        "guess 3": "trout",
+        "-mmmm": {
+          "Solution guess 4": "grout"
+        },
+        "mmmmm": {
+          "Solution guess 4": "trout"
+        }
+      },
+      "-mw--": {
+        "guess 3": "turbo",
+        "mmw-w": {
+          "Solution guess 4": "tumor"
+        },
+        "mmmmm": {
+          "Solution guess 4": "turbo"
+        }
+      },
+      "---m-": {
+        "Solution guess 3": "broil"
+      },
+      "m--m-": {
+        "Solution guess 3": "choir"
+      },
+      "m---w": {
+        "Solution guess 3": "crony"
+      },
+      "mw---": {
+        "Solution guess 3": "croup"
+      },
+      "m---m": {
+        "Solution guess 3": "crown"
+      },
+      "mm-m-": {
+        "Solution guess 3": "curio"
+      },
+      "w----": {
+        "Solution guess 3": "frock"
+      },
+      "--w-w": {
+        "Solution guess 3": "front"
+      },
+      "---mm": {
+        "Solution guess 3": "groin"
+      },
+      "ww---": {
+        "Solution guess 3": "occur"
+      },
+      "-mm--": {
+        "Solution guess 3": "tutor"
+      }
+    },
+    "---w-": {
+      "guess 2": "glint",
+      "--m--": {
+        "guess 3": "crimp",
+        "wmm--": {
+          "Solution guess 4": "brick"
+        },
+        "mmm--": {
+          "Solution guess 4": "crick"
+        },
+        "mmmmm": {
+          "Solution guess 4": "crimp"
+        },
+        "wmm-w": {
+          "Solution guess 4": "prick"
+        },
+        "-mm-w": {
+          "Solution guess 4": "privy"
+        }
+      },
+      "-w---": {
+        "guess 3": "bardy",
+        "m-m-m": {
+          "Solution guess 4": "burly"
+        },
+        "--m-m": {
+          "Solution guess 4": "curly"
+        },
+        "--wwm": {
+          "Solution guess 4": "dryly"
+        },
+        "--m--": {
+          "Solution guess 4": "lurch"
+        },
+        "--w-m": {
+          "Solution guess 4": "wryly"
+        }
+      },
+      "-----": {
+        "guess 3": "crump",
+        "mmmm-": {
+          "Solution guess 4": "crumb"
+        },
+        "mmmmm": {
+          "Solution guess 4": "crump"
+        },
+        "mww--": {
+          "Solution guess 4": "curvy"
+        },
+        "-www-": {
+          "Solution guess 4": "murky"
+        },
+        "-ww--": {
+          "Solution guess 4": "ruddy"
+        }
+      },
+      "----w": {
+        "guess 3": "thrum",
+        "mmmmm": {
+          "Solution guess 4": "thrum"
+        },
+        "m-ww-": {
+          "Solution guess 4": "truck"
+        },
+        "m-www": {
+          "Solution guess 4": "trump"
+        },
+        "mwww-": {
+          "Solution guess 4": "truth"
+        }
+      },
+      "--w-w": {
+        "guess 3": "mirth",
+        "-mmmm": {
+          "Solution guess 4": "birth"
+        },
+        "-mmm-": {
+          "Solution guess 4": "dirty"
+        },
+        "mmmmm": {
+          "Solution guess 4": "mirth"
+        }
+      },
+      "--mm-": {
+        "guess 3": "drink",
+        "-mmmm": {
+          "Solution guess 4": "brink"
+        },
+        "-mmm-": {
+          "Solution guess 4": "briny"
+        },
+        "mmmmm": {
+          "Solution guess 4": "drink"
+        }
+      },
+      "-wm--": {
+        "guess 3": "aduki",
+        "-w--w": {
+          "Solution guess 4": "drill"
+        },
+        "----w": {
+          "Solution guess 4": "frill"
+        },
+        "---ww": {
+          "Solution guess 4": "krill"
+        }
+      },
+      "--w--": {
+        "guess 3": "druid",
+        "-w-w-": {
+          "Solution guess 4": "birch"
+        },
+        "mmmmm": {
+          "Solution guess 4": "druid"
+        }
+      },
+      "w-mm-": {
+        "guess 3": "wring",
+        "-mmmm": {
+          "Solution guess 4": "bring"
+        },
+        "mmmmm": {
+          "Solution guess 4": "wring"
+        }
+      },
+      "---mm": {
+        "guess 3": "burnt",
+        "mwwmm": {
+          "Solution guess 4": "brunt"
+        },
+        "mmmmm": {
+          "Solution guess 4": "burnt"
+        }
+      },
+      "--m-w": {
+        "guess 3": "trick",
+        "wmm--": {
+          "Solution guess 4": "fritz"
+        },
+        "mmmmm": {
+          "Solution guess 4": "trick"
+        }
+      },
+      "-ww--": {
+        "guess 3": "lyric",
+        "m-mm-": {
+          "Solution guess 4": "lurid"
+        },
+        "mmmmm": {
+          "Solution guess 4": "lyric"
+        }
+      },
+      "----m": {
+        "Solution guess 3": "crypt"
+      },
+      "--m-m": {
+        "Solution guess 3": "drift"
+      },
+      "---m-": {
+        "Solution guess 3": "drunk"
+      },
+      "--w-m": {
+        "Solution guess 3": "fruit"
+      },
+      "mww--": {
+        "Solution guess 3": "girly"
+      },
+      "m-w-w": {
+        "Solution guess 3": "girth"
+      },
+      "mwm--": {
+        "Solution guess 3": "grill"
+      },
+      "m-m--": {
+        "Solution guess 3": "grimy"
+      },
+      "m-mm-": {
+        "Solution guess 3": "grind"
+      },
+      "m----": {
+        "Solution guess 3": "gruff"
+      },
+      "m--mm": {
+        "Solution guess 3": "grunt"
+      },
+      "--ww-": {
+        "Solution guess 3": "incur"
+      },
+      "--mmm": {
+        "Solution guess 3": "print"
+      },
+      "w-w-m": {
+        "Solution guess 3": "right"
+      },
+      "w-w--": {
+        "Solution guess 3": "rigid"
+      },
+      "w----": {
+        "Solution guess 3": "rugby"
+      },
+      "-w--w": {
+        "Solution guess 3": "truly"
+      },
+      "---mw": {
+        "Solution guess 3": "trunk"
+      },
+      "w--m-": {
+        "Solution guess 3": "wrung"
+      }
+    },
+    "-w---": {
+      "guess 2": "clint",
+      "-m---": {
+        "guess 3": "bloom",
+        "mmmm-": {
+          "Solution guess 4": "blood"
+        },
+        "mmmmm": {
+          "Solution guess 4": "bloom"
+        },
+        "-mmm-": {
+          "Solution guess 4": "flood"
+        },
+        "-mmmm": {
+          "Solution guess 4": "gloom"
+        }
+      },
+      "-----": {
+        "guess 3": "jumbo",
+        "-mwww": {
+          "Solution guess 4": "buxom"
+        },
+        "-mmmm": {
+          "Solution guess 4": "gumbo"
+        },
+        "mmmmm": {
+          "Solution guess 4": "jumbo"
+        },
+        "----w": {
+          "Solution guess 4": "whoop"
+        }
+      },
+      "----w": {
+        "guess 3": "outgo",
+        "mmm-m": {
+          "Solution guess 4": "outdo"
+        },
+        "mmmmm": {
+          "Solution guess 4": "outgo"
+        },
+        "w-w-m": {
+          "Solution guess 4": "photo"
+        },
+        "wmw--": {
+          "Solution guess 4": "quoth"
+        }
+      },
+      "--ww-": {
+        "guess 3": "inbox",
+        "wwww-": {
+          "Solution guess 4": "bingo"
+        },
+        "ww-w-": {
+          "Solution guess 4": "dingo"
+        },
+        "mmmmm": {
+          "Solution guess 4": "inbox"
+        }
+      },
+      "--w--": {
+        "guess 3": "widow",
+        "-m-w-": {
+          "Solution guess 4": "hippo"
+        },
+        "-www-": {
+          "Solution guess 4": "ovoid"
+        },
+        "mmmmm": {
+          "Solution guess 4": "widow"
+        }
+      },
+      "--w-m": {
+        "guess 3": "pivot",
+        "-m-mm": {
+          "Solution guess 4": "bigot"
+        },
+        "mmmmm": {
+          "Solution guess 4": "pivot"
+        }
+      },
+      "wm---": {
+        "guess 3": "flock",
+        "-mmmm": {
+          "Solution guess 4": "block"
+        },
+        "mmmmm": {
+          "Solution guess 4": "flock"
+        }
+      },
+      "-m-w-": {
+        "guess 3": "flown",
+        "-mmmm": {
+          "Solution guess 4": "blown"
+        },
+        "mmmmm": {
+          "Solution guess 4": "flown"
+        }
+      },
+      "mm---": {
+        "guess 3": "cloud",
+        "mmm--": {
+          "Solution guess 4": "clock"
+        },
+        "mmmmm": {
+          "Solution guess 4": "cloud"
+        }
+      },
+      "-w---": {
+        "guess 3": "oddly",
+        "w--w-": {
+          "Solution guess 4": "ghoul"
+        },
+        "mmmmm": {
+          "Solution guess 4": "oddly"
+        }
+      },
+      "--m--": {
+        "guess 3": "opium",
+        "w-m-m": {
+          "Solution guess 4": "idiom"
+        },
+        "mmmmm": {
+          "Solution guess 4": "opium"
+        }
+      },
+      "-ww--": {
+        "guess 3": "limbo",
+        "ww--m": {
+          "Solution guess 4": "igloo"
+        },
+        "mmmmm": {
+          "Solution guess 4": "limbo"
+        }
+      },
+      "-w-w-": {
+        "guess 3": "nylon",
+        "w-ww-": {
+          "Solution guess 4": "knoll"
+        },
+        "mmmmm": {
+          "Solution guess 4": "nylon"
+        }
+      },
+      "--mw-": {
+        "guess 3": "union",
+        "-mmmm": {
+          "Solution guess 4": "onion"
+        },
+        "mmmmm": {
+          "Solution guess 4": "union"
+        }
+      },
+      "-m-m-": {
+        "Solution guess 3": "blond"
+      },
+      "m----": {
+        "Solution guess 3": "chock"
+      },
+      "mm--w": {
+        "Solution guess 3": "cloth"
+      },
+      "mm--m": {
+        "Solution guess 3": "clout"
+      },
+      "mm-w-": {
+        "Solution guess 3": "clown"
+      },
+      "--w-w": {
+        "Solution guess 3": "ditto"
+      },
+      "-m--m": {
+        "Solution guess 3": "flout"
+      },
+      "--m-m": {
+        "Solution guess 3": "idiot"
+      },
+      "--wwm": {
+        "Solution guess 3": "ingot"
+      },
+      "---ww": {
+        "Solution guess 3": "junto"
+      },
+      "w--w-": {
+        "Solution guess 3": "knock"
+      },
+      "---w-": {
+        "Solution guess 3": "known"
+      },
+      "-www-": {
+        "Solution guess 3": "lingo"
+      },
+      "w-w-w": {
+        "Solution guess 3": "optic"
+      },
+      "----m": {
+        "Solution guess 3": "ought"
+      },
+      "--mm-": {
+        "Solution guess 3": "owing"
+      },
+      "---m-": {
+        "Solution guess 3": "phony"
+      },
+      "-ww-m": {
+        "Solution guess 3": "pilot"
+      },
+      "--www": {
+        "Solution guess 3": "pinto"
+      },
+      "---mw": {
+        "Solution guess 3": "thong"
+      }
+    },
+    "-ww--": {
+      "guess 2": "cloot",
+      "---m-": {
+        "guess 3": "wagon",
+        "-w-mw": {
+          "Solution guess 4": "annoy"
+        },
+        "-w-m-": {
+          "Solution guess 4": "axiom"
+        },
+        "-w-mm": {
+          "Solution guess 4": "axion"
+        },
+        "-m-m-": {
+          "Solution guess 4": "bayou"
+        },
+        "mmmmm": {
+          "Solution guess 4": "wagon"
+        }
+      },
+      "-mm-m": {
+        "guess 3": "abaft",
+        "m--mm": {
+          "Solution guess 4": "aloft"
+        },
+        "ww--m": {
+          "Solution guess 4": "bloat"
+        },
+        "w--wm": {
+          "Solution guess 4": "float"
+        },
+        "w---m": {
+          "Solution guess 4": "gloat"
+        }
+      },
+      "--w--": {
+        "guess 3": "mango",
+        "-w--m": {
+          "Solution guess 4": "audio"
+        },
+        "-mm-m": {
+          "Solution guess 4": "banjo"
+        },
+        "mm--m": {
+          "Solution guess 4": "mambo"
+        },
+        "mmmmm": {
+          "Solution guess 4": "mango"
+        }
+      },
+      "--m--": {
+        "guess 3": "among",
+        "m-mmw": {
+          "Solution guess 4": "agony"
+        },
+        "mmmmm": {
+          "Solution guess 4": "among"
+        },
+        "m-m--": {
+          "Solution guess 4": "avoid"
+        }
+      },
+      "--m-m": {
+        "guess 3": "adopt",
+        "m-m-m": {
+          "Solution guess 4": "about"
+        },
+        "mmmmm": {
+          "Solution guess 4": "adopt"
+        }
+      },
+      "-wm--": {
+        "guess 3": "viola",
+        "--mww": {
+          "Solution guess 4": "afoul"
+        },
+        "mmmmm": {
+          "Solution guess 4": "viola"
+        }
+      },
+      "-m-m-": {
+        "guess 3": "alloy",
+        "mmmm-": {
+          "Solution guess 4": "allow"
+        },
+        "mmmmm": {
+          "Solution guess 4": "alloy"
+        }
+      },
+      "-mm--": {
+        "guess 3": "aloud",
+        "mmm--": {
+          "Solution guess 4": "along"
+        },
+        "mmmmm": {
+          "Solution guess 4": "aloud"
+        }
+      },
+      "w--m-": {
+        "guess 3": "havoc",
+        "-m-mw": {
+          "Solution guess 4": "bacon"
+        },
+        "mmmmm": {
+          "Solution guess 4": "havoc"
+        }
+      },
+      "--w-w": {
+        "guess 3": "tango",
+        "wm--m": {
+          "Solution guess 4": "patio"
+        },
+        "mmmmm": {
+          "Solution guess 4": "tango"
+        }
+      },
+      "---mm": {
+        "Solution guess 3": "abbot"
+      },
+      "--mmm": {
+        "Solution guess 3": "afoot"
+      },
+      "-w-m-": {
+        "Solution guess 3": "aglow"
+      },
+      "-m-mm": {
+        "Solution guess 3": "allot"
+      },
+      "-mmm-": {
+        "Solution guess 3": "aloof"
+      },
+      "-wm-w": {
+        "Solution guess 3": "atoll"
+      },
+      "---mw": {
+        "Solution guess 3": "baton"
+      },
+      "m-w--": {
+        "Solution guess 3": "cacao"
+      },
+      "m--m-": {
+        "Solution guess 3": "canon"
+      },
+      "mmm--": {
+        "Solution guess 3": "cloak"
+      },
+      "w-w--": {
+        "Solution guess 3": "macho"
+      },
+      "www-w": {
+        "Solution guess 3": "octal"
+      },
+      "-ww--": {
+        "Solution guess 3": "offal"
+      },
+      "--m-w": {
+        "Solution guess 3": "quota"
+      },
+      "--wmw": {
+        "Solution guess 3": "taboo"
+      },
+      "-w-mw": {
+        "Solution guess 3": "talon"
+      }
+    },
+    "--ww-": {
+      "guess 2": "riyal",
+      "w-ww-": {
+        "guess 3": "party",
+        "-mm-m": {
+          "Solution guess 4": "hardy"
+        },
+        "wmm-m": {
+          "Solution guess 4": "harpy"
+        },
+        "mmmmm": {
+          "Solution guess 4": "party"
+        },
+        "-mmwm": {
+          "Solution guess 4": "tardy"
+        },
+        "-mmmm": {
+          "Solution guess 4": "warty"
+        }
+      },
+      "w--w-": {
+        "guess 3": "parka",
+        "-ww--": {
+          "Solution guess 4": "augur"
+        },
+        "-mmwm": {
+          "Solution guess 4": "karma"
+        },
+        "-mm--": {
+          "Solution guess 4": "march"
+        },
+        "mmmmm": {
+          "Solution guess 4": "parka"
+        }
+      },
+      "mw-w-": {
+        "guess 3": "rapid",
+        "mm-w-": {
+          "Solution guess 4": "rabbi"
+        },
+        "mm-mm": {
+          "Solution guess 4": "rabid"
+        },
+        "mm-mw": {
+          "Solution guess 4": "radii"
+        },
+        "mmmmm": {
+          "Solution guess 4": "rapid"
+        }
+      },
+      "ww-w-": {
+        "guess 3": "tapir",
+        "-w-mw": {
+          "Solution guess 4": "acrid"
+        },
+        "-m-mm": {
+          "Solution guess 4": "nadir"
+        },
+        "mmmmm": {
+          "Solution guess 4": "tapir"
+        }
+      },
+      "ww-m-": {
+        "guess 3": "friar",
+        "-mmmm": {
+          "Solution guess 4": "briar"
+        },
+        "mmmmm": {
+          "Solution guess 4": "friar"
+        },
+        "-mmm-": {
+          "Solution guess 4": "triad"
+        }
+      },
+      "w--mw": {
+        "guess 3": "lunar",
+        "w--mm": {
+          "Solution guess 4": "altar"
+        },
+        "mmmmm": {
+          "Solution guess 4": "lunar"
+        }
+      },
+      "w--m-": {
+        "guess 3": "urban",
+        "-w-m-": {
+          "Solution guess 4": "carat"
+        },
+        "mmmmm": {
+          "Solution guess 4": "urban"
+        }
+      },
+      "wm-m-": {
+        "guess 3": "vicar",
+        "-mwmm": {
+          "Solution guess 4": "cigar"
+        },
+        "mmmmm": {
+          "Solution guess 4": "vicar"
+        }
+      },
+      "m--m-": {
+        "guess 3": "rajah",
+        "mm-m-": {
+          "Solution guess 4": "radar"
+        },
+        "mmmmm": {
+          "Solution guess 4": "rajah"
+        }
+      },
+      "m--w-": {
+        "guess 3": "rumba",
+        "m---w": {
+          "Solution guess 4": "ranch"
+        },
+        "mmmmm": {
+          "Solution guess 4": "rumba"
+        }
+      },
+      "m-ww-": {
+        "guess 3": "ratty",
+        "mm--m": {
+          "Solution guess 4": "randy"
+        },
+        "mmmmm": {
+          "Solution guess 4": "ratty"
+        }
+      },
+      "w-wm-": {
+        "Solution guess 3": "array"
+      },
+      "wm-w-": {
+        "Solution guess 3": "circa"
+      },
+      "w--ww": {
+        "Solution guess 3": "larva"
+      },
+      "w--mm": {
+        "Solution guess 3": "mural"
+      },
+      "mwww-": {
+        "Solution guess 3": "rainy"
+      },
+      "m-www": {
+        "Solution guess 3": "rally"
+      },
+      "m--ww": {
+        "Solution guess 3": "ralph"
+      },
+      "mm-mm": {
+        "Solution guess 3": "rival"
+      },
+      "m--mm": {
+        "Solution guess 3": "rural"
+      },
+      "ww-mm": {
+        "Solution guess 3": "trial"
+      },
+      "wm-mm": {
+        "Solution guess 3": "viral"
+      }
+    },
+    "m-m--": {
+      "guess 2": "thilk",
+      "---m-": {
+        "guess 3": "acidy",
+        "wm-w-": {
+          "Solution guess 4": "scald"
+        },
+        "wm---": {
+          "Solution guess 4": "scalp"
+        },
+        "wm--m": {
+          "Solution guess 4": "scaly"
+        },
+        "w----": {
+          "Solution guess 4": "small"
+        }
+      },
+      "-----": {
+        "guess 3": "swamp",
+        "m-mmm": {
+          "Solution guess 4": "scamp"
+        },
+        "m-mww": {
+          "Solution guess 4": "spasm"
+        },
+        "mwm-w": {
+          "Solution guess 4": "spawn"
+        },
+        "mmmmm": {
+          "Solution guess 4": "swamp"
+        }
+      },
+      "w----": {
+        "guess 3": "adapt",
+        "--m-m": {
+          "Solution guess 4": "scant"
+        },
+        "--m-w": {
+          "Solution guess 4": "staff"
+        },
+        "--mww": {
+          "Solution guess 4": "stamp"
+        },
+        "-wm-w": {
+          "Solution guess 4": "stand"
+        }
+      },
+      "----m": {
+        "guess 3": "spank",
+        "m-m-m": {
+          "Solution guess 4": "smack"
+        },
+        "m-mwm": {
+          "Solution guess 4": "snack"
+        },
+        "mmmmm": {
+          "Solution guess 4": "spank"
+        }
+      },
+      "-m--m": {
+        "guess 3": "shank",
+        "mmm-m": {
+          "Solution guess 4": "shack"
+        },
+        "mmmmm": {
+          "Solution guess 4": "shank"
+        }
+      },
+      "--ww-": {
+        "guess 3": "snail",
+        "mwmmw": {
+          "Solution guess 4": "slain"
+        },
+        "mmmmm": {
+          "Solution guess 4": "snail"
+        }
+      },
+      "-w---": {
+        "guess 3": "swash",
+        "m-mmm": {
+          "Solution guess 4": "smash"
+        },
+        "mmmmm": {
+          "Solution guess 4": "swash"
+        }
+      },
+      "w---m": {
+        "guess 3": "stank",
+        "mmm-m": {
+          "Solution guess 4": "stack"
+        },
+        "mmmmm": {
+          "Solution guess 4": "stank"
+        }
+      },
+      "w-w--": {
+        "guess 3": "stain",
+        "mmmm-": {
+          "Solution guess 4": "staid"
+        },
+        "mmmmm": {
+          "Solution guess 4": "stain"
+        }
+      },
+      "ww---": {
+        "guess 3": "swath",
+        "m-mwm": {
+          "Solution guess 4": "stash"
+        },
+        "mmmmm": {
+          "Solution guess 4": "swath"
+        }
+      },
+      "-m---": {
+        "Solution guess 3": "shady"
+      },
+      "wm---": {
+        "Solution guess 3": "shaft"
+      },
+      "-m--w": {
+        "Solution guess 3": "shaky"
+      },
+      "-m-m-": {
+        "Solution guess 3": "shall"
+      },
+      "wm-m-": {
+        "Solution guess 3": "shalt"
+      },
+      "-m-w-": {
+        "Solution guess 3": "shawl"
+      },
+      "---wm": {
+        "Solution guess 3": "slack"
+      },
+      "---w-": {
+        "Solution guess 3": "slang"
+      },
+      "w--w-": {
+        "Solution guess 3": "slant"
+      },
+      "-w-w-": {
+        "Solution guess 3": "slash"
+      },
+      "----w": {
+        "Solution guess 3": "snaky"
+      },
+      "w--mm": {
+        "Solution guess 3": "stalk"
+      },
+      "w--m-": {
+        "Solution guess 3": "stall"
+      },
+      "--w--": {
+        "Solution guess 3": "swami"
+      }
+    },
+    "--m--": {
+      "guess 2": "clink",
+      "w---m": {
+        "guess 3": "aahed",
+        "mw---": {
+          "Solution guess 4": "aback"
+        },
+        "w----": {
+          "Solution guess 4": "quack"
+        },
+        "w-w--": {
+          "Solution guess 4": "whack"
+        }
+      },
+      "-m-m-": {
+        "guess 3": "gland",
+        "-mmmm": {
+          "Solution guess 4": "bland"
+        },
+        "mmmmm": {
+          "Solution guess 4": "gland"
+        },
+        "-mmm-": {
+          "Solution guess 4": "plant"
+        }
+      },
+      "-m-mm": {
+        "guess 3": "abaft",
+        "-wm--": {
+          "Solution guess 4": "blank"
+        },
+        "--mw-": {
+          "Solution guess 4": "flank"
+        },
+        "--m--": {
+          "Solution guess 4": "plank"
+        }
+      },
+      "-mw--": {
+        "guess 3": "plait",
+        "-mmm-": {
+          "Solution guess 4": "flail"
+        },
+        "mmmm-": {
+          "Solution guess 4": "plaid"
+        },
+        "mmmmm": {
+          "Solution guess 4": "plait"
+        }
+      },
+      "-----": {
+        "guess 3": "guava",
+        "--m-w": {
+          "Solution guess 4": "adapt"
+        },
+        "mmmmm": {
+          "Solution guess 4": "guava"
+        }
+      },
+      "-ww--": {
+        "guess 3": "quail",
+        "--mmm": {
+          "Solution guess 4": "avail"
+        },
+        "mmmmm": {
+          "Solution guess 4": "quail"
+        }
+      },
+      "wm--m": {
+        "guess 3": "flack",
+        "-mmmm": {
+          "Solution guess 4": "black"
+        },
+        "mmmmm": {
+          "Solution guess 4": "flack"
+        }
+      },
+      "m----": {
+        "guess 3": "champ",
+        "mmm--": {
+          "Solution guess 4": "chaff"
+        },
+        "mmmmm": {
+          "Solution guess 4": "champ"
+        }
+      },
+      "-m---": {
+        "guess 3": "plaza",
+        "-mm-m": {
+          "Solution guess 4": "llama"
+        },
+        "mmmmm": {
+          "Solution guess 4": "plaza"
+        }
+      },
+      "--ww-": {
+        "Solution guess 3": "again"
+      },
+      "--w--": {
+        "Solution guess 3": "await"
+      },
+      "m-ww-": {
+        "Solution guess 3": "chain"
+      },
+      "mw--m": {
+        "Solution guess 3": "chalk"
+      },
+      "m--m-": {
+        "Solution guess 3": "chant"
+      },
+      "mm--m": {
+        "Solution guess 3": "clack"
+      },
+      "mmw--": {
+        "Solution guess 3": "claim"
+      },
+      "mm---": {
+        "Solution guess 3": "clamp"
+      },
+      "mm-m-": {
+        "Solution guess 3": "clang"
+      },
+      "mm-mm": {
+        "Solution guess 3": "clank"
+      },
+      "-m--w": {
+        "Solution guess 3": "flaky"
+      },
+      "--wm-": {
+        "Solution guess 3": "giant"
+      },
+      "--w-w": {
+        "Solution guess 3": "khaki"
+      },
+      "w--wm": {
+        "Solution guess 3": "knack"
+      },
+      "-mww-": {
+        "Solution guess 3": "plain"
+      },
+      "-w---": {
+        "Solution guess 3": "qualm"
+      },
+      "---mm": {
+        "Solution guess 3": "thank"
+      },
+      "---m-": {
+        "Solution guess 3": "twang"
+      }
+    },
+    "--w-m": {
+      "guess 2": "gault",
+      "-m---": {
+        "guess 3": "amnic",
+        "w---w": {
+          "Solution guess 4": "cache"
+        },
+        "w-m-w": {
+          "Solution guess 4": "dance"
+        },
+        "ww-w-": {
+          "Solution guess 4": "maize"
+        },
+        "ww---": {
+          "Solution guess 4": "maybe"
+        },
+        "w-ww-": {
+          "Solution guess 4": "naive"
+        },
+        "w----": {
+          "Solution guess 4": "payee"
+        },
+        "w--w-": {
+          "Solution guess 4": "waive"
+        }
+      },
+      "-w-m-": {
+        "guess 3": "ample",
+        "mm-mm": {
+          "Solution guess 4": "amble"
+        },
+        "mmmmm": {
+          "Solution guess 4": "ample"
+        },
+        "m--mm": {
+          "Solution guess 4": "ankle"
+        },
+        "m-mmm": {
+          "Solution guess 4": "apple"
+        }
+      },
+      "-m-m-": {
+        "guess 3": "becap",
+        "wwww-": {
+          "Solution guess 4": "cable"
+        },
+        "ww-w-": {
+          "Solution guess 4": "fable"
+        },
+        "-w-w-": {
+          "Solution guess 4": "ladle"
+        },
+        "-w-ww": {
+          "Solution guess 4": "maple"
+        }
+      },
+      "-m-w-": {
+        "guess 3": "valve",
+        "-mmmm": {
+          "Solution guess 4": "halve"
+        },
+        "-mw-m": {
+          "Solution guess 4": "lance"
+        },
+        "mmmmm": {
+          "Solution guess 4": "valve"
+        }
+      },
+      "-w---": {
+        "guess 3": "anime",
+        "m-m-m": {
+          "Solution guess 4": "abide"
+        },
+        "mmmmm": {
+          "Solution guess 4": "anime"
+        }
+      },
+      "ww-m-": {
+        "guess 3": "angle",
+        "m-wmm": {
+          "Solution guess 4": "agile"
+        },
+        "mmmmm": {
+          "Solution guess 4": "angle"
+        }
+      },
+      "-w-w-": {
+        "guess 3": "alive",
+        "mmm-m": {
+          "Solution guess 4": "alike"
+        },
+        "mmmmm": {
+          "Solution guess 4": "alive"
+        }
+      },
+      "wm---": {
+        "guess 3": "mange",
+        "-m-mm": {
+          "Solution guess 4": "badge"
+        },
+        "mmmmm": {
+          "Solution guess 4": "mange"
+        }
+      },
+      "mmm--": {
+        "guess 3": "gauze",
+        "mmm-m": {
+          "Solution guess 4": "gauge"
+        },
+        "mmmmm": {
+          "Solution guess 4": "gauze"
+        }
+      },
+      "-m-ww": {
+        "guess 3": "latte",
+        "mmm-m": {
+          "Solution guess 4": "lathe"
+        },
+        "mmmmm": {
+          "Solution guess 4": "latte"
+        }
+      },
+      "-wm-w": {
+        "Solution guess 3": "acute"
+      },
+      "ww-w-": {
+        "Solution guess 3": "algae"
+      },
+      "-m--w": {
+        "Solution guess 3": "bathe"
+      },
+      "wm-m-": {
+        "Solution guess 3": "eagle"
+      },
+      "mm---": {
+        "Solution guess 3": "gaffe"
+      },
+      "-mm-w": {
+        "Solution guess 3": "haute"
+      },
+      "-mm--": {
+        "Solution guess 3": "mauve"
+      },
+      "-m-mw": {
+        "Solution guess 3": "table"
+      },
+      "wmw--": {
+        "Solution guess 3": "vague"
+      },
+      "-mww-": {
+        "Solution guess 3": "value"
+      }
+    },
+    "--mw-": {
+      "guess 2": "clint",
+      "---m-": {
+        "guess 3": "bifid",
+        "m---m": {
+          "Solution guess 4": "brand"
+        },
+        "----w": {
+          "Solution guess 4": "drank"
+        },
+        "--w--": {
+          "Solution guess 4": "frank"
+        },
+        "----m": {
+          "Solution guess 4": "grand"
+        },
+        "-----": {
+          "Solution guess 4": "prank"
+        }
+      },
+      "-----": {
+        "guess 3": "aahed",
+        "ww--w": {
+          "Solution guess 4": "drama"
+        },
+        "w---m": {
+          "Solution guess 4": "fraud"
+        },
+        "w-w--": {
+          "Solution guess 4": "graph"
+        },
+        "w----": {
+          "Solution guess 4": "gravy"
+        }
+      },
+      "--ww-": {
+        "guess 3": "aband",
+        "-wmw-": {
+          "Solution guess 4": "brain"
+        },
+        "--mww": {
+          "Solution guess 4": "drain"
+        },
+        "--mw-": {
+          "Solution guess 4": "grain"
+        }
+      },
+      "---w-": {
+        "guess 3": "abamp",
+        "-wm--": {
+          "Solution guess 4": "brawn"
+        },
+        "--m--": {
+          "Solution guess 4": "drawn"
+        },
+        "--m-w": {
+          "Solution guess 4": "prawn"
+        }
+      },
+      "m----": {
+        "guess 3": "abysm",
+        "w----": {
+          "Solution guess 4": "crack"
+        },
+        "w---w": {
+          "Solution guess 4": "cramp"
+        },
+        "w-w--": {
+          "Solution guess 4": "crazy"
+        }
+      },
+      "-w---": {
+        "guess 3": "drawl",
+        "-mmmm": {
+          "Solution guess 4": "brawl"
+        },
+        "mmmmm": {
+          "Solution guess 4": "drawl"
+        }
+      },
+      "----m": {
+        "guess 3": "graft",
+        "-mmmm": {
+          "Solution guess 4": "draft"
+        },
+        "mmmmm": {
+          "Solution guess 4": "graft"
+        }
+      },
+      "-ww--": {
+        "guess 3": "grail",
+        "-mmmm": {
+          "Solution guess 4": "frail"
+        },
+        "mmmmm": {
+          "Solution guess 4": "grail"
+        }
+      },
+      "----w": {
+        "guess 3": "wrath",
+        "-mmw-": {
+          "Solution guess 4": "tramp"
+        },
+        "mmmmm": {
+          "Solution guess 4": "wrath"
+        }
+      },
+      "--w--": {
+        "Solution guess 3": "braid"
+      },
+      "m-w--": {
+        "Solution guess 3": "chair"
+      },
+      "m---m": {
+        "Solution guess 3": "craft"
+      },
+      "m--m-": {
+        "Solution guess 3": "crank"
+      },
+      "mw---": {
+        "Solution guess 3": "crawl"
+      },
+      "-mw--": {
+        "Solution guess 3": "flair"
+      },
+      "---mm": {
+        "Solution guess 3": "grant"
+      },
+      "w---w": {
+        "Solution guess 3": "track"
+      },
+      "w---m": {
+        "Solution guess 3": "tract"
+      },
+      "-ww-w": {
+        "Solution guess 3": "trail"
+      },
+      "--www": {
+        "Solution guess 3": "train"
+      },
+      "--w-m": {
+        "Solution guess 3": "trait"
+      },
+      "-w--w": {
+        "Solution guess 3": "trawl"
+      },
+      "w----": {
+        "Solution guess 3": "wrack"
+      }
+    },
+    "---wm": {
+      "guess 2": "pudic",
+      "---w-": {
+        "guess 3": "tribe",
+        "-mmmm": {
+          "Solution guess 4": "bribe"
+        },
+        "-mmwm": {
+          "Solution guess 4": "brine"
+        },
+        "-mm-m": {
+          "Solution guess 4": "grime"
+        },
+        "-ww-m": {
+          "Solution guess 4": "rifle"
+        },
+        "mmmmm": {
+          "Solution guess 4": "tribe"
+        },
+        "mmm-m": {
+          "Solution guess 4": "trite"
+        },
+        "wmm-m": {
+          "Solution guess 4": "write"
+        }
+      },
+      "-----": {
+        "guess 3": "verve",
+        "-mm-m": {
+          "Solution guess 4": "merge"
+        },
+        "-mmmm": {
+          "Solution guess 4": "nerve"
+        },
+        "--w-m": {
+          "Solution guess 4": "rhyme"
+        },
+        "-wm-m": {
+          "Solution guess 4": "three"
+        },
+        "mmm-m": {
+          "Solution guess 4": "verge"
+        },
+        "mmmmm": {
+          "Solution guess 4": "verve"
+        }
+      },
+      "--ww-": {
+        "guess 3": "drive",
+        "wmm-m": {
+          "Solution guess 4": "bride"
+        },
+        "mww-m": {
+          "Solution guess 4": "dirge"
+        },
+        "mmmmm": {
+          "Solution guess 4": "drive"
+        }
+      },
+      "-w---": {
+        "guess 3": "revue",
+        "w--wm": {
+          "Solution guess 4": "brute"
+        },
+        "mmmmm": {
+          "Solution guess 4": "revue"
+        }
+      },
+      "---ww": {
+        "guess 3": "trice",
+        "-mmwm": {
+          "Solution guess 4": "crime"
+        },
+        "mmmmm": {
+          "Solution guess 4": "trice"
+        }
+      },
+      "w--w-": {
+        "guess 3": "tripe",
+        "-mmmm": {
+          "Solution guess 4": "gripe"
+        },
+        "mmmmm": {
+          "Solution guess 4": "tripe"
+        }
+      },
+      "m--w-": {
+        "guess 3": "prize",
+        "mmm-m": {
+          "Solution guess 4": "prime"
+        },
+        "mmmmm": {
+          "Solution guess 4": "prize"
+        }
+      },
+      "mm---": {
+        "guess 3": "purge",
+        "mmm-m": {
+          "Solution guess 4": "puree"
+        },
+        "mmmmm": {
+          "Solution guess 4": "purge"
+        }
+      },
+      "----w": {
+        "Solution guess 3": "creme"
+      },
+      "w---w": {
+        "Solution guess 3": "crepe"
+      },
+      "-ww-w": {
+        "Solution guess 3": "crude"
+      },
+      "-m--w": {
+        "Solution guess 3": "curve"
+      },
+      "---m-": {
+        "Solution guess 3": "eerie"
+      },
+      "m--ww": {
+        "Solution guess 3": "price"
+      },
+      "m-ww-": {
+        "Solution guess 3": "pride"
+      },
+      "mww--": {
+        "Solution guess 3": "prude"
+      },
+      "mw---": {
+        "Solution guess 3": "prune"
+      },
+      "--mw-": {
+        "Solution guess 3": "ridge"
+      },
+      "wm---": {
+        "Solution guess 3": "rupee"
+      },
+      "-w--w": {
+        "Solution guess 3": "truce"
+      },
+      "-w-w-": {
+        "Solution guess 3": "urine"
+      }
+    },
+    "mw---": {
+      "guess 2": "cloot",
+      "--mm-": {
+        "guess 3": "knosp",
+        "w-mw-": {
+          "Solution guess 4": "shook"
+        },
+        "-mmwm": {
+          "Solution guess 4": "snoop"
+        },
+        "--mww": {
+          "Solution guess 4": "spoof"
+        },
+        "w-mww": {
+          "Solution guess 4": "spook"
+        },
+        "-wmww": {
+          "Solution guess 4": "spoon"
+        },
+        "-wmw-": {
+          "Solution guess 4": "swoon"
+        },
+        "--mwm": {
+          "Solution guess 4": "swoop"
+        }
+      },
+      "--m-m": {
+        "guess 3": "ethne",
+        "-ww--": {
+          "Solution guess 4": "shout"
+        },
+        "-w-w-": {
+          "Solution guess 4": "snout"
+        },
+        "-w---": {
+          "Solution guess 4": "spout"
+        },
+        "-m---": {
+          "Solution guess 4": "stout"
+        }
+      },
+      "--m--": {
+        "guess 3": "snowy",
+        "mwmm-": {
+          "Solution guess 4": "shown"
+        },
+        "m-mmm": {
+          "Solution guess 4": "showy"
+        },
+        "m-m-m": {
+          "Solution guess 4": "smoky"
+        },
+        "mmmmm": {
+          "Solution guess 4": "snowy"
+        }
+      },
+      "w-m--": {
+        "guess 3": "smock",
+        "m-mw-": {
+          "Solution guess 4": "scoff"
+        },
+        "m-mmm": {
+          "Solution guess 4": "shock"
+        },
+        "mmmmm": {
+          "Solution guess 4": "smock"
+        }
+      },
+      "wwm--": {
+        "guess 3": "scowl",
+        "mmm-w": {
+          "Solution guess 4": "scold"
+        },
+        "mmmmm": {
+          "Solution guess 4": "scowl"
+        }
+      },
+      "w-m-w": {
+        "guess 3": "stoic",
+        "mmm-w": {
+          "Solution guess 4": "stock"
+        },
+        "mmmmm": {
+          "Solution guess 4": "stoic"
+        }
+      },
+      "--m-w": {
+        "guess 3": "stony",
+        "mmm--": {
+          "Solution guess 4": "stomp"
+        },
+        "mmmmm": {
+          "Solution guess 4": "stony"
+        }
+      },
+      "--mmw": {
+        "guess 3": "stoop",
+        "mmmm-": {
+          "Solution guess 4": "stood"
+        },
+        "mmmmm": {
+          "Solution guess 4": "stoop"
+        }
+      },
+      "w--m-": {
+        "Solution guess 3": "scion"
+      },
+      "w-mm-": {
+        "Solution guess 3": "scoop"
+      },
+      "w-m-m": {
+        "Solution guess 3": "scout"
+      },
+      "--mmm": {
+        "Solution guess 3": "shoot"
+      },
+      "-mmm-": {
+        "Solution guess 3": "sloop"
+      },
+      "-mm--": {
+        "Solution guess 3": "slosh"
+      },
+      "-mm-w": {
+        "Solution guess 3": "sloth"
+      },
+      "-wm--": {
+        "Solution guess 3": "spoil"
+      },
+      "-wmm-": {
+        "Solution guess 3": "spool"
+      },
+      "-wmmw": {
+        "Solution guess 3": "stool"
+      },
+      "---m-": {
+        "Solution guess 3": "synod"
+      }
+    },
+    "m---w": {
+      "guess 2": "clipt",
+      "-----": {
+        "guess 3": "seven",
+        "mm-w-": {
+          "Solution guess 4": "seedy"
+        },
+        "mm-mm": {
+          "Solution guess 4": "semen"
+        },
+        "mmmmm": {
+          "Solution guess 4": "seven"
+        },
+        "mw-mm": {
+          "Solution guess 4": "sheen"
+        }
+      },
+      "---w-": {
+        "guess 3": "sweep",
+        "m-mmm": {
+          "Solution guess 4": "sheep"
+        },
+        "m-mmw": {
+          "Solution guess 4": "speed"
+        },
+        "m-m-w": {
+          "Solution guess 4": "spend"
+        },
+        "mmmmm": {
+          "Solution guess 4": "sweep"
+        }
+      },
+      "-w---": {
+        "guess 3": "fehme",
+        "www--": {
+          "Solution guess 4": "shelf"
+        },
+        "-ww--": {
+          "Solution guess 4": "shell"
+        },
+        "-w-w-": {
+          "Solution guess 4": "smell"
+        },
+        "-w---": {
+          "Solution guess 4": "swell"
+        }
+      },
+      "---ww": {
+        "guess 3": "steep",
+        "mww-m": {
+          "Solution guess 4": "setup"
+        },
+        "mmmmm": {
+          "Solution guess 4": "steep"
+        }
+      },
+      "----m": {
+        "guess 3": "sweet",
+        "m-mmm": {
+          "Solution guess 4": "sheet"
+        },
+        "mmmmm": {
+          "Solution guess 4": "sweet"
+        }
+      },
+      "--w--": {
+        "guess 3": "sinew",
+        "mw-w-": {
+          "Solution guess 4": "sheik"
+        },
+        "mmmmm": {
+          "Solution guess 4": "sinew"
+        }
+      },
+      "w---m": {
+        "Solution guess 3": "scent"
+      },
+      "--m--": {
+        "Solution guess 3": "shied"
+      },
+      "-m---": {
+        "Solution guess 3": "sleek"
+      },
+      "-m-w-": {
+        "Solution guess 3": "sleep"
+      },
+      "-m--m": {
+        "Solution guess 3": "sleet"
+      },
+      "-m-mm": {
+        "Solution guess 3": "slept"
+      },
+      "-w--m": {
+        "Solution guess 3": "smelt"
+      },
+      "w--w-": {
+        "Solution guess 3": "speck"
+      },
+      "-w-w-": {
+        "Solution guess 3": "spell"
+      },
+      "-w-wm": {
+        "Solution guess 3": "spelt"
+      },
+      "---wm": {
+        "Solution guess 3": "spent"
+      },
+      "--mw-": {
+        "Solution guess 3": "spied"
+      },
+      "-wmw-": {
+        "Solution guess 3": "spiel"
+      },
+      "----w": {
+        "Solution guess 3": "steed"
+      },
+      "-w--w": {
+        "Solution guess 3": "steel"
+      },
+      "--w-w": {
+        "Solution guess 3": "stein"
+      },
+      "---mm": {
+        "Solution guess 3": "swept"
+      }
+    },
+    "w----": {
+      "guess 2": "hists",
+      "--mm-": {
+        "guess 3": "algid",
+        "----w": {
+          "Solution guess 4": "dusty"
+        },
+        "--w--": {
+          "Solution guess 4": "gusty"
+        },
+        "-w---": {
+          "Solution guess 4": "lusty"
+        },
+        "-----": {
+          "Solution guess 4": "musty"
+        }
+      },
+      "w-w--": {
+        "guess 3": "abaft",
+        "-w---": {
+          "Solution guess 4": "blush"
+        },
+        "---w-": {
+          "Solution guess 4": "flush"
+        },
+        "-----": {
+          "Solution guess 4": "plush"
+        }
+      },
+      "w-m--": {
+        "guess 3": "abamp",
+        "-w---": {
+          "Solution guess 4": "bushy"
+        },
+        "---w-": {
+          "Solution guess 4": "mushy"
+        },
+        "----w": {
+          "Solution guess 4": "pushy"
+        }
+      },
+      "--m--": {
+        "guess 3": "musky",
+        "-mmmm": {
+          "Solution guess 4": "dusky"
+        },
+        "mmmmm": {
+          "Solution guess 4": "musky"
+        }
+      },
+      "-m--m": {
+        "guess 3": "minus",
+        "-m-mm": {
+          "Solution guess 4": "ficus"
+        },
+        "mmmmm": {
+          "Solution guess 4": "minus"
+        }
+      },
+      "----m": {
+        "guess 3": "mucus",
+        "-m-mm": {
+          "Solution guess 4": "lupus"
+        },
+        "mmmmm": {
+          "Solution guess 4": "mucus"
+        }
+      },
+      "-mww-": {
+        "guess 3": "tipsy",
+        "wm-m-": {
+          "Solution guess 4": "midst"
+        },
+        "mmmmm": {
+          "Solution guess 4": "tipsy"
+        }
+      },
+      "-ww-m": {
+        "Solution guess 3": "bliss"
+      },
+      "wmm--": {
+        "Solution guess 3": "fishy"
+      },
+      "--m-w": {
+        "Solution guess 3": "fussy"
+      },
+      "-mw--": {
+        "Solution guess 3": "gipsy"
+      },
+      "--w--": {
+        "Solution guess 3": "gypsy"
+      },
+      "m---m": {
+        "Solution guess 3": "humus"
+      },
+      "m-m--": {
+        "Solution guess 3": "husky"
+      },
+      "m-m-w": {
+        "Solution guess 3": "hussy"
+      },
+      "-mm-w": {
+        "Solution guess 3": "missy"
+      },
+      "-wm--": {
+        "Solution guess 3": "music"
+      },
+      "-www-": {
+        "Solution guess 3": "twist"
+      },
+      "-ww--": {
+        "Solution guess 3": "using"
+      },
+      "-mmw-": {
+        "Solution guess 3": "visit"
+      },
+      "www--": {
+        "Solution guess 3": "whisk"
+      },
+      "-mm--": {
+        "Solution guess 3": "wispy"
+      }
+    },
+    "--m-m": {
+      "guess 2": "glitz",
+      "-----": {
+        "guess 3": "weave",
+        "--m-m": {
+          "guess 4": "quake",
+          "--m-m": {
+            "Solution guess 5": "chafe"
+          },
+          "mmmmm": {
+            "Solution guess 5": "quake"
+          }
+        },
+        "w-m-m": {
+          "Solution guess 4": "awake"
+        },
+        "-wmwm": {
+          "Solution guess 4": "evade"
+        },
+        "-mmmm": {
+          "Solution guess 4": "heave"
+        },
+        "--mmm": {
+          "Solution guess 4": "knave"
+        },
+        "-mm-m": {
+          "Solution guess 4": "peace"
+        },
+        "mmmmm": {
+          "Solution guess 4": "weave"
+        }
+      },
+      "-m---": {
+        "guess 3": "abamp",
+        "--m-w": {
+          "guess 4": "plane",
+          "mmm-m": {
+            "Solution guess 5": "place"
+          },
+          "mmmmm": {
+            "Solution guess 5": "plane"
+          }
+        },
+        "-wm--": {
+          "Solution guess 4": "blade"
+        },
+        "-wmm-": {
+          "Solution guess 4": "blame"
+        },
+        "--m--": {
+          "Solution guess 4": "flake"
+        },
+        "--mm-": {
+          "Solution guess 4": "flame"
+        }
+      },
+      "w----": {
+        "guess 3": "agape",
+        "mwm-m": {
+          "Solution guess 4": "adage"
+        },
+        "mmmmm": {
+          "Solution guess 4": "agape"
+        }
+      },
+      "-m-m-": {
+        "guess 3": "plate",
+        "-mmmm": {
+          "Solution guess 4": "elate"
+        },
+        "mmmmm": {
+          "Solution guess 4": "plate"
+        }
+      },
+      "-w---": {
+        "guess 3": "whale",
+        "--mwm": {
+          "Solution guess 4": "leave"
+        },
+        "mmmmm": {
+          "Solution guess 4": "whale"
+        }
+      },
+      "---m-": {
+        "Solution guess 3": "abate"
+      },
+      "w--m-": {
+        "Solution guess 3": "agate"
+      },
+      "----w": {
+        "Solution guess 3": "amaze"
+      },
+      "-m--w": {
+        "Solution guess 3": "blaze"
+      },
+      "mm---": {
+        "Solution guess 3": "glade"
+      },
+      "mm--w": {
+        "Solution guess 3": "glaze"
+      },
+      "w-w--": {
+        "Solution guess 3": "image"
+      },
+      "--w--": {
+        "Solution guess 3": "inane"
+      }
+    },
+    "-www-": {
+      "guess 2": "maron",
+      "-mwm-": {
+        "guess 3": "valor",
+        "wm-mm": {
+          "Solution guess 4": "favor"
+        },
+        "-mwmm": {
+          "Solution guess 4": "labor"
+        },
+        "-m-mm": {
+          "Solution guess 4": "razor"
+        },
+        "mmmmm": {
+          "Solution guess 4": "valor"
+        },
+        "mm-mm": {
+          "Solution guess 4": "vapor"
+        }
+      },
+      "-wwm-": {
+        "guess 3": "arbor",
+        "m-wmm": {
+          "Solution guess 4": "abhor"
+        },
+        "m--mm": {
+          "Solution guess 4": "actor"
+        },
+        "mmmmm": {
+          "Solution guess 4": "arbor"
+        },
+        "mm-mm": {
+          "Solution guess 4": "ardor"
+        }
+      },
+      "-www-": {
+        "guess 3": "croak",
+        "-mmm-": {
+          "Solution guess 4": "broad"
+        },
+        "mmmmm": {
+          "Solution guess 4": "croak"
+        }
+      },
+      "-mmm-": {
+        "guess 3": "tarot",
+        "-mmm-": {
+          "Solution guess 4": "carol"
+        },
+        "mmmmm": {
+          "Solution guess 4": "tarot"
+        }
+      },
+      "-wwwm": {
+        "guess 3": "organ",
+        "wmwmm": {
+          "Solution guess 4": "groan"
+        },
+        "mmmmm": {
+          "Solution guess 4": "organ"
+        }
+      },
+      "mmwm-": {
+        "guess 3": "mayor",
+        "mm-mm": {
+          "Solution guess 4": "major"
+        },
+        "mmmmm": {
+          "Solution guess 4": "mayor"
+        }
+      },
+      "-mww-": {
+        "guess 3": "ratio",
+        "mm-mm": {
+          "Solution guess 4": "radio"
+        },
+        "mmmmm": {
+          "Solution guess 4": "ratio"
+        }
+      },
+      "-wmmm": {
+        "Solution guess 3": "apron"
+      },
+      "wwwm-": {
+        "Solution guess 3": "armor"
+      },
+      "wwww-": {
+        "Solution guess 3": "aroma"
+      },
+      "-wmm-": {
+        "Solution guess 3": "arrow"
+      },
+      "-mmmm": {
+        "Solution guess 3": "baron"
+      },
+      "-mmw-": {
+        "Solution guess 3": "cargo"
+      },
+      "mmwmw": {
+        "Solution guess 3": "manor"
+      },
+      "-mwmm": {
+        "Solution guess 3": "rayon"
+      }
+    },
+    "-m--w": {
+      "guess 2": "meynt",
+      "-w-w-": {
+        "guess 3": "woven",
+        "-mmmm": {
+          "Solution guess 4": "coven"
+        },
+        "-m-mm": {
+          "Solution guess 4": "dozen"
+        },
+        "-mmmw": {
+          "Solution guess 4": "novel"
+        },
+        "mm-mm": {
+          "Solution guess 4": "woken"
+        },
+        "mmmmm": {
+          "Solution guess 4": "woven"
+        }
+      },
+      "-w---": {
+        "guess 3": "advew",
+        "---mw": {
+          "Solution guess 4": "bowel"
+        },
+        "-w-mw": {
+          "Solution guess 4": "dowel"
+        },
+        "--mm-": {
+          "Solution guess 4": "hovel"
+        },
+        "--wmw": {
+          "Solution guess 4": "vowel"
+        }
+      },
+      "-ww--": {
+        "guess 3": "abode",
+        "--w-w": {
+          "Solution guess 4": "covey"
+        },
+        "--www": {
+          "Solution guess 4": "dopey"
+        },
+        "--m-w": {
+          "Solution guess 4": "gooey"
+        }
+      },
+      "-www-": {
+        "guess 3": "honey",
+        "-mmmm": {
+          "Solution guess 4": "boney"
+        },
+        "mmmmm": {
+          "Solution guess 4": "honey"
+        }
+      },
+      "-w--w": {
+        "guess 3": "towel",
+        "wm-mm": {
+          "Solution guess 4": "hotel"
+        },
+        "mmmmm": {
+          "Solution guess 4": "towel"
+        }
+      },
+      "mw---": {
+        "guess 3": "modem",
+        "mmmm-": {
+          "Solution guess 4": "model"
+        },
+        "mmmmm": {
+          "Solution guess 4": "modem"
+        }
+      },
+      "ww--m": {
+        "Solution guess 3": "comet"
+      },
+      "-w--m": {
+        "Solution guess 3": "covet"
+      },
+      "ww---": {
+        "Solution guess 3": "golem"
+      },
+      "mwww-": {
+        "Solution guess 3": "money"
+      },
+      "mw--w": {
+        "Solution guess 3": "motel"
+      },
+      "-w-ww": {
+        "Solution guess 3": "token"
+      },
+      "ww--w": {
+        "Solution guess 3": "totem"
+      },
+      "ww-w-": {
+        "Solution guess 3": "women"
+      }
+    },
+    "-m-w-": {
+      "guess 2": "cyton",
+      "---w-": {
+        "guess 3": "rough",
+        "wm-m-": {
+          "Solution guess 4": "forgo"
+        },
+        "wmw--": {
+          "Solution guess 4": "forum"
+        },
+        "wm--m": {
+          "Solution guess 4": "morph"
+        },
+        "mmmmm": {
+          "Solution guess 4": "rough"
+        },
+        "wm---": {
+          "Solution guess 4": "world"
+        }
+      },
+      "-w-w-": {
+        "guess 3": "wordy",
+        "-mw-m": {
+          "Solution guess 4": "roomy"
+        },
+        "wmwmm": {
+          "Solution guess 4": "rowdy"
+        },
+        "mmmmm": {
+          "Solution guess 4": "wordy"
+        }
+      },
+      "---mw": {
+        "guess 3": "honor",
+        "-mmmm": {
+          "Solution guess 4": "donor"
+        },
+        "mmmmm": {
+          "Solution guess 4": "honor"
+        }
+      },
+      "--ww-": {
+        "guess 3": "worth",
+        "-mmmm": {
+          "Solution guess 4": "forth"
+        },
+        "mmmmm": {
+          "Solution guess 4": "worth"
+        }
+      },
+      "--mm-": {
+        "guess 3": "rotor",
+        "-mmmm": {
+          "Solution guess 4": "motor"
+        },
+        "mmmmm": {
+          "Solution guess 4": "rotor"
+        }
+      },
+      "m--m-": {
+        "Solution guess 3": "color"
+      },
+      "mw-ww": {
+        "Solution guess 3": "corny"
+      },
+      "-www-": {
+        "Solution guess 3": "forty"
+      },
+      "-w-ww": {
+        "Solution guess 3": "horny"
+      },
+      "---mm": {
+        "Solution guess 3": "moron"
+      },
+      "--www": {
+        "Solution guess 3": "north"
+      },
+      "w--w-": {
+        "Solution guess 3": "porch"
+      },
+      "---wm": {
+        "Solution guess 3": "robin"
+      },
+      "--wm-": {
+        "Solution guess 3": "robot"
+      },
+      "ww-w-": {
+        "Solution guess 3": "rocky"
+      },
+      "---ww": {
+        "Solution guess 3": "round"
+      },
+      "w-ww-": {
+        "Solution guess 3": "torch"
+      }
+    },
+    "-w--w": {
+      "guess 2": "lento",
+      "-ww-w": {
+        "guess 3": "envoy",
+        "mw-wm": {
+          "Solution guess 4": "ebony"
+        },
+        "mm-m-": {
+          "Solution guess 4": "endow"
+        },
+        "mm-mm": {
+          "Solution guess 4": "enjoy"
+        },
+        "mmmmm": {
+          "Solution guess 4": "envoy"
+        }
+      },
+      "wm--m": {
+        "guess 3": "hello",
+        "-mmmm": {
+          "Solution guess 4": "cello"
+        },
+        "mmmmm": {
+          "Solution guess 4": "hello"
+        }
+      },
+      "-m-ww": {
+        "guess 3": "detox",
+        "mmwm-": {
+          "Solution guess 4": "depot"
+        },
+        "mmmmm": {
+          "Solution guess 4": "detox"
+        }
+      },
+      "-w--w": {
+        "guess 3": "epoxy",
+        "mmm--": {
+          "Solution guess 4": "epoch"
+        },
+        "mmmmm": {
+          "Solution guess 4": "epoxy"
+        }
+      },
+      "wmw-w": {
+        "guess 3": "melon",
+        "-mmmm": {
+          "Solution guess 4": "felon"
+        },
+        "mmmmm": {
+          "Solution guess 4": "melon"
+        }
+      },
+      "wm--w": {
+        "Solution guess 3": "below"
+      },
+      "-m--w": {
+        "Solution guess 3": "decoy"
+      },
+      "-mw-w": {
+        "Solution guess 3": "demon"
+      },
+      "ww--w": {
+        "Solution guess 3": "elbow"
+      },
+      "ww-ww": {
+        "Solution guess 3": "extol"
+      },
+      "-m--m": {
+        "Solution guess 3": "gecko"
+      },
+      "mmw-w": {
+        "Solution guess 3": "lemon"
+      },
+      "-w-ww": {
+        "Solution guess 3": "octet"
+      },
+      "-wwww": {
+        "Solution guess 3": "often"
+      },
+      "www-w": {
+        "Solution guess 3": "olden"
+      },
+      "-m-wm": {
+        "Solution guess 3": "tempo"
+      },
+      "-mm-w": {
+        "Solution guess 3": "venom"
+      },
+      "-w--m": {
+        "Solution guess 3": "video"
+      }
+    },
+    "w-w--": {
+      "guess 2": "linty",
+      "-w---": {
+        "guess 3": "basis",
+        "-wwwm": {
+          "Solution guess 4": "amiss"
+        },
+        "mmmm-": {
+          "Solution guess 4": "basic"
+        },
+        "mmmmm": {
+          "Solution guess 4": "basis"
+        }
+      },
+      "---mm": {
+        "guess 3": "aheap",
+        "ww---": {
+          "Solution guess 4": "hasty"
+        },
+        "w---w": {
+          "Solution guess 4": "pasty"
+        },
+        "w----": {
+          "Solution guess 4": "tasty"
+        }
+      },
+      "----m": {
+        "guess 3": "gassy",
+        "-wmwm": {
+          "Solution guess 4": "assay"
+        },
+        "mmmmm": {
+          "Solution guess 4": "gassy"
+        }
+      },
+      "w----": {
+        "guess 3": "usual",
+        "-w-mm": {
+          "Solution guess 4": "basal"
+        },
+        "mmmmm": {
+          "Solution guess 4": "usual"
+        }
+      },
+      "----w": {
+        "Solution guess 3": "abyss"
+      },
+      "--ww-": {
+        "Solution guess 3": "angst"
+      },
+      "ww---": {
+        "Solution guess 3": "basil"
+      },
+      "-ww--": {
+        "Solution guess 3": "basin"
+      },
+      "-w--m": {
+        "Solution guess 3": "daisy"
+      },
+      "w-w--": {
+        "Solution guess 3": "nasal"
+      },
+      "--wmm": {
+        "Solution guess 3": "nasty"
+      },
+      "w---m": {
+        "Solution guess 3": "palsy"
+      },
+      "--m-m": {
+        "Solution guess 3": "pansy"
+      },
+      "---m-": {
+        "Solution guess 3": "pasta"
+      },
+      "---wm": {
+        "Solution guess 3": "patsy"
+      },
+      "-m-m-": {
+        "Solution guess 3": "vista"
+      },
+      "-w-w-": {
+        "Solution guess 3": "waist"
+      }
+    },
+    "m---m": {
+      "guess 2": "pling",
+      "--m--": {
+        "guess 3": "suite",
+        "m-m-m": {
+          "Solution guess 4": "seize"
+        },
+        "m-mmm": {
+          "Solution guess 4": "smite"
+        },
+        "mmmmm": {
+          "Solution guess 4": "suite"
+        }
+      },
+      "-mm--": {
+        "guess 3": "ached",
+        "-w-w-": {
+          "Solution guess 4": "slice"
+        },
+        "---ww": {
+          "Solution guess 4": "slide"
+        },
+        "---w-": {
+          "Solution guess 4": "slime"
+        }
+      },
+      "w-m--": {
+        "guess 3": "aback",
+        "---m-": {
+          "Solution guess 4": "spice"
+        },
+        "----w": {
+          "Solution guess 4": "spike"
+        },
+        "-----": {
+          "Solution guess 4": "spite"
+        }
+      },
+      "--mm-": {
+        "guess 3": "swine",
+        "m-mmm": {
+          "Solution guess 4": "shine"
+        },
+        "mmmmm": {
+          "Solution guess 4": "swine"
+        }
+      },
+      "---m-": {
+        "Solution guess 3": "scene"
+      },
+      "----w": {
+        "Solution guess 3": "segue"
+      },
+      "---w-": {
+        "Solution guess 3": "sense"
+      },
+      "--w-w": {
+        "Solution guess 3": "siege"
+      },
+      "--w--": {
+        "Solution guess 3": "sieve"
+      },
+      "--ww-": {
+        "Solution guess 3": "since"
+      },
+      "--www": {
+        "Solution guess 3": "singe"
+      },
+      "-wm--": {
+        "Solution guess 3": "smile"
+      },
+      "--mw-": {
+        "Solution guess 3": "snide"
+      },
+      "w-mw-": {
+        "Solution guess 3": "snipe"
+      },
+      "w-mm-": {
+        "Solution guess 3": "spine"
+      },
+      "-w---": {
+        "Solution guess 3": "style"
+      }
+    },
+    "-m-ww": {
+      "guess 2": "rewth",
+      "ww---": {
+        "guess 3": "black",
+        "-----": {
+          "guess 4": "abysm",
+          "--m--": {
+            "Solution guess 5": "foyer"
+          },
+          "-----": {
+            "Solution guess 5": "goner"
+          },
+          "----w": {
+            "Solution guess 5": "mover"
+          }
+        },
+        "---w-": {
+          "guess 4": "cover",
+          "mm-mm": {
+            "Solution guess 5": "corer"
+          },
+          "mmmmm": {
+            "Solution guess 5": "cover"
+          }
+        },
+        "----w": {
+          "guess 4": "poker",
+          "-mmmm": {
+            "Solution guess 5": "joker"
+          },
+          "mmmmm": {
+            "Solution guess 5": "poker"
+          }
+        },
+        "m----": {
+          "Solution guess 4": "boxer"
+        },
+        "-w---": {
+          "Solution guess 4": "lover"
+        }
+      },
+      "wwm--": {
+        "guess 3": "ample",
+        "----w": {
+          "Solution guess 4": "cower"
+        },
+        "---ww": {
+          "Solution guess 4": "lower"
+        },
+        "-w--w": {
+          "Solution guess 4": "mower"
+        },
+        "--w-w": {
+          "Solution guess 4": "power"
+        }
+      },
+      "mw---": {
+        "guess 3": "rover",
+        "mm-m-": {
+          "Solution guess 4": "rodeo"
+        },
+        "mm-mm": {
+          "Solution guess 4": "roger"
+        },
+        "mmmmm": {
+          "Solution guess 4": "rover"
+        }
+      },
+      "ww--w": {
+        "guess 3": "hover",
+        "mm-mm": {
+          "Solution guess 4": "homer"
+        },
+        "mmmmm": {
+          "Solution guess 4": "hover"
+        }
+      },
+      "mwm--": {
+        "Solution guess 3": "rower"
+      },
+      "wwmw-": {
+        "Solution guess 3": "tower"
+      },
+      "ww-w-": {
+        "Solution guess 3": "voter"
+      },
+      "www--": {
+        "Solution guess 3": "wooer"
+      }
+    },
+    "--m-w": {
+      "guess 2": "depth",
+      "-w-w-": {
+        "guess 3": "exalt",
+        "m-m-m": {
+          "Solution guess 4": "enact"
+        },
+        "mmm-m": {
+          "Solution guess 4": "exact"
+        },
+        "mmmmm": {
+          "Solution guess 4": "exalt"
+        }
+      },
+      "-m---": {
+        "guess 3": "leaky",
+        "mmm-m": {
+          "Solution guess 4": "leafy"
+        },
+        "mmmmm": {
+          "Solution guess 4": "leaky"
+        },
+        "wmm-m": {
+          "Solution guess 4": "mealy"
+        }
+      },
+      "-m--m": {
+        "guess 3": "leach",
+        "-mmmm": {
+          "Solution guess 4": "beach"
+        },
+        "mmmmm": {
+          "Solution guess 4": "leach"
+        }
+      },
+      "-m-w-": {
+        "guess 3": "meant",
+        "-mmmm": {
+          "Solution guess 4": "leant"
+        },
+        "mmmmm": {
+          "Solution guess 4": "meant"
+        }
+      },
+      "wm---": {
+        "Solution guess 3": "beady"
+      },
+      "mm-w-": {
+        "Solution guess 3": "dealt"
+      },
+      "mm-mm": {
+        "Solution guess 3": "death"
+      },
+      "-w---": {
+        "Solution guess 3": "email"
+      },
+      "wm--w": {
+        "Solution guess 3": "heady"
+      },
+      "-m-mm": {
+        "Solution guess 3": "heath"
+      },
+      "-m--w": {
+        "Solution guess 3": "heavy"
+      },
+      "-mww-": {
+        "Solution guess 3": "leapt"
+      },
+      "-m-m-": {
+        "Solution guess 3": "meaty"
+      },
+      "-mw-m": {
+        "Solution guess 3": "peach"
+      },
+      "-m-wm": {
+        "Solution guess 3": "teach"
+      }
+    },
+    "-mw--": {
+      "guess 2": "liman",
+      "w--m-": {
+        "guess 3": "vocal",
+        "-mmmm": {
+          "Solution guess 4": "focal"
+        },
+        "-m-mm": {
+          "Solution guess 4": "total"
+        },
+        "mmmmm": {
+          "Solution guess 4": "vocal"
+        }
+      },
+      "---w-": {
+        "guess 3": "vodka",
+        "-m--m": {
+          "Solution guess 4": "cocoa"
+        },
+        "mmmmm": {
+          "Solution guess 4": "vodka"
+        }
+      },
+      "--ww-": {
+        "guess 3": "mocha",
+        "wm--m": {
+          "Solution guess 4": "dogma"
+        },
+        "mmmmm": {
+          "Solution guess 4": "mocha"
+        }
+      },
+      "m--m-": {
+        "guess 3": "loyal",
+        "mm-mm": {
+          "Solution guess 4": "local"
+        },
+        "mmmmm": {
+          "Solution guess 4": "loyal"
+        }
+      },
+      "---m-": {
+        "guess 3": "topaz",
+        "mm-m-": {
+          "Solution guess 4": "today"
+        },
+        "mmmmm": {
+          "Solution guess 4": "topaz"
+        }
+      },
+      "w--mw": {
+        "guess 3": "zonal",
+        "-mmmm": {
+          "Solution guess 4": "tonal"
+        },
+        "mmmmm": {
+          "Solution guess 4": "zonal"
+        }
+      },
+      "--mw-": {
+        "Solution guess 3": "comma"
+      },
+      "---mw": {
+        "Solution guess 3": "gonad"
+      },
+      "w-wm-": {
+        "Solution guess 3": "modal"
+      },
+      "--mmw": {
+        "Solution guess 3": "nomad"
+      },
+      "w--w-": {
+        "Solution guess 3": "polka"
+      },
+      "---ww": {
+        "Solution guess 3": "tonga"
+      },
+      "ww-w-": {
+        "Solution guess 3": "voila"
+      },
+      "--mmm": {
+        "Solution guess 3": "woman"
+      }
+    },
+    "-w--m": {
+      "guess 2": "bling",
+      "-----": {
+        "guess 3": "evoke",
+        "--mmm": {
+          "Solution guess 4": "choke"
+        },
+        "mmmmm": {
+          "Solution guess 4": "evoke"
+        },
+        "--m-m": {
+          "Solution guess 4": "quote"
+        }
+      },
+      "-m---": {
+        "guess 3": "elope",
+        "-mm-m": {
+          "Solution guess 4": "clove"
+        },
+        "mmmmm": {
+          "Solution guess 4": "elope"
+        }
+      },
+      "--mm-": {
+        "guess 3": "ovine",
+        "m-mmm": {
+          "Solution guess 4": "opine"
+        },
+        "mmmmm": {
+          "Solution guess 4": "ovine"
+        }
+      },
+      "---m-": {
+        "guess 3": "phone",
+        "--mmm": {
+          "Solution guess 4": "ozone"
+        },
+        "mmmmm": {
+          "Solution guess 4": "phone"
+        }
+      },
+      "m-w--": {
+        "Solution guess 3": "biome"
+      },
+      "mm---": {
+        "Solution guess 3": "bloke"
+      },
+      "-m-m-": {
+        "Solution guess 3": "clone"
+      },
+      "--w--": {
+        "Solution guess 3": "diode"
+      },
+      "wm--w": {
+        "Solution guess 3": "globe"
+      },
+      "-m--w": {
+        "Solution guess 3": "glove"
+      },
+      "---ww": {
+        "Solution guess 3": "gnome"
+      },
+      "-mm--": {
+        "Solution guess 3": "olive"
+      },
+      "---w-": {
+        "Solution guess 3": "ounce"
+      },
+      "--m--": {
+        "Solution guess 3": "oxide"
+      },
+      "-w---": {
+        "Solution guess 3": "whole"
+      }
+    },
+    "w---w": {
+      "guess 2": "teugh",
+      "www--": {
+        "guess 3": "upset",
+        "w-wwm": {
+          "Solution guess 4": "quest"
+        },
+        "m-mmm": {
+          "Solution guess 4": "unset"
+        },
+        "mmmmm": {
+          "Solution guess 4": "upset"
+        }
+      },
+      "wm---": {
+        "guess 3": "zesty",
+        "-mmw-": {
+          "Solution guess 4": "beset"
+        },
+        "mmmmm": {
+          "Solution guess 4": "zesty"
+        }
+      },
+      "ww---": {
+        "guess 3": "islet",
+        "ww-wm": {
+          "Solution guess 4": "exist"
+        },
+        "mmmmm": {
+          "Solution guess 4": "islet"
+        }
+      },
+      "-w---": {
+        "Solution guess 3": "bless"
+      },
+      "-ww--": {
+        "Solution guess 3": "bused"
+      },
+      "-w--w": {
+        "Solution guess 3": "chess"
+      },
+      "ww--w": {
+        "Solution guess 3": "chest"
+      },
+      "wmw--": {
+        "Solution guess 3": "fetus"
+      },
+      "-w--m": {
+        "Solution guess 3": "flesh"
+      },
+      "-www-": {
+        "Solution guess 3": "guess"
+      },
+      "wwww-": {
+        "Solution guess 3": "guest"
+      },
+      "wm--w": {
+        "Solution guess 3": "heist"
+      },
+      "-m---": {
+        "Solution guess 3": "pesky"
+      },
+      "mm---": {
+        "Solution guess 3": "testy"
+      },
+      "-m--m": {
+        "Solution guess 3": "welsh"
+      }
+    },
+    "--mwm": {
+      "guess 2": "diact",
+      "--m--": {
+        "guess 3": "grave",
+        "-mm-m": {
+          "guess 4": "frame",
+          "-mm-m": {
+            "Solution guess 5": "brake"
+          },
+          "mmmmm": {
+            "Solution guess 5": "frame"
+          }
+        },
+        "mmm-m": {
+          "guess 4": "graze",
+          "mmm-m": {
+            "Solution guess 5": "grape"
+          },
+          "mmmmm": {
+            "Solution guess 5": "graze"
+          }
+        },
+        "-mmmm": {
+          "Solution guess 4": "brave"
+        },
+        "mmmmm": {
+          "Solution guess 4": "grave"
+        }
+      },
+      "--mw-": {
+        "guess 3": "anvil",
+        "ww---": {
+          "Solution guess 4": "crane"
+        },
+        "w-w--": {
+          "Solution guess 4": "crave"
+        },
+        "w----": {
+          "Solution guess 4": "craze"
+        }
+      },
+      "--mm-": {
+        "guess 3": "grace",
+        "-mmmm": {
+          "Solution guess 4": "brace"
+        },
+        "mmmmm": {
+          "Solution guess 4": "grace"
+        }
+      },
+      "m-m--": {
+        "guess 3": "drape",
+        "mmm-m": {
+          "Solution guess 4": "drake"
+        },
+        "mmmmm": {
+          "Solution guess 4": "drape"
+        }
+      },
+      "--mww": {
+        "Solution guess 3": "crate"
+      },
+      "w-m--": {
+        "Solution guess 3": "grade"
+      },
+      "--m-w": {
+        "Solution guess 3": "grate"
+      },
+      "-wm-w": {
+        "Solution guess 3": "irate"
+      },
+      "--mmw": {
+        "Solution guess 3": "trace"
+      },
+      "w-m-w": {
+        "Solution guess 3": "trade"
+      }
+    },
+    "m-w--": {
+      "guess 2": "dault",
+      "-m---": {
+        "guess 3": "apish",
+        "ww-w-": {
+          "Solution guess 4": "sappy"
+        },
+        "w--m-": {
+          "Solution guess 4": "sassy"
+        },
+        "w--w-": {
+          "Solution guess 4": "savvy"
+        }
+      },
+      "-mm--": {
+        "guess 3": "sauna",
+        "mmm--": {
+          "Solution guess 4": "saucy"
+        },
+        "mmmmm": {
+          "Solution guess 4": "sauna"
+        }
+      },
+      "wm-m-": {
+        "Solution guess 3": "sadly"
+      },
+      "-m--m": {
+        "Solution guess 3": "saint"
+      },
+      "wm-w-": {
+        "Solution guess 3": "salad"
+      },
+      "-m-m-": {
+        "Solution guess 3": "sally"
+      },
+      "-m-w-": {
+        "Solution guess 3": "salsa"
+      },
+      "-m-ww": {
+        "Solution guess 3": "salty"
+      },
+      "wm---": {
+        "Solution guess 3": "sandy"
+      },
+      "-m--w": {
+        "Solution guess 3": "satin"
+      },
+      "-wm--": {
+        "Solution guess 3": "scuba"
+      },
+      "-w---": {
+        "Solution guess 3": "sigma"
+      },
+      "-w-wm": {
+        "Solution guess 3": "splat"
+      },
+      "wwm--": {
+        "Solution guess 3": "squad"
+      },
+      "-wm-m": {
+        "Solution guess 3": "squat"
+      },
+      "-ww--": {
+        "Solution guess 3": "sumac"
+      }
+    },
+    "m-m-m": {
+      "guess 2": "thilk",
+      "-m---": {
+        "guess 3": "amped",
+        "w--ww": {
+          "Solution guess 4": "shade"
+        },
+        "ww-w-": {
+          "Solution guess 4": "shame"
+        },
+        "w-ww-": {
+          "Solution guess 4": "shape"
+        },
+        "w--w-": {
+          "Solution guess 4": "shave"
+        }
+      },
+      "-----": {
+        "guess 3": "spade",
+        "mmm-m": {
+          "Solution guess 4": "space"
+        },
+        "mmmmm": {
+          "Solution guess 4": "spade"
+        },
+        "m-m-m": {
+          "Solution guess 4": "suave"
+        }
+      },
+      "w----": {
+        "guess 3": "agate",
+        "-wmwm": {
+          "Solution guess 4": "stage"
+        },
+        "--mmm": {
+          "Solution guess 4": "state"
+        },
+        "--mwm": {
+          "Solution guess 4": "stave"
+        }
+      },
+      "w---w": {
+        "guess 3": "stake",
+        "mwmwm": {
+          "Solution guess 4": "skate"
+        },
+        "mmmmm": {
+          "Solution guess 4": "stake"
+        }
+      },
+      "---m-": {
+        "Solution guess 3": "scale"
+      },
+      "-m--w": {
+        "Solution guess 3": "shake"
+      },
+      "-m-m-": {
+        "Solution guess 3": "shale"
+      },
+      "w--w-": {
+        "Solution guess 3": "slate"
+      },
+      "----w": {
+        "Solution guess 3": "snake"
+      },
+      "w--m-": {
+        "Solution guess 3": "stale"
+      }
+    },
+    "w--w-": {
+      "guess 2": "cruft",
+      "-m---": {
+        "guess 3": "prism",
+        "-mmm-": {
+          "Solution guess 4": "brisk"
+        },
+        "mmmmm": {
+          "Solution guess 4": "prism"
+        }
+      },
+      "-m--m": {
+        "guess 3": "wrist",
+        "-m-mm": {
+          "Solution guess 4": "tryst"
+        },
+        "mmmmm": {
+          "Solution guess 4": "wrist"
+        }
+      },
+      "-mm--": {
+        "Solution guess 3": "brush"
+      },
+      "-ww-m": {
+        "Solution guess 3": "burst"
+      },
+      "mm---": {
+        "Solution guess 3": "crisp"
+      },
+      "mmm--": {
+        "Solution guess 3": "crush"
+      },
+      "mmm-m": {
+        "Solution guess 3": "crust"
+      },
+      "-w-wm": {
+        "Solution guess 3": "first"
+      },
+      "-m-w-": {
+        "Solution guess 3": "frisk"
+      },
+      "-w---": {
+        "Solution guess 3": "risky"
+      },
+      "-ww-w": {
+        "Solution guess 3": "rusty"
+      },
+      "-mm-w": {
+        "Solution guess 3": "truss"
+      },
+      "-mm-m": {
+        "Solution guess 3": "trust"
+      },
+      "-ww--": {
+        "Solution guess 3": "virus"
+      }
+    },
+    "w-w-m": {
+      "guess 2": "thump",
+      "-----": {
+        "guess 3": "false",
+        "-wwwm": {
+          "Solution guess 4": "aisle"
+        },
+        "-w-wm": {
+          "Solution guess 4": "aside"
+        },
+        "mmmmm": {
+          "Solution guess 4": "false"
+        }
+      },
+      "w----": {
+        "guess 3": "abaca",
+        "ww---": {
+          "Solution guess 4": "baste"
+        },
+        "w--w-": {
+          "Solution guess 4": "caste"
+        },
+        "w----": {
+          "Solution guess 4": "waste"
+        }
+      },
+      "--m--": {
+        "guess 3": "cause",
+        "-wmmm": {
+          "Solution guess 4": "abuse"
+        },
+        "mmmmm": {
+          "Solution guess 4": "cause"
+        }
+      },
+      "--mw-": {
+        "Solution guess 3": "amuse"
+      },
+      "ww---": {
+        "Solution guess 3": "haste"
+      },
+      "----w": {
+        "Solution guess 3": "lapse"
+      },
+      "---w-": {
+        "Solution guess 3": "masse"
+      },
+      "w---w": {
+        "Solution guess 3": "paste"
+      },
+      "--m-w": {
+        "Solution guess 3": "pause"
+      },
+      "m----": {
+        "Solution guess 3": "taste"
+      }
+    },
+    "wm---": {
+      "guess 2": "fubsy",
+      "---m-": {
+        "guess 3": "abmho",
+        "---ww": {
+          "Solution guess 4": "hoist"
+        },
+        "----w": {
+          "Solution guess 4": "joist"
+        },
+        "--w-w": {
+          "Solution guess 4": "moist"
+        }
+      },
+      "---mm": {
+        "guess 3": "noisy",
+        "-m-mm": {
+          "Solution guess 4": "mossy"
+        },
+        "mmmmm": {
+          "Solution guess 4": "noisy"
+        }
+      },
+      "-www-": {
+        "Solution guess 3": "bonus"
+      },
+      "--wm-": {
+        "Solution guess 3": "boost"
+      },
+      "--ww-": {
+        "Solution guess 3": "bosom"
+      },
+      "--wmm": {
+        "Solution guess 3": "bossy"
+      },
+      "mw-w-": {
+        "Solution guess 3": "focus"
+      },
+      "m--m-": {
+        "Solution guess 3": "foist"
+      },
+      "-w-m-": {
+        "Solution guess 3": "joust"
+      },
+      "-w-w-": {
+        "Solution guess 3": "locus"
+      },
+      "-w-mm": {
+        "Solution guess 3": "lousy"
+      },
+      "---w-": {
+        "Solution guess 3": "posit"
+      }
+    },
+    "w--ww": {
+      "guess 2": "richt",
+      "w----": {
+        "guess 3": "press",
+        "-mmmm": {
+          "Solution guess 4": "dress"
+        },
+        "mmmmm": {
+          "Solution guess 4": "press"
+        }
+      },
+      "w--w-": {
+        "guess 3": "usher",
+        "-wwww": {
+          "Solution guess 4": "fresh"
+        },
+        "mmmmm": {
+          "Solution guess 4": "usher"
+        }
+      },
+      "wm---": {
+        "guess 3": "wiser",
+        "-mmmm": {
+          "Solution guess 4": "miser"
+        },
+        "mmmmm": {
+          "Solution guess 4": "wiser"
+        }
+      },
+      "mm---": {
+        "guess 3": "riser",
+        "mmmm-": {
+          "Solution guess 4": "risen"
+        },
+        "mmmmm": {
+          "Solution guess 4": "riser"
+        }
+      },
+      "w-w--": {
+        "Solution guess 3": "cress"
+      },
+      "w-w-m": {
+        "Solution guess 3": "crest"
+      },
+      "w---w": {
+        "Solution guess 3": "ester"
+      },
+      "m----": {
+        "Solution guess 3": "rebus"
+      },
+      "m---m": {
+        "Solution guess 3": "reset"
+      },
+      "mw---": {
+        "Solution guess 3": "resin"
+      },
+      "w---m": {
+        "Solution guess 3": "wrest"
+      }
+    },
+    "w-m--": {
+      "guess 2": "chals",
+      "-wm-w": {
+        "guess 3": "aargh",
+        "mw--m": {
+          "Solution guess 4": "awash"
+        },
+        "w--wm": {
+          "Solution guess 4": "gnash"
+        },
+        "w---m": {
+          "Solution guess 4": "quash"
+        }
+      },
+      "--mww": {
+        "guess 3": "flask",
+        "-mmm-": {
+          "Solution guess 4": "blast"
+        },
+        "mmmmm": {
+          "Solution guess 4": "flask"
+        }
+      },
+      "--m-m": {
+        "Solution guess 3": "amass"
+      },
+      "mmm-w": {
+        "Solution guess 3": "chasm"
+      },
+      "mwmww": {
+        "Solution guess 3": "clash"
+      },
+      "m-mww": {
+        "Solution guess 3": "clasp"
+      },
+      "m-mwm": {
+        "Solution guess 3": "class"
+      },
+      "-wmww": {
+        "Solution guess 3": "flash"
+      },
+      "--mwm": {
+        "Solution guess 3": "glass"
+      },
+      "--mmw": {
+        "Solution guess 3": "psalm"
+      },
+      "--m-w": {
+        "Solution guess 3": "quasi"
+      }
+    },
+    "---mw": {
+      "guess 2": "feted",
+      "-m---": {
+        "guess 3": "merry",
+        "-mmmm": {
+          "Solution guess 4": "berry"
+        },
+        "mmmmm": {
+          "Solution guess 4": "merry"
+        }
+      },
+      "-w---": {
+        "guess 3": "query",
+        "--mm-": {
+          "Solution guess 4": "clerk"
+        },
+        "mmmmm": {
+          "Solution guess 4": "query"
+        }
+      },
+      "-m--w": {
+        "Solution guess 3": "decry"
+      },
+      "-wm--": {
+        "Solution guess 3": "entry"
+      },
+      "-w-w-": {
+        "Solution guess 3": "every"
+      },
+      "-www-": {
+        "Solution guess 3": "exert"
+      },
+      "mm---": {
+        "Solution guess 3": "ferry"
+      },
+      "mw---": {
+        "Solution guess 3": "fiery"
+      },
+      "-ww--": {
+        "Solution guess 3": "inert"
+      },
+      "-m-w-": {
+        "Solution guess 3": "leery"
+      },
+      "-mm--": {
+        "Solution guess 3": "retry"
+      },
+      "-m--m": {
+        "Solution guess 3": "weird"
+      }
+    },
+    "-w-wm": {
+      "guess 2": "pownd",
+      "-w---": {
+        "guess 3": "abaft",
+        "-w---": {
+          "Solution guess 4": "broke"
+        },
+        "---w-": {
+          "Solution guess 4": "froze"
+        },
+        "-----": {
+          "Solution guess 4": "grove"
+        },
+        "----w": {
+          "Solution guess 4": "trove"
+        }
+      },
+      "-w--w": {
+        "guess 3": "erode",
+        "-mmwm": {
+          "Solution guess 4": "drove"
+        },
+        "mmmmm": {
+          "Solution guess 4": "erode"
+        }
+      },
+      "ww---": {
+        "guess 3": "trope",
+        "-mmmm": {
+          "Solution guess 4": "grope"
+        },
+        "mmmmm": {
+          "Solution guess 4": "trope"
+        }
+      },
+      "mw---": {
+        "guess 3": "prove",
+        "mmm-m": {
+          "Solution guess 4": "probe"
+        },
+        "mmmmm": {
+          "Solution guess 4": "prove"
+        }
+      },
+      "-w-m-": {
+        "Solution guess 3": "crone"
+      },
+      "-w-mw": {
+        "Solution guess 3": "drone"
+      },
+      "mw-m-": {
+        "Solution guess 3": "prone"
+      },
+      "-ww--": {
+        "Solution guess 3": "wrote"
+      }
+    },
+    "--mm-": {
+      "guess 2": "dhuti",
+      "-m---": {
+        "guess 3": "wharf",
+        "-mmm-": {
+          "Solution guess 4": "charm"
+        },
+        "mmmmm": {
+          "Solution guess 4": "wharf"
+        }
+      },
+      "-----": {
+        "Solution guess 3": "alarm"
+      },
+      "---w-": {
+        "Solution guess 3": "apart"
+      },
+      "w----": {
+        "Solution guess 3": "award"
+      },
+      "wm---": {
+        "Solution guess 3": "chard"
+      },
+      "-m-w-": {
+        "Solution guess 3": "chart"
+      },
+      "m---w": {
+        "Solution guess 3": "diary"
+      },
+      "m----": {
+        "Solution guess 3": "dwarf"
+      },
+      "w-w--": {
+        "Solution guess 3": "guard"
+      },
+      "--w--": {
+        "Solution guess 3": "quark"
+      },
+      "--ww-": {
+        "Solution guess 3": "quart"
+      },
+      "---ww": {
+        "Solution guess 3": "tiara"
+      }
+    },
+    "---m-": {
+      "guess 2": "fitch",
+      "-----": {
+        "Solution guess 3": "blurb"
+      },
+      "--w--": {
+        "Solution guess 3": "blurt"
+      },
+      "-w-ww": {
+        "Solution guess 3": "chirp"
+      },
+      "---ww": {
+        "Solution guess 3": "churn"
+      },
+      "---w-": {
+        "Solution guess 3": "curry"
+      },
+      "mww--": {
+        "Solution guess 3": "flirt"
+      },
+      "m----": {
+        "Solution guess 3": "furry"
+      },
+      "----w": {
+        "Solution guess 3": "hurry"
+      },
+      "----m": {
+        "Solution guess 3": "myrrh"
+      },
+      "-w---": {
+        "Solution guess 3": "quirk"
+      },
+      "-ww-w": {
+        "Solution guess 3": "third"
+      },
+      "-ww--": {
+        "Solution guess 3": "twirl"
+      },
+      "-w--w": {
+        "Solution guess 3": "whirl"
+      }
+    },
+    "-w-ww": {
+      "guess 2": "trued",
+      "-w-mw": {
+        "guess 3": "older",
+        "m-mmm": {
+          "Solution guess 4": "odder"
+        },
+        "mmmmm": {
+          "Solution guess 4": "older"
+        }
+      },
+      "-w-m-": {
+        "guess 3": "owner",
+        "m--mm": {
+          "Solution guess 4": "offer"
+        },
+        "mmmmm": {
+          "Solution guess 4": "owner"
+        }
+      },
+      "ww-m-": {
+        "guess 3": "otter",
+        "mm-mm": {
+          "Solution guess 4": "other"
+        },
+        "mmmmm": {
+          "Solution guess 4": "otter"
+        }
+      },
+      "-m-ww": {
+        "Solution guess 3": "credo"
+      },
+      "-w-ww": {
+        "Solution guess 3": "decor"
+      },
+      "-m-w-": {
+        "Solution guess 3": "error"
+      },
+      "-w-w-": {
+        "Solution guess 3": "heron"
+      },
+      "-m-mw": {
+        "Solution guess 3": "order"
+      },
+      "wwwm-": {
+        "Solution guess 3": "outer"
+      },
+      "mw-w-": {
+        "Solution guess 3": "tenor"
+      }
+    },
+    "m--ww": {
+      "guess 2": "newie",
+      "-ww--": {
+        "guess 3": "shrew",
+        "m-mmm": {
+          "Solution guess 4": "screw"
+        },
+        "mmmmm": {
+          "Solution guess 4": "shrew"
+        }
+      },
+      "-w--w": {
+        "guess 3": "steer",
+        "m-mmm": {
+          "Solution guess 4": "sheer"
+        },
+        "mmmmm": {
+          "Solution guess 4": "steer"
+        }
+      },
+      "-w---": {
+        "guess 3": "surer",
+        "mm-mm": {
+          "Solution guess 4": "super"
+        },
+        "mmmmm": {
+          "Solution guess 4": "surer"
+        }
+      },
+      "-m-m-": {
+        "Solution guess 3": "serif"
+      },
+      "-m---": {
+        "Solution guess 3": "serum"
+      },
+      "-m--w": {
+        "Solution guess 3": "sever"
+      },
+      "-mm-w": {
+        "Solution guess 3": "sewer"
+      },
+      "ww-w-": {
+        "Solution guess 3": "siren"
+      },
+      "-w-w-": {
+        "Solution guess 3": "skier"
+      },
+      "ww--w": {
+        "Solution guess 3": "sneer"
+      }
+    },
+    "mw--m": {
+      "guess 2": "knelt",
+      "-ww--": {
+        "guess 3": "shone",
+        "m-mmm": {
+          "Solution guess 4": "scone"
+        },
+        "mmmmm": {
+          "Solution guess 4": "shone"
+        }
+      },
+      "--w--": {
+        "guess 3": "shove",
+        "m-m-m": {
+          "Solution guess 4": "scope"
+        },
+        "mmmmm": {
+          "Solution guess 4": "shove"
+        }
+      },
+      "w-w--": {
+        "guess 3": "spoke",
+        "m-mmm": {
+          "Solution guess 4": "smoke"
+        },
+        "mmmmm": {
+          "Solution guess 4": "spoke"
+        }
+      },
+      "--w-w": {
+        "guess 3": "stove",
+        "mwm-m": {
+          "Solution guess 4": "smote"
+        },
+        "mmmmm": {
+          "Solution guess 4": "stove"
+        }
+      },
+      "--ww-": {
+        "Solution guess 3": "slope"
+      },
+      "w-w-w": {
+        "Solution guess 3": "stoke"
+      },
+      "--wmw": {
+        "Solution guess 3": "stole"
+      },
+      "-ww-w": {
+        "Solution guess 3": "stone"
+      }
+    },
+    "--wm-": {
+      "guess 2": "humic",
+      "-----": {
+        "guess 3": "parry",
+        "-w-mm": {
+          "Solution guess 4": "angry"
+        },
+        "mmmmm": {
+          "Solution guess 4": "parry"
+        }
+      },
+      "---w-": {
+        "guess 3": "fairy",
+        "-mmmm": {
+          "Solution guess 4": "dairy"
+        },
+        "mmmmm": {
+          "Solution guess 4": "fairy"
+        }
+      },
+      "---ww": {
+        "Solution guess 3": "cairn"
+      },
+      "----w": {
+        "Solution guess 3": "carry"
+      },
+      "m--w-": {
+        "Solution guess 3": "hairy"
+      },
+      "m----": {
+        "Solution guess 3": "harry"
+      },
+      "--w--": {
+        "Solution guess 3": "marry"
+      },
+      "-w---": {
+        "Solution guess 3": "ultra"
+      },
+      "-ww--": {
+        "Solution guess 3": "umbra"
+      }
+    },
+    "wm--m": {
+      "guess 2": "pilum",
+      "-----": {
+        "guess 3": "noose",
+        "-mmmm": {
+          "Solution guess 4": "goose"
+        },
+        "mmmmm": {
+          "Solution guess 4": "noose"
+        }
+      },
+      "w----": {
+        "Solution guess 3": "copse"
+      },
+      "---w-": {
+        "Solution guess 3": "house"
+      },
+      "--w--": {
+        "Solution guess 3": "loose"
+      },
+      "--ww-": {
+        "Solution guess 3": "louse"
+      },
+      "----w": {
+        "Solution guess 3": "moose"
+      },
+      "---ww": {
+        "Solution guess 3": "mouse"
+      },
+      "-w---": {
+        "Solution guess 3": "noise"
+      },
+      "mw---": {
+        "Solution guess 3": "poise"
+      },
+      "m----": {
+        "Solution guess 3": "posse"
+      }
+    },
+    "m-mm-": {
+      "guess 2": "chapt",
+      "w-m--": {
+        "guess 3": "scary",
+        "mmmm-": {
+          "Solution guess 4": "scarf"
+        },
+        "mmmmm": {
+          "Solution guess 4": "scary"
+        }
+      },
+      "-mm--": {
+        "guess 3": "shark",
+        "mmmm-": {
+          "Solution guess 4": "shard"
+        },
+        "mmmmm": {
+          "Solution guess 4": "shark"
+        }
+      },
+      "--m-m": {
+        "guess 3": "start",
+        "m-mmm": {
+          "Solution guess 4": "smart"
+        },
+        "mmmmm": {
+          "Solution guess 4": "start"
+        }
+      },
+      "--m--": {
+        "guess 3": "swarm",
+        "m-mm-": {
+          "Solution guess 4": "snarl"
+        },
+        "mmmmm": {
+          "Solution guess 4": "swarm"
+        }
+      },
+      "-mmw-": {
+        "Solution guess 3": "sharp"
+      },
+      "--mw-": {
+        "Solution guess 3": "spark"
+      },
+      "--m-w": {
+        "Solution guess 3": "stark"
+      }
+    },
+    "-m--m": {
+      "guess 2": "cloud",
+      "--m--": {
+        "Solution guess 3": "booze"
+      },
+      "-www-": {
+        "Solution guess 3": "boule"
+      },
+      "m-ww-": {
+        "Solution guess 3": "coupe"
+      },
+      "--w-w": {
+        "Solution guess 3": "dodge"
+      },
+      "--ww-": {
+        "Solution guess 3": "gouge"
+      },
+      "-ww-w": {
+        "Solution guess 3": "lodge"
+      },
+      "--w--": {
+        "Solution guess 3": "movie"
+      },
+      "-ww--": {
+        "Solution guess 3": "noble"
+      },
+      "--wm-": {
+        "Solution guess 3": "vogue"
+      },
+      "w-w--": {
+        "Solution guess 3": "voice"
+      }
+    },
+    "mw-m-": {
+      "guess 2": "chant",
+      "----w": {
+        "guess 3": "abysm",
+        "---w-": {
+          "Solution guess 4": "stork"
+        },
+        "---wm": {
+          "Solution guess 4": "storm"
+        },
+        "--ww-": {
+          "Solution guess 4": "story"
+        }
+      },
+      "w--w-": {
+        "Solution guess 3": "scorn"
+      },
+      "-m-w-": {
+        "Solution guess 3": "shorn"
+      },
+      "-m--m": {
+        "Solution guess 3": "short"
+      },
+      "---wm": {
+        "Solution guess 3": "snort"
+      },
+      "----m": {
+        "Solution guess 3": "sport"
+      },
+      "-----": {
+        "Solution guess 3": "sword"
+      },
+      "---w-": {
+        "Solution guess 3": "sworn"
+      }
+    },
+    "--mmw": {
+      "guess 2": "lathy",
+      "-w---": {
+        "guess 3": "rearm",
+        "-mmm-": {
+          "Solution guess 4": "beard"
+        },
+        "mmmmm": {
+          "Solution guess 4": "rearm"
+        }
+      },
+      "-w-w-": {
+        "Solution guess 3": "heard"
+      },
+      "-www-": {
+        "Solution guess 3": "heart"
+      },
+      "mw---": {
+        "Solution guess 3": "learn"
+      },
+      "ww---": {
+        "Solution guess 3": "pearl"
+      },
+      "-ww-m": {
+        "Solution guess 3": "teary"
+      },
+      "-w--m": {
+        "Solution guess 3": "weary"
+      },
+      "-w--w": {
+        "Solution guess 3": "yearn"
+      }
+    },
+    "-m-wm": {
+      "guess 2": "faugh",
+      "m----": {
+        "guess 3": "forte",
+        "mmm-m": {
+          "Solution guess 4": "force"
+        },
+        "mmmmm": {
+          "Solution guess 4": "forte"
+        }
+      },
+      "-----": {
+        "Solution guess 3": "borne"
+      },
+      "m--m-": {
+        "Solution guess 3": "forge"
+      },
+      "---m-": {
+        "Solution guess 3": "gorge"
+      },
+      "----w": {
+        "Solution guess 3": "horde"
+      },
+      "--ww-": {
+        "Solution guess 3": "rogue"
+      },
+      "--mm-": {
+        "Solution guess 3": "rouge"
+      },
+      "--m--": {
+        "Solution guess 3": "route"
+      }
+    },
+    "m--w-": {
+      "guess 2": "butch",
+      "ww-w-": {
+        "Solution guess 3": "scrub"
+      },
+      "-w-w-": {
+        "Solution guess 3": "scrum"
+      },
+      "ww--w": {
+        "Solution guess 3": "shrub"
+      },
+      "-w--w": {
+        "Solution guess 3": "shrug"
+      },
+      "-----": {
+        "Solution guess 3": "sprig"
+      },
+      "--w--": {
+        "Solution guess 3": "strip"
+      },
+      "-ww--": {
+        "Solution guess 3": "strut"
+      },
+      "-m---": {
+        "Solution guess 3": "surly"
+      },
+      "-w---": {
+        "Solution guess 3": "syrup"
+      }
+    },
+    "m-w-w": {
+      "guess 2": "dempt",
+      "-w--w": {
+        "guess 3": "steal",
+        "mmmm-": {
+          "Solution guess 4": "steak"
+        },
+        "mmmmm": {
+          "Solution guess 4": "steal"
+        }
+      },
+      "wm---": {
+        "Solution guess 3": "sedan"
+      },
+      "-m-w-": {
+        "Solution guess 3": "sepia"
+      },
+      "-w---": {
+        "Solution guess 3": "sneak"
+      },
+      "-w-w-": {
+        "Solution guess 3": "speak"
+      },
+      "ww--w": {
+        "Solution guess 3": "stead"
+      },
+      "-ww-w": {
+        "Solution guess 3": "steam"
+      },
+      "-w--m": {
+        "Solution guess 3": "sweat"
+      }
+    },
+    "-ww-m": {
+      "guess 2": "bundt",
+      "w--m-": {
+        "Solution guess 3": "abode"
+      },
+      "w----": {
+        "Solution guess 3": "above"
+      },
+      "w--w-": {
+        "Solution guess 3": "adobe"
+      },
+      "--w--": {
+        "Solution guess 3": "alone"
+      },
+      "--wm-": {
+        "Solution guess 3": "anode"
+      },
+      "--w-w": {
+        "Solution guess 3": "atone"
+      },
+      "-----": {
+        "Solution guess 3": "awoke"
+      },
+      "--m--": {
+        "Solution guess 3": "canoe"
+      }
+    },
+    "-mww-": {
+      "guess 2": "balmy",
+      "-w---": {
+        "Solution guess 3": "aorta"
+      },
+      "mw---": {
+        "Solution guess 3": "borax"
+      },
+      "-ww--": {
+        "Solution guess 3": "coral"
+      },
+      "-w--m": {
+        "Solution guess 3": "foray"
+      },
+      "-wmw-": {
+        "Solution guess 3": "molar"
+      },
+      "-www-": {
+        "Solution guess 3": "moral"
+      },
+      "-wm--": {
+        "Solution guess 3": "polar"
+      },
+      "-ww-w": {
+        "Solution guess 3": "royal"
+      }
+    },
+    "-w-m-": {
+      "guess 2": "acidy",
+      "-w-w-": {
+        "Solution guess 3": "chord"
+      },
+      "---w-": {
+        "Solution guess 3": "fjord"
+      },
+      "----m": {
+        "Solution guess 3": "glory"
+      },
+      "---ww": {
+        "Solution guess 3": "hydro"
+      },
+      "--w--": {
+        "Solution guess 3": "intro"
+      },
+      "--w-m": {
+        "Solution guess 3": "ivory"
+      },
+      "-ww--": {
+        "Solution guess 3": "micro"
+      },
+      "-----": {
+        "Solution guess 3": "thorn"
+      }
+    },
+    "w---m": {
+      "guess 2": "cunit",
+      "--m--": {
+        "Solution guess 3": "dense"
+      },
+      "-ww--": {
+        "Solution guess 3": "ensue"
+      },
+      "-----": {
+        "Solution guess 3": "geese"
+      },
+      "-m-w-": {
+        "Solution guess 3": "guise"
+      },
+      "-w-w-": {
+        "Solution guess 3": "issue"
+      },
+      "-m---": {
+        "Solution guess 3": "pulse"
+      },
+      "--m-w": {
+        "Solution guess 3": "tense"
+      },
+      "----w": {
+        "Solution guess 3": "these"
+      }
+    },
+    "m-ww-": {
+      "guess 2": "cuppy",
+      "----w": {
+        "Solution guess 3": "satyr"
+      },
+      "w----": {
+        "Solution guess 3": "scram"
+      },
+      "w-w--": {
+        "Solution guess 3": "scrap"
+      },
+      "--w-m": {
+        "Solution guess 3": "spray"
+      },
+      "--w--": {
+        "Solution guess 3": "strap"
+      },
+      "-----": {
+        "Solution guess 3": "straw"
+      },
+      "----m": {
+        "Solution guess 3": "stray"
+      },
+      "-m---": {
+        "Solution guess 3": "sugar"
+      }
+    },
+    "m--m-": {
+      "guess 2": "filth",
+      "-w--w": {
+        "Solution guess 3": "shirk"
+      },
+      "-w-ww": {
+        "Solution guess 3": "shirt"
+      },
+      "-w-w-": {
+        "Solution guess 3": "skirt"
+      },
+      "--w--": {
+        "Solution guess 3": "slurp"
+      },
+      "-w---": {
+        "Solution guess 3": "smirk"
+      },
+      "-----": {
+        "Solution guess 3": "spurn"
+      },
+      "---w-": {
+        "Solution guess 3": "spurt"
+      },
+      "-ww--": {
+        "Solution guess 3": "swirl"
+      }
+    },
+    "w-m-m": {
+      "guess 2": "belch",
+      "ww---": {
+        "Solution guess 3": "abase"
+      },
+      "-m-w-": {
+        "Solution guess 3": "cease"
+      },
+      "-w-ww": {
+        "Solution guess 3": "chase"
+      },
+      "-mw--": {
+        "Solution guess 3": "lease"
+      },
+      "-w--w": {
+        "Solution guess 3": "phase"
+      },
+      "-m---": {
+        "Solution guess 3": "tease"
+      },
+      "-w---": {
+        "Solution guess 3": "usage"
+      }
+    },
+    "--wwm": {
+      "guess 2": "barca",
+      "-wm--": {
+        "Solution guess 3": "agree"
+      },
+      "-ww--": {
+        "Solution guess 3": "argue"
+      },
+      "mmm--": {
+        "Solution guess 3": "barge"
+      },
+      "-mmw-": {
+        "Solution guess 3": "carve"
+      },
+      "-mmm-": {
+        "Solution guess 3": "farce"
+      },
+      "-mm--": {
+        "Solution guess 3": "large"
+      },
+      "-mw--": {
+        "Solution guess 3": "range"
+      }
+    },
+    "ww---": {
+      "guess 2": "agloo",
+      "---m-": {
+        "Solution guess 3": "bison"
+      },
+      "----m": {
+        "Solution guess 3": "disco"
+      },
+      "--ww-": {
+        "Solution guess 3": "floss"
+      },
+      "-w-w-": {
+        "Solution guess 3": "ghost"
+      },
+      "-www-": {
+        "Solution guess 3": "gloss"
+      },
+      "-w--m": {
+        "Solution guess 3": "gusto"
+      },
+      "---w-": {
+        "Solution guess 3": "kiosk"
+      }
+    },
+    "w-mw-": {
+      "guess 2": "bachs",
+      "mw-ww": {
+        "Solution guess 3": "brash"
+      },
+      "mw--m": {
+        "Solution guess 3": "brass"
+      },
+      "-wwww": {
+        "Solution guess 3": "crash"
+      },
+      "-ww-m": {
+        "Solution guess 3": "crass"
+      },
+      "-w--w": {
+        "Solution guess 3": "grasp"
+      },
+      "-w--m": {
+        "Solution guess 3": "grass"
+      },
+      "-w-ww": {
+        "Solution guess 3": "trash"
+      }
+    },
+    "w--wm": {
+      "guess 2": "centu",
+      "mw--w": {
+        "Solution guess 3": "curse"
+      },
+      "-ww-w": {
+        "Solution guess 3": "nurse"
+      },
+      "-w--w": {
+        "Solution guess 3": "purse"
+      },
+      "-m--w": {
+        "Solution guess 3": "reuse"
+      },
+      "-wm--": {
+        "Solution guess 3": "rinse"
+      },
+      "-m-w-": {
+        "Solution guess 3": "terse"
+      },
+      "-m---": {
+        "Solution guess 3": "verse"
+      }
+    },
+    "mm---": {
+      "guess 2": "atony",
+      "--w-m": {
+        "Solution guess 3": "soggy"
+      },
+      "--w--": {
+        "Solution guess 3": "solid"
+      },
+      "--ww-": {
+        "Solution guess 3": "sonic"
+      },
+      "-wm--": {
+        "Solution guess 3": "sooth"
+      },
+      "-wm-m": {
+        "Solution guess 3": "sooty"
+      },
+      "--wm-": {
+        "Solution guess 3": "sound"
+      },
+      "-ww--": {
+        "Solution guess 3": "south"
+      }
+    },
+    "-m-m-": {
+      "guess 2": "adult",
+      "--m-m": {
+        "Solution guess 3": "court"
+      },
+      "-w---": {
+        "Solution guess 3": "dowry"
+      },
+      "-wm--": {
+        "Solution guess 3": "gourd"
+      },
+      "---w-": {
+        "Solution guess 3": "lorry"
+      },
+      "--m--": {
+        "Solution guess 3": "mourn"
+      },
+      "-----": {
+        "Solution guess 3": "worry"
+      }
+    },
+    "m-www": {
+      "guess 2": "enmew",
+      "w----": {
+        "guess 3": "spear",
+        "m-mmm": {
+          "Solution guess 4": "shear"
+        },
+        "mmmmm": {
+          "Solution guess 4": "spear"
+        }
+      },
+      "---m-": {
+        "Solution guess 3": "safer"
+      },
+      "-w-m-": {
+        "Solution guess 3": "saner"
+      },
+      "w-w--": {
+        "Solution guess 3": "smear"
+      },
+      "w---w": {
+        "Solution guess 3": "swear"
+      }
+    },
+    "mw-mm": {
+      "guess 2": "chant",
+      "-----": {
+        "guess 3": "swore",
+        "m-mmm": {
+          "Solution guess 4": "spore"
+        },
+        "mmmmm": {
+          "Solution guess 4": "swore"
+        }
+      },
+      "w----": {
+        "Solution guess 3": "score"
+      },
+      "-m---": {
+        "Solution guess 3": "shore"
+      },
+      "---w-": {
+        "Solution guess 3": "snore"
+      },
+      "----w": {
+        "Solution guess 3": "store"
+      }
+    },
+    "-wwm-": {
+      "guess 2": "adorn",
+      "m-mm-": {
+        "Solution guess 3": "abort"
+      },
+      "m-mmm": {
+        "Solution guess 3": "acorn"
+      },
+      "mmmmm": {
+        "Solution guess 3": "adorn"
+      },
+      "w-mm-": {
+        "Solution guess 3": "flora"
+      },
+      "w-wm-": {
+        "Solution guess 3": "macro"
+      }
+    },
+    "--wmw": {
+      "guess 2": "altar",
+      "mmw-w": {
+        "Solution guess 3": "alert"
+      },
+      "m-w-w": {
+        "Solution guess 3": "avert"
+      },
+      "w-m-w": {
+        "Solution guess 3": "extra"
+      },
+      "w-w-w": {
+        "Solution guess 3": "terra"
+      },
+      "w---w": {
+        "Solution guess 3": "zebra"
+      }
+    },
+    "w-w-w": {
+      "guess 2": "ajwan",
+      "m---m": {
+        "Solution guess 3": "ashen"
+      },
+      "m-w--": {
+        "Solution guess 3": "askew"
+      },
+      "m----": {
+        "Solution guess 3": "asset"
+      },
+      "w----": {
+        "Solution guess 3": "easel"
+      },
+      "---m-": {
+        "Solution guess 3": "essay"
+      }
+    },
+    "w-m-w": {
+      "guess 2": "bufty",
+      "m--w-": {
+        "Solution guess 3": "beast"
+      },
+      "--ww-": {
+        "Solution guess 3": "feast"
+      },
+      "-----": {
+        "Solution guess 3": "leash"
+      },
+      "---w-": {
+        "Solution guess 3": "least"
+      },
+      "---ww": {
+        "Solution guess 3": "yeast"
+      }
+    },
+    "ww--m": {
+      "guess 2": "aitch",
+      "---ww": {
+        "Solution guess 3": "chose"
+      },
+      "---w-": {
+        "Solution guess 3": "close"
+      },
+      "-----": {
+        "Solution guess 3": "obese"
+      },
+      "--w-w": {
+        "Solution guess 3": "those"
+      },
+      "----w": {
+        "Solution guess 3": "whose"
+      }
+    },
+    "-mm--": {
+      "guess 2": "loath",
+      "-mm-m": {
+        "Solution guess 3": "coach"
+      },
+      "-mm--": {
+        "Solution guess 3": "foamy"
+      },
+      "wmm--": {
+        "Solution guess 3": "koala"
+      },
+      "mmm--": {
+        "Solution guess 3": "loamy"
+      },
+      "mmmmm": {
+        "Solution guess 3": "loath"
+      }
+    },
+    "ww-w-": {
+      "guess 2": "acids",
+      "-w--m": {
+        "Solution guess 3": "cross"
+      },
+      "---wm": {
+        "Solution guess 3": "dross"
+      },
+      "----w": {
+        "Solution guess 3": "frost"
+      },
+      "----m": {
+        "Solution guess 3": "gross"
+      },
+      "--w-w": {
+        "Solution guess 3": "visor"
+      }
+    },
+    "m-mmm": {
+      "guess 2": "chant",
+      "w-m--": {
+        "Solution guess 3": "scare"
+      },
+      "-mm--": {
+        "Solution guess 3": "share"
+      },
+      "--mw-": {
+        "Solution guess 3": "snare"
+      },
+      "--m--": {
+        "Solution guess 3": "spare"
+      },
+      "--m-w": {
+        "Solution guess 3": "stare"
+      }
+    },
+    "w-ww-": {
+      "guess 2": "marsh",
+      "-wwm-": {
+        "Solution guess 3": "artsy"
+      },
+      "-mmmm": {
+        "Solution guess 3": "harsh"
+      },
+      "mmmmm": {
+        "Solution guess 3": "marsh"
+      },
+      "-mww-": {
+        "Solution guess 3": "raspy"
+      }
+    },
+    "--mmm": {
+      "guess 2": "abaft",
+      "m-m--": {
+        "Solution guess 3": "aware"
+      },
+      "-wm--": {
+        "Solution guess 3": "blare"
+      },
+      "--mw-": {
+        "Solution guess 3": "flare"
+      },
+      "--m--": {
+        "Solution guess 3": "glare"
+      }
+    },
+    "-ww-w": {
+      "guess 2": "omega",
+      "www-w": {
+        "Solution guess 3": "cameo"
+      },
+      "m-w-w": {
+        "Solution guess 3": "oaken"
+      },
+      "m-m-w": {
+        "Solution guess 3": "ocean"
+      },
+      "mmmmm": {
+        "Solution guess 3": "omega"
+      }
+    },
+    "--mww": {
+      "guess 2": "ached",
+      "wwww-": {
+        "Solution guess 3": "reach"
+      },
+      "ww-w-": {
+        "Solution guess 3": "react"
+      },
+      "w--ww": {
+        "Solution guess 3": "ready"
+      },
+      "w--w-": {
+        "Solution guess 3": "realm"
+      }
+    },
+    "wm-w-": {
+      "guess 2": "worst",
+      "-mwmm": {
+        "Solution guess 3": "roost"
+      },
+      "-mmmw": {
+        "Solution guess 3": "torso"
+      },
+      "-mmww": {
+        "Solution guess 3": "torus"
+      },
+      "mmmmm": {
+        "Solution guess 3": "worst"
+      }
+    },
+    "mww--": {
+      "guess 2": "savoy",
+      "mm-m-": {
+        "Solution guess 3": "salon"
+      },
+      "mmww-": {
+        "Solution guess 3": "salvo"
+      },
+      "mmmmm": {
+        "Solution guess 3": "savoy"
+      },
+      "mw-w-": {
+        "Solution guess 3": "shoal"
+      }
+    },
+    "m--wm": {
+      "guess 2": "spree",
+      "m-mmm": {
+        "Solution guess 3": "scree"
+      },
+      "m-mwm": {
+        "Solution guess 3": "serve"
+      },
+      "mmmmm": {
+        "Solution guess 3": "spree"
+      },
+      "m-m-m": {
+        "Solution guess 3": "surge"
+      }
+    },
+    "w-wwm": {
+      "guess 2": "raise",
+      "wwmmm": {
+        "Solution guess 3": "arise"
+      },
+      "wm-mm": {
+        "Solution guess 3": "parse"
+      },
+      "mmmmm": {
+        "Solution guess 3": "raise"
+      }
+    },
+    "www--": {
+      "guess 2": "mason",
+      "-wwm-": {
+        "Solution guess 3": "ascot"
+      },
+      "-mmw-": {
+        "Solution guess 3": "lasso"
+      },
+      "mmmmm": {
+        "Solution guess 3": "mason"
+      }
+    },
+    "wmm--": {
+      "guess 2": "abaca",
+      "-wm--": {
+        "Solution guess 3": "boast"
+      },
+      "--mw-": {
+        "Solution guess 3": "coast"
+      },
+      "--m--": {
+        "Solution guess 3": "toast"
+      }
+    },
+    "ww--w": {
+      "guess 2": "pesto",
+      "-wwww": {
+        "Solution guess 3": "ethos"
+      },
+      "-wmww": {
+        "Solution guess 3": "onset"
+      },
+      "mmmmm": {
+        "Solution guess 3": "pesto"
+      }
+    },
+    "---mm": {
+      "guess 2": "where",
+      "--wmm": {
+        "Solution guess 3": "genre"
+      },
+      "-mmmm": {
+        "Solution guess 3": "there"
+      },
+      "mmmmm": {
+        "Solution guess 3": "where"
+      }
+    },
+    "wm-wm": {
+      "guess 2": "worse",
+      "-mmmm": {
+        "Solution guess 3": "horse"
+      },
+      "-mwmm": {
+        "Solution guess 3": "rouse"
+      },
+      "mmmmm": {
+        "Solution guess 3": "worse"
+      }
+    },
+    "-w-mw": {
+      "guess 2": "retro",
+      "-mmmm": {
+        "Solution guess 3": "metro"
+      },
+      "-wwmw": {
+        "Solution guess 3": "overt"
+      },
+      "mmmmm": {
+        "Solution guess 3": "retro"
+      }
+    },
+    "m-w-m": {
+      "guess 2": "saute",
+      "mm--m": {
+        "Solution guess 3": "salve"
+      },
+      "mmm-m": {
+        "Solution guess 3": "sauce"
+      },
+      "mmmmm": {
+        "Solution guess 3": "saute"
+      }
+    },
+    "--wmm": {
+      "guess 2": "azure",
+      "m--mm": {
+        "Solution guess 3": "afire"
+      },
+      "mmmmm": {
+        "Solution guess 3": "azure"
+      }
+    },
+    "-mmm-": {
+      "guess 2": "hoard",
+      "-mmmm": {
+        "Solution guess 3": "board"
+      },
+      "mmmmm": {
+        "Solution guess 3": "hoard"
+      }
+    },
+    "-w-mm": {
+      "guess 2": "ombre",
+      "w--mm": {
+        "Solution guess 3": "chore"
+      },
+      "mmmmm": {
+        "Solution guess 3": "ombre"
+      }
+    },
+    "wm-ww": {
+      "guess 2": "poser",
+      "-mmmm": {
+        "Solution guess 3": "loser"
+      },
+      "mmmmm": {
+        "Solution guess 3": "poser"
+      }
+    },
+    "wm--w": {
+      "guess 2": "poesy",
+      "-mwwm": {
+        "Solution guess 3": "nosey"
+      },
+      "mmmmm": {
+        "Solution guess 3": "poesy"
+      }
+    },
+    "m--mm": {
+      "guess 2": "spire",
+      "m-mmm": {
+        "Solution guess 3": "shire"
+      },
+      "mmmmm": {
+        "Solution guess 3": "spire"
+      }
+    },
+    "mm-ww": {
+      "guess 2": "sower",
+      "mm-mm": {
+        "Solution guess 3": "sober"
+      },
+      "mmmmm": {
+        "Solution guess 3": "sower"
+      }
+    },
+    "mmww-": {
+      "guess 2": "sonar",
+      "mm-mm": {
+        "Solution guess 3": "solar"
+      },
+      "mmmmm": {
+        "Solution guess 3": "sonar"
+      }
+    },
+    "m--mw": {
+      "guess 2": "stern",
+      "m-mm-": {
+        "Solution guess 3": "sperm"
+      },
+      "mmmmm": {
+        "Solution guess 3": "stern"
+      }
+    },
+    "-wwmm": {
+      "Solution guess 2": "adore"
+    },
+    "wwwwm": {
+      "Solution guess 2": "arose"
+    },
+    "wwww-": {
+      "Solution guess 2": "arson"
+    },
+    "-wmw-": {
+      "Solution guess 2": "bravo"
+    },
+    "wwm--": {
+      "Solution guess 2": "chaos"
+    },
+    "-mwm-": {
+      "Solution guess 2": "cobra"
+    },
+    "w-mwm": {
+      "Solution guess 2": "erase"
+    },
+    "-wwmw": {
+      "Solution guess 2": "opera"
+    },
+    "-wmm-": {
+      "Solution guess 2": "ovary"
+    },
+    "-wm-m": {
+      "Solution guess 2": "ovate"
+    },
+    "-wm--": {
+      "Solution guess 2": "piano"
+    },
+    "ww-wm": {
+      "Solution guess 2": "prose"
+    },
+    "-mmw-": {
+      "Solution guess 2": "roach"
+    },
+    "wmmw-": {
+      "Solution guess 2": "roast"
+    },
+    "mwww-": {
+      "Solution guess 2": "savor"
+    },
+    "mw-w-": {
+      "Solution guess 2": "scour"
+    },
+    "mmm--": {
+      "Solution guess 2": "soapy"
+    },
+    "mm--m": {
+      "Solution guess 2": "solve"
+    },
+    "mm-m-": {
+      "Solution guess 2": "sorry"
+    },
+    "m-mw-": {
+      "Solution guess 2": "stair"
+    },
+    "w--m-": {
+      "Solution guess 2": "usurp"
+    },
+    "ww-ww": {
+      "Solution guess 2": "verso"
+    }
+  }
+}

@@ -5,6 +5,9 @@ import argparse
 import random
 import time
 
+def max_entropy(reward_dict: dict):
+    return max(reward_dict.values())
+
 def expected_entropy(reward_dict: dict):
     # Assume that each pool in the reward_dict is a uniform distribution
     # Assume that the chance of landing in one of these pools is
@@ -73,7 +76,8 @@ def assemble_wordlists(guess:str, wordlist: list):
     return ret_dict
 
 
-def find_best_guesses(master_wordlist: list, wordlist: list):
+def find_best_guesses(master_wordlist: list, wordlist: list, entropy_type =
+        "expected Shannon"):
 
     # We will fill our reward string with
     # "-" for no match
@@ -85,10 +89,12 @@ def find_best_guesses(master_wordlist: list, wordlist: list):
     # "emeer", the reward string would be 
     # "w-m--"
 
+    entropy = expected_entropy
+    if entropy_type == "max": entropy = max_entropy
     E_H = {}
     best_guess = ""
     # Max entropy should be at the most log base 2 -- this is bigger
-    best_entropy = math.log(len(wordlist))
+    best_entropy = 2 * len(wordlist)
 
     counter = 0
     step = int(0.5 + len(master_wordlist) / 100.0)
@@ -111,7 +117,7 @@ def find_best_guesses(master_wordlist: list, wordlist: list):
                 reward_dict[reward_string] = 1
             else:
                 reward_dict[reward_string] += 1
-        E_H[guess] = expected_entropy(reward_dict)
+        E_H[guess] = entropy(reward_dict)
         if E_H[guess] < best_entropy:
             best_guess = guess
             best_entropy = E_H[guess]
@@ -128,7 +134,9 @@ def recursive_solver(
         depth_limit: int, 
         current_depth: int,
         num_options: int,
-        min_wordlist_len: int):
+        min_wordlist_len: int,
+        results_dict: dict,
+        entropy_type="expected Shannon"):
 
     at_max_depth = (current_depth+1 == depth_limit)
     if at_max_depth: 
@@ -137,20 +145,24 @@ def recursive_solver(
         num_items = 1
     for j in wordlists:
         if len(wordlists[j]) >= min_wordlist_len:
+            if len(wordlists[j]) == 1:
+                if j == "m"*len(j):
+                    results_dict[j] = {"Solution guess "+str(current_depth):\
+                        wordlists[j][0]}
+                    continue
+                results_dict[j] = {"Solution guess "+str(current_depth+1):\
+                        wordlists[j][0]}
+                continue
             next_wordlists, E_H, best_guess = \
-                    find_best_guesses(master_wordlist,wordlists[j])
-            print(current_depth*"   "+"best guess for "+j+\
-                    "("+str(len(wordlists[j]))+"): ", end="")
+                    find_best_guesses(master_wordlist,wordlists[j], entropy_type)
             if num_items == 1: 
                 # We have to take best guess here, otherwise we might list 
                 # a guess with equivalent entropy, but not in the solution set
                 top_items=[best_guess]
             else:
                 top_items = dict(list(E_H.items())[:num_items])
+            results_dict[j]={"guess "+str(current_depth+1):best_guess}
 
-            for k in top_items:
-                print(" "+k+"({:.3f}".format(E_H[k])+")",end="")
-            print("")
             if not at_max_depth: 
                 recursive_solver(
                         master_wordlist = master_wordlist,
@@ -158,7 +170,9 @@ def recursive_solver(
                         depth_limit = depth_limit,
                         current_depth = current_depth+1,
                         num_options = num_options,
-                        min_wordlist_len = min_wordlist_len)
+                        min_wordlist_len = min_wordlist_len,
+                        results_dict = results_dict[j],
+                        entropy_type = entropy_type)
 
 def retrieve_guess_result(wordlist_dict_keys: list): 
     guess_result = "" 
@@ -203,9 +217,12 @@ if __name__ == "__main__":
     parser.add_argument("-m", "--min_list_size", 
             help="parameter for exhaustion:  minimum size of list that will be evaluated. Default=100", 
         default=100, type=int)
+    parser.add_argument("-f", "--file",
+            help="parameter for exhaustion:  name of output json file")
     parser.add_argument("-l", "--word_length", 
             help="length of words to consider. Default=5",
             default=5, type=int)
+    parser.add_argument("-a", "--entropy_type", help="type of entropy to use")
     args = parser.parse_args()
 
 
@@ -220,6 +237,9 @@ if __name__ == "__main__":
     with open(solutions_wordlist, "r") as infile:
         possible_solutions = infile.read().splitlines()
     wordlists = {"start":possible_solutions}
+    entropy_type="expected Shannon"
+    if args.entropy_type is not None:
+        entropy_type = args.entropy_type
 
     if args.play or args.uselist:
         guess_count = 1
@@ -238,7 +258,7 @@ if __name__ == "__main__":
             guess_count += 1
 
         wordlist_dict, E_H, best_guess = \
-                find_best_guesses(master_wordlist, wordlist)
+                find_best_guesses(master_wordlist, wordlist, entropy_type)
         guess_result = ""
         while guess_result != "m"*args.word_length:
             guess = retrieve_guess(master_wordlist, best_guess, guess_count)
@@ -259,16 +279,21 @@ if __name__ == "__main__":
             if possibilities < 10:
                 for i in wordlist_dict[guess_result]: print(i)
             wordlist_dict, E_H, best_guess = find_best_guesses(master_wordlist,
-                    wordlist_dict[guess_result])
+                    wordlist_dict[guess_result], entropy_type)
             guess_count += 1
     elif args.exhaust:
+        results_dict = {}
         recursive_solver(
             master_wordlist = master_wordlist,
             wordlists = wordlists,
             depth_limit = args.depth,
             current_depth = 0,
             num_options = args.options,
-            min_wordlist_len = args.min_list_size)
+            min_wordlist_len = args.min_list_size,
+            results_dict = results_dict)
+        if args.file is not None:
+            with open(args.file, "w") as outfile:
+                json.dump(results_dict, outfile, indent=2)
     else: #do wordguess
         random.seed(time.time())
         secret_word = random.choice(possible_solutions)
