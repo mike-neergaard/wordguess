@@ -90,7 +90,8 @@ def find_best_guesses(master_wordlist: list, wordlist: list, entropy_type =
     # "w-m--"
 
     entropy = expected_entropy
-    if entropy_type == "max": entropy = max_entropy
+    if entropy_type == "max": 
+        entropy = max_entropy
     E_H = {}
     best_guess = ""
     # Max entropy should be at the most log base 2 -- this is bigger
@@ -244,6 +245,7 @@ if __name__ == "__main__":
     if args.play or args.uselist:
         guess_count = 1
         wordlist  = possible_solutions
+        print_thresh = 21
         if args.uselist:
             with open("canned_first_option.json", "r") as infile:
                 config_dict = json.load(infile)
@@ -253,7 +255,7 @@ if __name__ == "__main__":
             guess_result = retrieve_guess_result(list(wordlist_dict.keys()))
             wordlist = wordlist_dict[guess_result]
             print(str(len(wordlist))+" possibilities remaining.")
-            if len(wordlist) < 21:
+            if len(wordlist) < print_thresh:
                 for i in wordlist: print(i)
             guess_count += 1
 
@@ -276,7 +278,7 @@ if __name__ == "__main__":
                 print("One possibility remaining")
             else:
                 print(possibilities, "possibilities remaining")
-            if possibilities < 10:
+            if possibilities < print_thresh:
                 for i in wordlist_dict[guess_result]: print(i)
             wordlist_dict, E_H, best_guess = find_best_guesses(master_wordlist,
                     wordlist_dict[guess_result], entropy_type)
@@ -290,10 +292,11 @@ if __name__ == "__main__":
             current_depth = 0,
             num_options = args.options,
             min_wordlist_len = args.min_list_size,
-            results_dict = results_dict)
+            results_dict = results_dict,
+            entropy_type = entropy_type)
         if args.file is not None:
             with open(args.file, "w") as outfile:
-                json.dump(results_dict, outfile, indent=2)
+                json.dump(results_dict["start"], outfile, indent=2)
     else: #do wordguess
         random.seed(time.time())
         secret_word = random.choice(possible_solutions)
